@@ -1,4 +1,4 @@
-# hackaton
+# Hack’n’Roll js API Client
 
 apiClient.js - клиент для API https://pre.russia.travel/apidoc/library/
 
