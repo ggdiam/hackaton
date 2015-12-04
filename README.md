@@ -2,12 +2,11 @@
 
 apiClient.js - клиент для API https://pre.russia.travel/apidoc/library/
 
-Примеры вызова метода "Справочник сервисов объектов"
-apiClient.getServices
+Примеры вызова метода "Справочник сервисов объектов" - apiClient.getServices
 ```
 apiClient.getServices().then((data) => {
     console.log(inspect(data, { colors: true, depth: Infinity }));
-}).catch((err)=>{
+}).catch((err) => {
     console.log('err', err);
 });
 ```
