@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+    <items>
+        <item id="a9e41e68" nid="53" name="Зоопарки, океанариумы, дельфинарии">
+            <groups>
+                <group nid="2">rostur_culture</group>
+            </groups>
+            <name>
+                <text lang="rus">Зоопарки, океанариумы, дельфинарии</text>
+                <text lang="eng">Zoos, aquariums, dolphinariums</text>
+                <text lang="deu">Zoos, Meerwasseraquarien, delfinarium</text>
+                <text lang="fra">Les zoos, okeanariumy, les dauphins</text>
+                <text lang="spa">Los zoos, океанариумы, el delfinario</text>
+                <text lang="zho">动物园，水族馆dolphinariums</text>
+                <text lang="jpn">動物園、水族館、イルカ</text>
+                <text lang="ara">حدائق الحيوان, أحواض, dolphinariums</text>
+            </name>
+        </item>
+        <item id="503166f7" nid="55" name="Регион">
+            <name>
+                <text lang="rus">Регион</text>
+                <text lang="eng">The region</text>
+                <text lang="deu">Region</text>
+                <text lang="fra">Région</text>
+                <text lang="spa">Región</text>
+                <text lang="zho">该区域</text>
+                <text lang="jpn">地域</text>
+                <text lang="ara">المنطقة</text>
+            </name>
+        </item>
+    </items>
+    <responseCode>200</responseCode>
+    <responseMessage>Запрос успешен</responseMessage>
+</response>
