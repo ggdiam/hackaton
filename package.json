@@ -6,7 +6,8 @@
   "dependencies": {
     "blueimp-md5": "^1.1.1",
     "superagent": "git+https://github.com/visionmedia/superagent.git",
-    "xml-parser": "^1.2.1"
+    "xml-parser": "^1.2.1",
+    "xml2json": "^0.9.0"
   },
   "devDependencies": {},
   "scripts": {

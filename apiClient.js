@@ -1,8 +1,11 @@
-import parse from 'xml-parser';
+import parser from 'xml2json';
 import { inspect } from 'util';
 import { md5 } from 'blueimp-md5'
 import config from './config';
 import http from 'superagent';
+import fs from 'fs';
+
+import { createItemsWithFields } from './apiObjectsFactory';
 
 const REQ_HEAD = `<?xml version="1.0" encoding="UTF-8"?>`;
 
@@ -10,44 +13,67 @@ const REQ_HEAD = `<?xml version="1.0" encoding="UTF-8"?>`;
 //https://pre.russia.travel/apidoc/library/
 const apiClient = {
     //Справочник типов объектов
-    getObjectTypes: () => getRequest(buildXmlRequest('get-library', 'object-type')),
+    getObjectTypes: () => new Promise((resolve, reject)=>{
+        getRequest(buildXmlRequest('get-library', 'object-type')).then((data)=>{
+            resolve(createItemsWithFields(data, ['id','nid','name']));
+        }).catch(reject);
+    }),
 
     //Справочник групп типов объектов
-    getGroupObjectTypes: () => getRequest(buildXmlRequest('get-library', 'type-group')),
+    getGroupObjectTypes: () => new Promise((resolve, reject)=> {
+        getRequest(buildXmlRequest('get-library', 'type-group')).then((data)=> {
+            resolve(createItemsWithFields(data, ['id','nid','name','group']));
+        }).catch(reject);
+    }),
 
     //Справочник регионов для географической привязки
-    getRegion: () => getRequest(buildXmlRequest('get-library', 'addressRegion')),
+    getRegion: () => new Promise((resolve, reject)=> {
+        getRequest(buildXmlRequest('get-library', 'addressRegion')).then((data)=> {
+            resolve(createItemsWithFields(data, ['id','code','name']));
+        }).catch(reject);
+    }),
 
     //Справочник районов географической привязки
-    getRegionGeo: (region, page) => getRequest(buildXmlRequest('get-library', 'addressRegion', `page="${page}" region="${region}"`)),
+    getRegionGeo: (region, page) => new Promise((resolve, reject)=> {
+        getRequest(buildXmlRequest('get-library', 'addressRegion', `page="${page}" region="${region}"`)).then((data)=> {
+            resolve(createItemsWithFields(data, ['id','code','name']));
+        }).catch(reject);
+    }),
 
     //Справочник объектов регионов географической привязки (города, поселки и др.)
-    getRegionGeoLocal: (region, area, page) => getRequest(buildXmlRequest('get-library', 'addressLocality', `page="${page}" region="${region}" area="${area}"`)),
+    getRegionGeoLocal: (region, area, page) => new Promise((resolve, reject)=> {
+        getRequest(buildXmlRequest('get-library', 'addressLocality', `page="${page}" region="${region}" area="${area}"`)).then((data)=> {
+            resolve(createItemsWithFields(data, ['id','code','name','type','region','area']));
+        }).catch(reject);
+    }),
 
     //Справочник сервисов объектов
-    getServices: () => getRequest(buildXmlRequest('get-library', 'services')),
+    getServices: () => new Promise((resolve, reject)=> {
+        getRequest(buildXmlRequest('get-library', 'services')).then((data)=> {
+            resolve(createItemsWithFields(data, ['id','name']));
+        }).catch(reject);
+    }),
 };
 
-function buildReq(action, type, more) {
-    return `<request action=\"${action}\" type=\"${type}\" ${more} />`;
+//http request
+
+function buildXmlRequest(action, type, more) {
+    return `${REQ_HEAD}\n\<request action=\"${action}\" type=\"${type}\" ${more?more:''} \/\>`;
 }
 
-function buildXmlRequest(action, type) {
-    var request = buildReq(action, type);
-    return `${REQ_HEAD}${request}`;
-}
-
-function getRequest(request) {
+function getRequest(xml) {
     return new Promise((resolve, reject) => {
         var params = {
             //login: 'FB_839541212825123',
             login: 'view',
             hash: 'view',
             //hash: '',
-            //xml: `<?xml version="1.0" encoding="UTF-8"?>
-            //    <request action="get-library" type="object-type" />`
-            xml: buildXmlRequest(request)
+            xml: xml
         };
+
+        console.log('request');
+        console.log(xml);
+        //return;
 
         var reqObj = http
             .post(`${config.api}/`)
@@ -60,10 +86,15 @@ function getRequest(request) {
             }
             else {
                 if (res && res.text) {
-                    let xml = parse(res.text);
-                    console.log(inspect(xml, {colors: true, depth: Infinity}));
+                    fs.writeFile('getServices.xml', res.text, (err)=>{
 
-                    resolve(xml);
+                    });
+
+                    let json = parser.toJson(res.text);
+                    let data = JSON.parse(json);
+                    //console.log(inspect(xml, {colors: true, depth: Infinity}));
+
+                    resolve(data);
                 }
                 else {
                     resolve(null);
