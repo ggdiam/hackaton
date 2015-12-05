@@ -53,12 +53,63 @@ const apiClient = {
             resolve(createItemsWithFields(data, ['id','name']));
         }).catch(reject);
     }),
+
+    findObjects: (itemId, regionIds, point, objectTypes) => new Promise((resolve, reject)=> {
+        getRequest(buildXmlRequestRaw(
+`\<request action="get-objects-for-update" lastupdate="30.04.2014" page="1">
+<items>
+</items>
+<addressRegion>
+</addressRegion>
+<point radius="100">43.585525,39.723062</point>
+<objectType>
+    <id>rostur_active</id>
+</objectType>
+<attributes>
+    <name/>
+    <url/>
+    <geo/>
+    <types/>
+    <addressCountry/>
+    <addressLocality/>
+    <addressArea/>
+    <addressRegion/>
+    <streetAddress/>
+    <photos/>
+    <review/>
+    <videos/>
+    <addressRegion/>
+    <telephone/>
+    <ratingValue/>
+    <minPrice/>
+    <maxPrice/>
+    <priceRange/>
+    <eventLinks/>
+    <historyLinks/>
+    <factsLinks/>
+    <travelLinks/>
+    <tostayLinks/>
+    <factsLinks/>
+    <showYandexPanorama/>
+    <mediaFiles/>
+    <panoramas/>
+</attributes>
+</request>`
+        )).then((data)=> {
+            resolve(data);
+            //resolve(createItemsWithFields(data, ['id','name']));
+        }).catch(reject);
+    })
 };
 
 //http request
 
 function buildXmlRequest(action, type, more) {
     return `${REQ_HEAD}\n\<request action=\"${action}\" type=\"${type}\" ${more?more:''} \/\>`;
+}
+
+function buildXmlRequestRaw(raw) {
+    return `${REQ_HEAD}\n${raw}`;
 }
 
 function getRequest(xml) {
@@ -73,6 +124,7 @@ function getRequest(xml) {
 
         console.log('request');
         console.log(xml);
+        console.log('');
         //return;
 
         var reqObj = http
@@ -86,7 +138,7 @@ function getRequest(xml) {
             }
             else {
                 if (res && res.text) {
-                    //fs.writeFile('getAddressLocality_9972_278151_1.xml', res.text, (err)=>{});
+                    fs.writeFile('findObjects.xml', res.text, (err)=>{});
 
                     let json = parser.toJson(res.text);
                     let data = JSON.parse(json);
