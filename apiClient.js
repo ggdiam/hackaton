@@ -15,7 +15,7 @@ const apiClient = {
     //Справочник типов объектов
     getObjectTypes: () => new Promise((resolve, reject)=>{
         getRequest(buildXmlRequest('get-library', 'object-type')).then((data)=>{
-            resolve(createItemsWithFields(data, ['id','nid','name']));
+            resolve(createItemsWithFields(data, ['id','nid','name','group']));
         }).catch(reject);
     }),
 
@@ -54,53 +54,90 @@ const apiClient = {
         }).catch(reject);
     }),
 
-    findObjects: (itemId, regionIds, point, objectTypes) => new Promise((resolve, reject)=> {
+    findObjects: (itemIds, regionIds, point, objectTypes) => new Promise((resolve, reject)=> {
+        function wrapIdTag(list) {
+            if (list) {
+                list = list.map((item)=>`\<id>${item}</id>`);
+                return list;
+            }
+            return '';
+        }
+
+        function wrapItemIdTag(list) {
+            if (list) {
+                list = list.map((itemId)=>`\<item id="${itemId}"/>`);
+                return list;
+            }
+            return '';
+        }
+
+        var itemIdsString = itemIds ? wrapItemIdTag(itemIds).join('\n') : '';
+        var objectTypesString = objectTypes ? wrapIdTag(objectTypes).join('\n') : '';
+        var regionIdsString = regionIds ? wrapIdTag(regionIds).join('\n') : '';
+
         getRequest(buildXmlRequestRaw(
-`\<request action="get-objects-for-update" lastupdate="30.04.2014" page="1">
+            `\<request action="get-objects-for-update" lastupdate="30.04.2014" page="1">
 <items>
+${itemIdsString}
 </items>
 <addressRegion>
+${regionIdsString}
 </addressRegion>
-<point radius="100">43.585525,39.723062</point>
+${point? `\<point radius="100">${point[0]},${point[1]}</point>` : ''}
 <objectType>
-    <id>rostur_active</id>
+${objectTypesString}
 </objectType>
 <attributes>
     <name/>
     <url/>
     <geo/>
     <types/>
+    <photos/>
     <addressCountry/>
     <addressLocality/>
     <addressArea/>
     <addressRegion/>
     <streetAddress/>
-    <photos/>
-    <review/>
-    <videos/>
-    <addressRegion/>
-    <telephone/>
-    <ratingValue/>
-    <minPrice/>
-    <maxPrice/>
-    <priceRange/>
-    <eventLinks/>
-    <historyLinks/>
-    <factsLinks/>
-    <travelLinks/>
-    <tostayLinks/>
-    <factsLinks/>
-    <showYandexPanorama/>
-    <mediaFiles/>
-    <panoramas/>
 </attributes>
 </request>`
         )).then((data)=> {
-            resolve(data);
-            //resolve(createItemsWithFields(data, ['id','name']));
+            //resolve(data);
+            resolve(createItemsWithFields(data, ['id','name','types','image','photos','url']));
+            //resolve(createItemsWithFields(data, ['id','name','types','geo','image','telephone','addressCountry','addressRegion','streetAddress','photos','published']));
         }).catch(reject);
     })
 };
+
+
+/*
+ <name/>
+ <url/>
+ <geo/>
+ <types/>
+ <addressCountry/>
+ <addressLocality/>
+ <addressArea/>
+ <addressRegion/>
+ <streetAddress/>
+ <photos/>
+ <review/>
+ <videos/>
+ <addressRegion/>
+ <telephone/>
+ <ratingValue/>
+ <minPrice/>
+ <maxPrice/>
+ <priceRange/>
+ <eventLinks/>
+ <historyLinks/>
+ <factsLinks/>
+ <travelLinks/>
+ <tostayLinks/>
+ <factsLinks/>
+ <showYandexPanorama/>
+ <mediaFiles/>
+ <panoramas/>
+ */
 
 //http request
 
@@ -122,9 +159,9 @@ function getRequest(xml) {
             xml: xml
         };
 
-        console.log('request');
-        console.log(xml);
-        console.log('');
+        //console.log('request');
+        //console.log(xml);
+        //console.log('');
         //return;
 
         var reqObj = http
@@ -138,7 +175,7 @@ function getRequest(xml) {
             }
             else {
                 if (res && res.text) {
-                    fs.writeFile('findObjects.xml', res.text, (err)=>{});
+                    //fs.writeFile('findObjects.xml', res.text, (err)=>{});
 
                     let json = parser.toJson(res.text);
                     let data = JSON.parse(json);
