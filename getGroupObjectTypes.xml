@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+    <items>
+        <item id="rostur_event" nid="9" name="Событийный туризм">
+            <name>
+                <text lang="rus">Событийный туризм</text>
+                <text lang="eng">Event tourism</text>
+                <text lang="deu">Event-Tourismus</text>
+                <text lang="fra">Le sondage</text>
+                <text lang="spa">Eventos Turismo</text>
+                <text lang="zho">如旅游业</text>
+                <text lang="jpn">イベント観光</text>
+                <text lang="ara">الحدث السياحة</text>
+            </name>
+        </item>
+        <item id="rostur_news" nid="10" name="Новости">
+            <name>
+                <text lang="rus">Новости</text>
+                <text lang="eng">News</text>
+                <text lang="deu">Nachrichten</text>
+                <text lang="fra">Nouvelles</text>
+                <text lang="spa">Noticias</text>
+                <text lang="zho">消息</text>
+                <text lang="jpn">ニュース</text>
+                <text lang="ara">الأخبار</text>
+            </name>
+        </item>
+        <item id="rostur_culture" nid="2" name="Культура">
+            <name>
+                <text lang="rus">Культура</text>
+                <text lang="eng">Culture</text>
+                <text lang="deu">Kultur</text>
+                <text lang="fra">La culture</text>
+                <text lang="spa">La cultura de la</text>
+                <text lang="zho">文化</text>
+                <text lang="jpn">文化</text>
+                <text lang="ara">الثقافة</text>
+            </name>
+        </item>
+        <item id="rostur_nature" nid="3" name="Природа">
+            <name>
+                <text lang="rus">Природа</text>
+                <text lang="eng">Nature</text>
+                <text lang="deu">Natur</text>
+                <text lang="fra">La nature</text>
+                <text lang="spa">Naturaleza</text>
+                <text lang="zho">性质</text>
+                <text lang="jpn">ネイチャー</text>
+                <text lang="ara">الطبيعة</text>
+            </name>
+        </item>
+        <item id="rostur_traditions" nid="4" name="Традиции">
+            <name>
+                <text lang="rus">Традиции</text>
+                <text lang="eng">Tradition</text>
+                <text lang="deu">Tradition</text>
+                <text lang="fra">Tradition</text>
+                <text lang="spa">La tradición</text>
+                <text lang="zho">传统</text>
+                <text lang="jpn">伝統</text>
+                <text lang="ara">التقليد</text>
+            </name>
+        </item>
+        <item id="rostur_active" nid="5" name="Активный отдых">
+            <name>
+                <text lang="rus">Активный отдых</text>
+                <text lang="eng">Active rest</text>
+                <text lang="deu">Aktive Erholung</text>
+                <text lang="fra">Activités</text>
+                <text lang="spa">El descanso activo</text>
+                <text lang="zho">积极的休息</text>
+                <text lang="jpn">活動的な生活</text>
+                <text lang="ara">الراحة النشطة</text>
+            </name>
+        </item>
+        <item id="rostur_religions" nid="6" name="Религия">
+            <name>
+                <text lang="rus">Религия</text>
+                <text lang="eng">Religion</text>
+                <text lang="deu">Religion</text>
+                <text lang="fra">Religions</text>
+                <text lang="spa">Religión</text>
+                <text lang="zho">宗教</text>
+                <text lang="jpn">宗教</text>
+                <text lang="ara">الدين</text>
+            </name>
+        </item>
+        <item id="rostur_regions" nid="7" name="Интересное о регионе">
+            <name>
+                <text lang="rus">Интересное о регионе</text>
+                <text lang="eng">Interesting about the region</text>
+                <text lang="deu">Interessantes über die Region</text>
+                <text lang="fra">Intéressant sur la région</text>
+                <text lang="spa">De interés de la región</text>
+                <text lang="zho">有趣的区域</text>
+                <text lang="jpn">地域についての興味深い</text>
+                <text lang="ara">مثيرة للاهتمام حول المنطقة</text>
+            </name>
+        </item>
+        <item id="rostur_recreational" nid="8" name="Рекреационный туризм">
+            <name>
+                <text lang="rus">Рекреационный туризм</text>
+                <text lang="eng">Recreational tourism</text>
+                <text lang="deu">Der Tourismus ist</text>
+                <text lang="fra">Le tourisme de loisir</text>
+                <text lang="spa">Recreativo de turismo</text>
+                <text lang="zho">娱乐性旅游业</text>
+                <text lang="jpn">レクリエーション観光</text>
+                <text lang="ara">السياحة الترفيهية</text>
+            </name>
+        </item>
+        <item id="winter_holidays" nid="81" name="Зимний отдых">
+            <name>
+                <text lang="rus">Зимний отдых</text>
+                <text lang="eng">Winter Holidays</text>
+                <text lang="deu">Winterurlaub</text>
+                <text lang="fra">Vacances d'hiver</text>
+                <text lang="spa">Vacaciones de invierno</text>
+                <text lang="zho">冬天假期</text>
+                <text lang="jpn">冬休み</text>
+                <text lang="ara">عطلات الشتاء</text>
+            </name>
+        </item>
+        <item id="rostur_tourist_infr" nid="21" name="Объекты туристкой инфраструктуры">
+            <name>
+                <text lang="rus">Объекты туристкой инфраструктуры</text>
+                <text lang="eng">The objects of tourist infrastructure</text>
+                <text lang="deu">Objekte Tourist-Infrastruktur</text>
+                <text lang="fra">Les objets de l'office du tourisme de l'infrastructure</text>
+                <text lang="spa">Los objetos de la infraestructura de una turista</text>
+                <text lang="zho">该物体的旅游基础设施</text>
+                <text lang="jpn">オブジェクトの観光インフラ</text>
+                <text lang="ara">الكائنات من البنية التحتية السياحية</text>
+            </name>
+        </item>
+        <item id="rostur_locality" nid="41" name="Населенные пункты">
+            <name>
+                <text lang="rus">Населенные пункты</text>
+                <text lang="eng">Human settlements</text>
+                <text lang="deu">Menschliche Siedlungen</text>
+                <text lang="fra">Établissements humains</text>
+                <text lang="spa">Asentamientos humanos</text>
+                <text lang="zho">地方</text>
+                <text lang="jpn">集落</text>
+                <text lang="ara">المناطق</text>
+            </name>
+        </item>
+        <item id="rostur_theater" nid="61" name="Театры">
+            <name>
+                <text lang="rus">Театры</text>
+                <text lang="eng">Theatres</text>
+                <text lang="deu">Theater</text>
+                <text lang="fra">Les théâtres</text>
+                <text lang="spa">Teatros</text>
+                <text lang="zho">剧院</text>
+                <text lang="jpn">劇場</text>
+                <text lang="ara">المسارح</text>
+            </name>
+        </item>
+        <item id="rostur_museum" nid="62" name="Музеи">
+            <name>
+                <text lang="rus">Музеи</text>
+                <text lang="eng">Museums</text>
+                <text lang="deu">Museen</text>
+                <text lang="fra">Les musées</text>
+                <text lang="spa">Museos</text>
+                <text lang="zho">博物馆</text>
+                <text lang="jpn">博物館</text>
+                <text lang="ara">المتاحف</text>
+            </name>
+        </item>
+        <item id="fishing_hunting" nid="101" name="Рыбалка и охота">
+            <name>
+                <text lang="rus">Рыбалка и охота</text>
+                <text lang="eng">Fishing and hunting</text>
+                <text lang="deu">Angeln und Jagd</text>
+                <text lang="fra">De pêche et de chasse</text>
+                <text lang="spa">La pesca y la caza</text>
+                <text lang="zho">捕鱼和狩猎</text>
+                <text lang="jpn">釣りや狩猟</text>
+                <text lang="ara">الصيد والقنص</text>
+            </name>
+        </item>
+    </items>
+    <responseCode>200</responseCode>
+    <responseMessage>Запрос успешен</responseMessage>
+</response>

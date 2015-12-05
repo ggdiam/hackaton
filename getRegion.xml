@@ -1,0 +1,1051 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+    <items>
+        <item id="9962" code="altajskij" name="Алтайский край" type="503166f7">
+            <name>
+                <text lang="rus">Алтайский край</text>
+                <text lang="eng">Altai Krai</text>
+                <text lang="deu">Altai Krai</text>
+                <text lang="fra">Altai Krai</text>
+                <text lang="spa">Altai Krai</text>
+                <text lang="zho">Altai Krai</text>
+                <text lang="jpn">Altai Krai</text>
+                <text lang="ara">Altai Krai</text>
+            </name>
+        </item>
+        <item id="9963" code="amurskaja" name="Амурская область" type="503166f7">
+            <name>
+                <text lang="rus">Амурская область</text>
+                <text lang="eng">Amur region</text>
+                <text lang="deu">Amur region</text>
+                <text lang="fra">Amur region</text>
+                <text lang="spa">Amur region</text>
+                <text lang="zho">Amur region</text>
+                <text lang="jpn">Amur region</text>
+                <text lang="ara">Amur region</text>
+            </name>
+        </item>
+        <item id="10527" code="arhangelskaja" name="Архангельская область" type="503166f7">
+            <name>
+                <text lang="rus">Архангельская область</text>
+                <text lang="eng">Arkhangelsk region</text>
+                <text lang="deu">Arkhangelsk region</text>
+                <text lang="fra">Arkhangelsk region</text>
+                <text lang="spa">Arkhangelsk region</text>
+                <text lang="zho">Arkhangelsk region</text>
+                <text lang="jpn">Arkhangelsk region</text>
+                <text lang="ara">Arkhangelsk region</text>
+            </name>
+        </item>
+        <item id="10528" code="Astrahanskaja" name="Астраханская область" type="503166f7">
+            <name>
+                <text lang="rus">Астраханская область</text>
+                <text lang="eng">Astrakhan region</text>
+                <text lang="deu">Astrakhan region</text>
+                <text lang="fra">Astrakhan region</text>
+                <text lang="spa">Astrakhan region</text>
+                <text lang="zho">Astrakhan region</text>
+                <text lang="jpn">Astrakhan region</text>
+                <text lang="ara">Astrakhan region</text>
+            </name>
+        </item>
+        <item id="9964" code="belgorodskaja" name="Белгородская область" type="503166f7">
+            <name>
+                <text lang="rus">Белгородская область</text>
+                <text lang="eng">Belgorod region</text>
+                <text lang="deu">Belgorod region</text>
+                <text lang="fra">Belgorod region</text>
+                <text lang="spa">Belgorod region</text>
+                <text lang="zho">Belgorod region</text>
+                <text lang="jpn">Belgorod region</text>
+                <text lang="ara">Belgorod region</text>
+            </name>
+        </item>
+        <item id="9965" code="brjanskaja" name="Брянская область" type="503166f7">
+            <name>
+                <text lang="rus">Брянская область</text>
+                <text lang="eng">Bryansk region</text>
+                <text lang="deu">Bryansk region</text>
+                <text lang="fra">Bryansk region</text>
+                <text lang="spa">Bryansk region</text>
+                <text lang="zho">Bryansk region</text>
+                <text lang="jpn">Bryansk region</text>
+                <text lang="ara">Bryansk region</text>
+            </name>
+        </item>
+        <item id="9966" code="vladimirskaya" name="Владимирская область" type="503166f7">
+            <name>
+                <text lang="rus">Владимирская область</text>
+                <text lang="eng">Vladimir region</text>
+                <text lang="deu">Vladimir region</text>
+                <text lang="fra">Vladimir region</text>
+                <text lang="spa">Vladimir region</text>
+                <text lang="zho">Vladimir region</text>
+                <text lang="jpn">Vladimir region</text>
+                <text lang="ara">Vladimir region</text>
+            </name>
+        </item>
+        <item id="10530" code="volgogradskaja" name="Волгоградская область" type="503166f7">
+            <name>
+                <text lang="rus">Волгоградская область</text>
+                <text lang="eng">Volgograd region</text>
+                <text lang="deu">Volgograd region</text>
+                <text lang="fra">Volgograd region</text>
+                <text lang="spa">Volgograd region</text>
+                <text lang="zho">Volgograd region</text>
+                <text lang="jpn">Volgograd region</text>
+                <text lang="ara">Volgograd region</text>
+            </name>
+        </item>
+        <item id="10003" code="vologodskaja" name="Вологодская область" type="503166f7">
+            <name>
+                <text lang="rus">Вологодская область</text>
+                <text lang="eng">Vologda region</text>
+                <text lang="deu">Vologda region</text>
+                <text lang="fra">Vologda region</text>
+                <text lang="spa">Vologda region</text>
+                <text lang="zho">Vologda region</text>
+                <text lang="jpn">Vologda region</text>
+                <text lang="ara">Vologda region</text>
+            </name>
+        </item>
+        <item id="9967" code="voronezhskaja" name="Воронежская область" type="503166f7">
+            <name>
+                <text lang="rus">Воронежская область</text>
+                <text lang="eng">Voronezh region</text>
+                <text lang="deu">Voronezh region</text>
+                <text lang="fra">Voronezh region</text>
+                <text lang="spa">Voronezh region</text>
+                <text lang="zho">Voronezh region</text>
+                <text lang="jpn">Voronezh region</text>
+                <text lang="ara">Voronezh region</text>
+            </name>
+        </item>
+        <item id="9961" code="peterburg" name="Город Санкт-Петербург" type="891c9dcf">
+            <name>
+                <text lang="rus">Город Санкт-Петербург</text>
+                <text lang="eng">The City Of St. Petersburg</text>
+                <text lang="deu">The City Of St. Petersburg</text>
+                <text lang="fra">The City Of St. Petersburg</text>
+                <text lang="spa">The City Of St. Petersburg</text>
+                <text lang="zho">The City Of St. Petersburg</text>
+                <text lang="jpn">The City Of St. Petersburg</text>
+                <text lang="ara">The City Of St. Petersburg</text>
+            </name>
+        </item>
+        <item id="11568" code="evrejskaja" name="Еврейская автономная область" type="503166f7">
+            <name>
+                <text lang="rus">Еврейская автономная область</text>
+                <text lang="eng">The Jewish Autonomous region</text>
+                <text lang="deu">The Jewish Autonomous region</text>
+                <text lang="fra">The Jewish Autonomous region</text>
+                <text lang="spa">The Jewish Autonomous region</text>
+                <text lang="zho">The Jewish Autonomous region</text>
+                <text lang="jpn">The Jewish Autonomous region</text>
+                <text lang="ara">The Jewish Autonomous region</text>
+            </name>
+        </item>
+        <item id="9968" code="zabaikalskiy" name="Забайкальский край" type="503166f7">
+            <name>
+                <text lang="rus">Забайкальский край</text>
+                <text lang="eng">Zabaikalsky Krai</text>
+                <text lang="deu">Zabaikalsky Krai</text>
+                <text lang="fra">Zabaikalsky Krai</text>
+                <text lang="spa">Zabaikalsky Krai</text>
+                <text lang="zho">Zabaikalsky Krai</text>
+                <text lang="jpn">Zabaikalsky Krai</text>
+                <text lang="ara">Zabaikalsky Krai</text>
+            </name>
+        </item>
+        <item id="10531" code="i" name="Ивановская область" type="503166f7">
+            <name>
+                <text lang="rus">Ивановская область</text>
+                <text lang="eng">Ivanovo region</text>
+                <text lang="deu">Ivanovo region</text>
+                <text lang="fra">Ivanovo region</text>
+                <text lang="spa">Ivanovo region</text>
+                <text lang="zho">Ivanovo region</text>
+                <text lang="jpn">Ivanovo region</text>
+                <text lang="ara">Ivanovo region</text>
+            </name>
+        </item>
+        <item id="10533" code="irkutskaja" name="Иркутская область" type="503166f7">
+            <name>
+                <text lang="rus">Иркутская область</text>
+                <text lang="eng">Irkutsk region</text>
+                <text lang="deu">Irkutsk region</text>
+                <text lang="fra">Irkutsk region</text>
+                <text lang="spa">Irkutsk region</text>
+                <text lang="zho">Иркутская область</text>
+                <text lang="jpn">Irkutsk region</text>
+                <text lang="ara">Irkutsk region</text>
+            </name>
+        </item>
+        <item id="9969" code="kabardino-balkarija" name="Кабардино-Балкарская Республика" type="503166f7">
+            <name>
+                <text lang="rus">Кабардино-Балкарская Республика</text>
+                <text lang="eng">Kabardino-Balkar Republic</text>
+                <text lang="deu">Kabardino-Balkar Republic</text>
+                <text lang="fra">Kabardino-Balkar Republic</text>
+                <text lang="spa">Kabardino-Balkar Republic</text>
+                <text lang="zho">Kabardino-Balkar Republic</text>
+                <text lang="jpn">Kabardino-Balkar Republic</text>
+                <text lang="ara">Kabardino-Balkar Republic</text>
+            </name>
+        </item>
+        <item id="282709" code="kmv" name="Кавказские Минеральные Воды" type="503166f7">
+            <name>
+                <text lang="rus">Кавказские Минеральные Воды</text>
+                <text lang="eng">-</text>
+                <text lang="deu">-</text>
+                <text lang="fra">-</text>
+                <text lang="spa">-</text>
+                <text lang="zho">-</text>
+                <text lang="jpn">-</text>
+                <text lang="ara">-</text>
+            </name>
+        </item>
+        <item id="9970" code="kaliningradskaja" name="Калининградская область" type="503166f7">
+            <name>
+                <text lang="rus">Калининградская область</text>
+                <text lang="eng">Kaliningrad region</text>
+                <text lang="deu">Kaliningrad region</text>
+                <text lang="fra">Kaliningrad region</text>
+                <text lang="spa">Kaliningrad region</text>
+                <text lang="zho">Kaliningrad region</text>
+                <text lang="jpn">Kaliningrad region</text>
+                <text lang="ara">Kaliningrad region</text>
+            </name>
+        </item>
+        <item id="10004" code="kaluzhskaja" name="Калужская область" type="503166f7">
+            <name>
+                <text lang="rus">Калужская область</text>
+                <text lang="eng">Kaluga region</text>
+                <text lang="deu">Kaluga region</text>
+                <text lang="fra">Kaluga region</text>
+                <text lang="spa">Kaluga region</text>
+                <text lang="zho">Kaluga region</text>
+                <text lang="jpn">Kaluga region</text>
+                <text lang="ara">Kaluga region</text>
+            </name>
+        </item>
+        <item id="9971" code="kamchatka" name="Камчатский край" type="503166f7">
+            <name>
+                <text lang="rus">Камчатский край</text>
+                <text lang="eng">Kamchatskiy Krai</text>
+                <text lang="deu">Kamchatskiy Krai</text>
+                <text lang="fra">Kamchatskiy Krai</text>
+                <text lang="spa">Kamchatskiy Krai</text>
+                <text lang="zho">Kamchatskiy Krai</text>
+                <text lang="jpn">Kamchatskiy Krai</text>
+                <text lang="ara">Kamchatskiy Krai</text>
+            </name>
+        </item>
+        <item id="9972" code="kchr" name="Карачаево-Черкесская Республика" type="503166f7">
+            <name>
+                <text lang="rus">Карачаево-Черкесская Республика</text>
+                <text lang="eng">The Republic Of Karachay-Cherkessia</text>
+                <text lang="deu">The Republic Of Karachay-Cherkessia</text>
+                <text lang="fra">The Republic Of Karachay-Cherkessia</text>
+                <text lang="spa">The Republic Of Karachay-Cherkessia</text>
+                <text lang="zho">The Republic Of Karachay-Cherkessia</text>
+                <text lang="jpn">The Republic Of Karachay-Cherkessia</text>
+                <text lang="ara">The Republic Of Karachay-Cherkessia</text>
+            </name>
+        </item>
+        <item id="10501" code="kemerovskaja" name="Кемеровская область" type="503166f7">
+            <name>
+                <text lang="rus">Кемеровская область</text>
+                <text lang="eng">Kemerovo region</text>
+                <text lang="deu">Kemerovo region</text>
+                <text lang="fra">Kemerovo region</text>
+                <text lang="spa">Kemerovo region</text>
+                <text lang="zho">Kemerovo region</text>
+                <text lang="jpn">Kemerovo region</text>
+                <text lang="ara">Kemerovo region</text>
+            </name>
+        </item>
+        <item id="10503" code="kirovskaja" name="Кировская область" type="503166f7">
+            <name>
+                <text lang="rus">Кировская область</text>
+                <text lang="eng">Kirov region</text>
+                <text lang="deu">Kirov region</text>
+                <text lang="fra">Kirov region</text>
+                <text lang="spa">Kirov region</text>
+                <text lang="zho">Kirov region</text>
+                <text lang="jpn">Kirov region</text>
+                <text lang="ara">Kirov region</text>
+            </name>
+        </item>
+        <item id="10506" code="kostromskaja" name="Костромская область" type="503166f7">
+            <name>
+                <text lang="rus">Костромская область</text>
+                <text lang="eng">Kostroma region</text>
+                <text lang="deu">Kostroma region</text>
+                <text lang="fra">Kostroma region</text>
+                <text lang="spa">Kostroma region</text>
+                <text lang="zho">Kostroma region</text>
+                <text lang="jpn">Kostroma region</text>
+                <text lang="ara">Kostroma region</text>
+            </name>
+        </item>
+        <item id="9973" code="krasnodarskij" name="Краснодарский край" type="503166f7">
+            <name>
+                <text lang="rus">Краснодарский край</text>
+                <text lang="eng">Krasnodar region</text>
+                <text lang="deu">Krasnodar region</text>
+                <text lang="fra">Krasnodar region</text>
+                <text lang="spa">Krasnodar region</text>
+                <text lang="zho">Krasnodar region</text>
+                <text lang="jpn">Krasnodar region</text>
+                <text lang="ara">Krasnodar region</text>
+            </name>
+        </item>
+        <item id="9974" code="krasnojarskij" name="Красноярский край" type="503166f7">
+            <name>
+                <text lang="rus">Красноярский край</text>
+                <text lang="eng">Krasnoyarsk region</text>
+                <text lang="deu">Krasnoyarsk region</text>
+                <text lang="fra">Krasnoyarsk region</text>
+                <text lang="spa">Krasnoyarsk region</text>
+                <text lang="zho">Krasnoyarsk region</text>
+                <text lang="jpn">Krasnoyarsk region</text>
+                <text lang="ara">Krasnoyarsk region</text>
+            </name>
+        </item>
+        <item id="279394" code="" name="Крымский федеральный округ" type="503166f7">
+            <name>
+                <text lang="rus">Крымский федеральный округ</text>
+                <text lang="eng">-</text>
+                <text lang="deu">-</text>
+                <text lang="fra">-</text>
+                <text lang="spa">-</text>
+                <text lang="zho">-</text>
+                <text lang="jpn">-</text>
+                <text lang="ara">-</text>
+            </name>
+        </item>
+        <item id="10508" code="kurganskaja" name="Курганская область" type="503166f7">
+            <name>
+                <text lang="rus">Курганская область</text>
+                <text lang="eng">Kurgan region</text>
+                <text lang="deu">Kurgan region</text>
+                <text lang="fra">Kurgan region</text>
+                <text lang="spa">Kurgan region</text>
+                <text lang="zho">Kurgan region</text>
+                <text lang="jpn">Kurgan region</text>
+                <text lang="ara">Kurgan region</text>
+            </name>
+        </item>
+        <item id="10511" code="kurskaja" name="Курская область" type="503166f7">
+            <name>
+                <text lang="rus">Курская область</text>
+                <text lang="eng">Kursk region</text>
+                <text lang="deu">Kursk region</text>
+                <text lang="fra">Kursk region</text>
+                <text lang="spa">Kursk region</text>
+                <text lang="zho">Kursk region</text>
+                <text lang="jpn">Kursk region</text>
+                <text lang="ara">Kursk region</text>
+            </name>
+        </item>
+        <item id="8115" code="leningradskaja" name="Ленинградская область" type="503166f7">
+            <name>
+                <text lang="rus">Ленинградская область</text>
+                <text lang="eng">Leningrad region</text>
+                <text lang="deu">Leningrad region</text>
+                <text lang="fra">Leningrad region</text>
+                <text lang="spa">Leningrad region</text>
+                <text lang="zho">Leningrad region</text>
+                <text lang="jpn">Leningrad region</text>
+                <text lang="ara">Leningrad region</text>
+            </name>
+        </item>
+        <item id="10513" code="lipeckaja" name="Липецкая область" type="503166f7">
+            <name>
+                <text lang="rus">Липецкая область</text>
+                <text lang="eng">Lipetsk region</text>
+                <text lang="deu">Lipetsk region</text>
+                <text lang="fra">Lipetsk region</text>
+                <text lang="spa">Lipetsk region</text>
+                <text lang="zho">Lipetsk region</text>
+                <text lang="jpn">Lipetsk region</text>
+                <text lang="ara">Lipetsk region</text>
+            </name>
+        </item>
+        <item id="10516" code="Magadanskaya" name="Магаданская область" type="503166f7">
+            <name>
+                <text lang="rus">Магаданская область</text>
+                <text lang="eng">Magadan region</text>
+                <text lang="deu">Magadan region</text>
+                <text lang="fra">Magadan region</text>
+                <text lang="spa">Magadan region</text>
+                <text lang="zho">Magadan region</text>
+                <text lang="jpn">Magadan region</text>
+                <text lang="ara">Magadan region</text>
+            </name>
+        </item>
+        <item id="8116" code="moskva" name="Москва" type="6df5b7d7">
+            <name>
+                <text lang="rus">Москва</text>
+                <text lang="eng">The City Of Moscow</text>
+                <text lang="deu">The City Of Moscow</text>
+                <text lang="fra">The City Of Moscow</text>
+                <text lang="spa">The City Of Moscow</text>
+                <text lang="zho">The City Of Moscow</text>
+                <text lang="jpn">The City Of Moscow</text>
+                <text lang="ara">The City Of Moscow</text>
+            </name>
+        </item>
+        <item id="8117" code="moskovskaja" name="Московская область" type="503166f7">
+            <name>
+                <text lang="rus">Московская область</text>
+                <text lang="eng">The Moscow region</text>
+                <text lang="deu">The Moscow region</text>
+                <text lang="fra">The Moscow region</text>
+                <text lang="spa">The Moscow region</text>
+                <text lang="zho">The Moscow region</text>
+                <text lang="jpn">The Moscow region</text>
+                <text lang="ara">The Moscow region</text>
+            </name>
+        </item>
+        <item id="10517" code="murmanskaja" name="Мурманская область" type="503166f7">
+            <name>
+                <text lang="rus">Мурманская область</text>
+                <text lang="eng">Murmansk region</text>
+                <text lang="deu">Murmansk region</text>
+                <text lang="fra">Murmansk region</text>
+                <text lang="spa">Murmansk region</text>
+                <text lang="zho">Murmansk region</text>
+                <text lang="jpn">Murmansk region</text>
+                <text lang="ara">Murmansk region</text>
+            </name>
+        </item>
+        <item id="10519" code="neneckij" name="Ненецкий автономный округ" type="503166f7">
+            <name>
+                <text lang="rus">Ненецкий автономный округ</text>
+                <text lang="eng">Nenets Autonomous Okrug</text>
+                <text lang="deu">Nenets Autonomous Okrug</text>
+                <text lang="fra">Nenets Autonomous Okrug</text>
+                <text lang="spa">Nenets Autonomous Okrug</text>
+                <text lang="zho">Nenets Autonomous Okrug</text>
+                <text lang="jpn">Nenets Autonomous Okrug</text>
+                <text lang="ara">Nenets Autonomous Okrug</text>
+            </name>
+        </item>
+        <item id="10521" code="nizhegorodskaja" name="Нижегородская область" type="503166f7">
+            <name>
+                <text lang="rus">Нижегородская область</text>
+                <text lang="eng">The Nizhny Novgorod region</text>
+                <text lang="deu">The Nizhny Novgorod region</text>
+                <text lang="fra">The Nizhny Novgorod region</text>
+                <text lang="spa">The Nizhny Novgorod region</text>
+                <text lang="zho">The Nizhny Novgorod region</text>
+                <text lang="jpn">The Nizhny Novgorod region</text>
+                <text lang="ara">The Nizhny Novgorod region</text>
+            </name>
+        </item>
+        <item id="10522" code="novgorodskaja" name="Новгородская область" type="503166f7">
+            <name>
+                <text lang="rus">Новгородская область</text>
+                <text lang="eng">Novgorod region</text>
+                <text lang="deu">Novgorod region</text>
+                <text lang="fra">Novgorod region</text>
+                <text lang="spa">Novgorod region</text>
+                <text lang="zho">Novgorod region</text>
+                <text lang="jpn">Novgorod region</text>
+                <text lang="ara">Novgorod region</text>
+            </name>
+        </item>
+        <item id="10524" code="novosibirskaja" name="Новосибирская область" type="503166f7">
+            <name>
+                <text lang="rus">Новосибирская область</text>
+                <text lang="eng">Novosibirsk region</text>
+                <text lang="deu">Novosibirsk region</text>
+                <text lang="fra">Novosibirsk region</text>
+                <text lang="spa">Novosibirsk region</text>
+                <text lang="zho">Novosibirsk region</text>
+                <text lang="jpn">Novosibirsk region</text>
+                <text lang="ara">Novosibirsk region</text>
+            </name>
+        </item>
+        <item id="10526" code="omskaja" name="Омская область" type="503166f7">
+            <name>
+                <text lang="rus">Омская область</text>
+                <text lang="eng"/>
+                <text lang="deu">Omsk region</text>
+                <text lang="fra">Omsk region</text>
+                <text lang="spa"/>
+                <text lang="zho">Омская область</text>
+                <text lang="jpn">Omsk region</text>
+                <text lang="ara">Омская область</text>
+            </name>
+        </item>
+        <item id="10529" code="orenburgskaya" name="Оренбургская область" type="503166f7">
+            <name>
+                <text lang="rus">Оренбургская область</text>
+                <text lang="eng">Orenburg region</text>
+                <text lang="deu">Orenburg region</text>
+                <text lang="fra">Orenburg region</text>
+                <text lang="spa">Orenburg region</text>
+                <text lang="zho">Orenburg region</text>
+                <text lang="jpn">Orenburg region</text>
+                <text lang="ara">Orenburg region</text>
+            </name>
+        </item>
+        <item id="10532" code="orlovskaja" name="Орловская область" type="503166f7">
+            <name>
+                <text lang="rus">Орловская область</text>
+                <text lang="eng">Orel region</text>
+                <text lang="deu">Orel region</text>
+                <text lang="fra">Orel region</text>
+                <text lang="spa">Orel region</text>
+                <text lang="zho">Orel region</text>
+                <text lang="jpn">Orel region</text>
+                <text lang="ara">Orel region</text>
+            </name>
+        </item>
+        <item id="9981" code="penzenskaja" name="Пензенская область" type="503166f7">
+            <name>
+                <text lang="rus">Пензенская область</text>
+                <text lang="eng">Penza region</text>
+                <text lang="deu">Penza region</text>
+                <text lang="fra">Penza region</text>
+                <text lang="spa">Penza region</text>
+                <text lang="zho">Penza region</text>
+                <text lang="jpn">Penza region</text>
+                <text lang="ara">Penza region</text>
+            </name>
+        </item>
+        <item id="9975" code="permskij" name="Пермский край" type="503166f7">
+            <name>
+                <text lang="rus">Пермский край</text>
+                <text lang="eng">Perm Krai</text>
+                <text lang="deu">Perm Krai</text>
+                <text lang="fra">Perm Krai</text>
+                <text lang="spa">Perm Krai</text>
+                <text lang="zho">Perm Krai</text>
+                <text lang="jpn">Perm Krai</text>
+                <text lang="ara">Perm Krai</text>
+            </name>
+        </item>
+        <item id="9976" code="primorskij" name="Приморский край" type="503166f7">
+            <name>
+                <text lang="rus">Приморский край</text>
+                <text lang="eng">Primorsky Krai</text>
+                <text lang="deu">Primorsky Krai</text>
+                <text lang="fra">Primorsky Krai</text>
+                <text lang="spa">Primorsky Krai</text>
+                <text lang="zho">Primorsky Krai</text>
+                <text lang="jpn">Primorsky Krai</text>
+                <text lang="ara">Primorsky Krai</text>
+            </name>
+        </item>
+        <item id="9984" code="pskovskaja" name="Псковская область" type="503166f7">
+            <name>
+                <text lang="rus">Псковская область</text>
+                <text lang="eng">Pskov region</text>
+                <text lang="deu">Pskov region</text>
+                <text lang="fra">Pskov region</text>
+                <text lang="spa">Pskov region</text>
+                <text lang="zho">Pskov region</text>
+                <text lang="jpn">Pskov region</text>
+                <text lang="ara">Pskov region</text>
+            </name>
+        </item>
+        <item id="9977" code="adygeja" name="Республика Адыгея" type="503166f7">
+            <name>
+                <text lang="rus">Республика Адыгея</text>
+                <text lang="eng">The Republic Of Adygea</text>
+                <text lang="deu">The Republic Of Adygea</text>
+                <text lang="fra">The Republic Of Adygea</text>
+                <text lang="spa">The Republic Of Adygea</text>
+                <text lang="zho">The Republic Of Adygea</text>
+                <text lang="jpn">The Republic Of Adygea</text>
+                <text lang="ara">The Republic Of Adygea</text>
+            </name>
+        </item>
+        <item id="9978" code="altay" name="Республика Алтай" type="503166f7">
+            <name>
+                <text lang="rus">Республика Алтай</text>
+                <text lang="eng">The Republic Of Altai</text>
+                <text lang="deu">The Republic Of Altai</text>
+                <text lang="fra">The Republic Of Altai</text>
+                <text lang="spa">The Republic Of Altai</text>
+                <text lang="zho">The Republic Of Altai</text>
+                <text lang="jpn">The Republic Of Altai</text>
+                <text lang="ara">The Republic Of Altai</text>
+            </name>
+        </item>
+        <item id="9979" code="bashkirija" name="Республика Башкортостан" type="503166f7">
+            <name>
+                <text lang="rus">Республика Башкортостан</text>
+                <text lang="eng">The Republic Of Bashkortostan</text>
+                <text lang="deu">The Republic Of Bashkortostan</text>
+                <text lang="fra">The Republic Of Bashkortostan</text>
+                <text lang="spa">The Republic Of Bashkortostan</text>
+                <text lang="zho">The Republic Of Bashkortostan</text>
+                <text lang="jpn">The Republic Of Bashkortostan</text>
+                <text lang="ara">The Republic Of Bashkortostan</text>
+            </name>
+        </item>
+        <item id="9980" code="burjatija" name="Республика Бурятия" type="503166f7">
+            <name>
+                <text lang="rus">Республика Бурятия</text>
+                <text lang="eng">The Republic Of Buryatia</text>
+                <text lang="deu">The Republic Of Buryatia</text>
+                <text lang="fra">The Republic Of Buryatia</text>
+                <text lang="spa">The Republic Of Buryatia</text>
+                <text lang="zho">The Republic Of Buryatia</text>
+                <text lang="jpn">The Republic Of Buryatia</text>
+                <text lang="ara">The Republic Of Buryatia</text>
+            </name>
+        </item>
+        <item id="9982" code="dagestan" name="Республика Дагестан" type="503166f7">
+            <name>
+                <text lang="rus">Республика Дагестан</text>
+                <text lang="eng">The Republic Of Dagestan</text>
+                <text lang="deu">The Republic Of Dagestan</text>
+                <text lang="fra">The Republic Of Dagestan</text>
+                <text lang="spa">The Republic Of Dagestan</text>
+                <text lang="zho">The Republic Of Dagestan</text>
+                <text lang="jpn">The Republic Of Dagestan</text>
+                <text lang="ara">The Republic Of Dagestan</text>
+            </name>
+        </item>
+        <item id="9983" code="ingushetija" name="Республика Ингушетия" type="503166f7">
+            <name>
+                <text lang="rus">Республика Ингушетия</text>
+                <text lang="eng">The Republic Of Ingushetia</text>
+                <text lang="deu">The Republic Of Ingushetia</text>
+                <text lang="fra">The Republic Of Ingushetia</text>
+                <text lang="spa">The Republic Of Ingushetia</text>
+                <text lang="zho">The Republic Of Ingushetia</text>
+                <text lang="jpn">The Republic Of Ingushetia</text>
+                <text lang="ara">The Republic Of Ingushetia</text>
+            </name>
+        </item>
+        <item id="9985" code="kalmykija" name="Республика Калмыкия" type="503166f7">
+            <name>
+                <text lang="rus">Республика Калмыкия</text>
+                <text lang="eng">The Republic Of Kalmykia</text>
+                <text lang="deu">The Republic Of Kalmykia</text>
+                <text lang="fra">The Republic Of Kalmykia</text>
+                <text lang="spa">The Republic Of Kalmykia</text>
+                <text lang="zho">The Republic Of Kalmykia</text>
+                <text lang="jpn">The Republic Of Kalmykia</text>
+                <text lang="ara">The Republic Of Kalmykia</text>
+            </name>
+        </item>
+        <item id="9986" code="karelija" name="Республика Карелия" type="503166f7">
+            <name>
+                <text lang="rus">Республика Карелия</text>
+                <text lang="eng">The Republic Of Karelia</text>
+                <text lang="deu">The Republic Of Karelia</text>
+                <text lang="fra">The Republic Of Karelia</text>
+                <text lang="spa">The Republic Of Karelia</text>
+                <text lang="zho">The Republic Of Karelia</text>
+                <text lang="jpn">The Republic Of Karelia</text>
+                <text lang="ara">The Republic Of Karelia</text>
+            </name>
+        </item>
+        <item id="9988" code="komi" name="Республика Коми" type="503166f7">
+            <name>
+                <text lang="rus">Республика Коми</text>
+                <text lang="eng">The Republic Of Komi</text>
+                <text lang="deu">The Republic Of Komi</text>
+                <text lang="fra">The Republic Of Komi</text>
+                <text lang="spa">The Republic Of Komi</text>
+                <text lang="zho">The Republic Of Komi</text>
+                <text lang="jpn">The Republic Of Komi</text>
+                <text lang="ara">The Republic Of Komi</text>
+            </name>
+        </item>
+        <item id="292321" code="krim" name="Республика Крым" type="503166f7">
+            <name>
+                <text lang="rus">Республика Крым</text>
+                <text lang="eng">-</text>
+                <text lang="deu">-</text>
+                <text lang="fra">-</text>
+                <text lang="spa">-</text>
+                <text lang="zho">-</text>
+                <text lang="jpn">-</text>
+                <text lang="ara">-</text>
+            </name>
+        </item>
+        <item id="9990" code="marij-el" name="Республика Марий Эл" type="503166f7">
+            <name>
+                <text lang="rus">Республика Марий Эл</text>
+                <text lang="eng">The Republic Of Mari El</text>
+                <text lang="deu">The Republic Of Mari El</text>
+                <text lang="fra">The Republic Of Mari El</text>
+                <text lang="spa">The Republic Of Mari El</text>
+                <text lang="zho">Республика Марий Эл</text>
+                <text lang="jpn">The Republic Of Mari El</text>
+                <text lang="ara">The Republic Of Mari El</text>
+            </name>
+        </item>
+        <item id="9992" code="mordovija" name="Республика Мордовия" type="503166f7">
+            <name>
+                <text lang="rus">Республика Мордовия</text>
+                <text lang="eng">The Republic Of Mordovia</text>
+                <text lang="deu">The Republic Of Mordovia</text>
+                <text lang="fra">The Republic Of Mordovia</text>
+                <text lang="spa">The Republic Of Mordovia</text>
+                <text lang="zho">The Republic Of Mordovia</text>
+                <text lang="jpn">The Republic Of Mordovia</text>
+                <text lang="ara">The Republic Of Mordovia</text>
+            </name>
+        </item>
+        <item id="9993" code="jakutija" name="Республика Саха (Якутия)" type="503166f7">
+            <name>
+                <text lang="rus">Республика Саха (Якутия)</text>
+                <text lang="eng">The Republic Of Sakha (Yakutia)</text>
+                <text lang="deu">The Republic Of Sakha (Yakutia)</text>
+                <text lang="fra">The Republic Of Sakha (Yakutia)</text>
+                <text lang="spa">The Republic Of Sakha (Yakutia)</text>
+                <text lang="zho">The Republic Of Sakha (Yakutia)</text>
+                <text lang="jpn">The Republic Of Sakha (Yakutia)</text>
+                <text lang="ara">The Republic Of Sakha (Yakutia)</text>
+            </name>
+        </item>
+        <item id="9998" code="sevosetija" name="Республика Северная Осетия - Алания" type="503166f7">
+            <name>
+                <text lang="rus">Республика Северная Осетия - Алания</text>
+                <text lang="eng">The Republic Of North Ossetia - Alania</text>
+                <text lang="deu">The Republic Of North Ossetia - Alania</text>
+                <text lang="fra">The Republic Of North Ossetia - Alania</text>
+                <text lang="spa">The Republic Of North Ossetia - Alania</text>
+                <text lang="zho">The Republic Of North Ossetia - Alania</text>
+                <text lang="jpn">The Republic Of North Ossetia - Alania</text>
+                <text lang="ara">The Republic Of North Ossetia - Alania</text>
+            </name>
+        </item>
+        <item id="9994" code="tatarstan" name="Республика Татарстан" type="503166f7">
+            <name>
+                <text lang="rus">Республика Татарстан</text>
+                <text lang="eng">43</text>
+                <text lang="deu">The Republic Of Tatarstan</text>
+                <text lang="fra">The Republic Of Tatarstan</text>
+                <text lang="spa">The Republic Of Tatarstan</text>
+                <text lang="zho">The Republic Of Tatarstan</text>
+                <text lang="jpn">The Republic Of Tatarstan</text>
+                <text lang="ara">-</text>
+            </name>
+        </item>
+        <item id="9995" code="tyva" name="Республика Тыва" type="503166f7">
+            <name>
+                <text lang="rus">Республика Тыва</text>
+                <text lang="eng">The Republic Of Tyva</text>
+                <text lang="deu">The Republic Of Tyva</text>
+                <text lang="fra">The Republic Of Tyva</text>
+                <text lang="spa">The Republic Of Tyva</text>
+                <text lang="zho">The Republic Of Tyva</text>
+                <text lang="jpn">The Republic Of Tyva</text>
+                <text lang="ara">The Republic Of Tyva</text>
+            </name>
+        </item>
+        <item id="9997" code="hakasija" name="Республика Хакасия" type="503166f7">
+            <name>
+                <text lang="rus">Республика Хакасия</text>
+                <text lang="eng">The Republic Of Khakassia</text>
+                <text lang="deu">The Republic Of Khakassia</text>
+                <text lang="fra">The Republic Of Khakassia</text>
+                <text lang="spa">The Republic Of Khakassia</text>
+                <text lang="zho">The Republic Of Khakassia</text>
+                <text lang="jpn">The Republic Of Khakassia</text>
+                <text lang="ara">The Republic Of Khakassia</text>
+            </name>
+        </item>
+        <item id="9987" code="r" name="Ростовская область" type="503166f7">
+            <name>
+                <text lang="rus">Ростовская область</text>
+                <text lang="eng">Rostov region</text>
+                <text lang="deu">Rostov region</text>
+                <text lang="fra">Rostov region</text>
+                <text lang="spa">Rostov region</text>
+                <text lang="zho">Rostov region</text>
+                <text lang="jpn">Rostov region</text>
+                <text lang="ara">Rostov region</text>
+            </name>
+        </item>
+        <item id="9989" code="ryazan_oblast" name="Рязанская область" type="503166f7">
+            <name>
+                <text lang="rus">Рязанская область</text>
+                <text lang="eng">Ryazan region</text>
+                <text lang="deu">Ryazan region</text>
+                <text lang="fra">Ryazan region</text>
+                <text lang="spa">Ryazan region</text>
+                <text lang="zho">Ryazan region</text>
+                <text lang="jpn">Ryazan region</text>
+                <text lang="ara">Ryazan region</text>
+            </name>
+        </item>
+        <item id="9991" code="samarskaja" name="Самарская область" type="503166f7">
+            <name>
+                <text lang="rus">Самарская область</text>
+                <text lang="eng">Samara region</text>
+                <text lang="deu">Samara region</text>
+                <text lang="fra">Samara region</text>
+                <text lang="spa">Samara region</text>
+                <text lang="zho">Samara region</text>
+                <text lang="jpn">Samara region</text>
+                <text lang="ara">Samara region</text>
+            </name>
+        </item>
+        <item id="10500" code="saratovskaja" name="Саратовская область" type="503166f7">
+            <name>
+                <text lang="rus">Саратовская область</text>
+                <text lang="eng">Saratov region</text>
+                <text lang="deu">Saratov region</text>
+                <text lang="fra">Saratov region</text>
+                <text lang="spa">Saratov region</text>
+                <text lang="zho">Saratov region</text>
+                <text lang="jpn">Saratov region</text>
+                <text lang="ara">Saratov region</text>
+            </name>
+        </item>
+        <item id="10502" code="sahalinskaja" name="Сахалинская область" type="503166f7">
+            <name>
+                <text lang="rus">Сахалинская область</text>
+                <text lang="eng">Sakhalin region</text>
+                <text lang="deu">Sakhalin region</text>
+                <text lang="fra">Sakhalin region</text>
+                <text lang="spa">Sakhalin region</text>
+                <text lang="zho">Sakhalin region</text>
+                <text lang="jpn">Sakhalin region</text>
+                <text lang="ara">Sakhalin region</text>
+            </name>
+        </item>
+        <item id="10504" code="sverdlovskaja" name="Свердловская область" type="503166f7">
+            <name>
+                <text lang="rus">Свердловская область</text>
+                <text lang="eng">Sverdlovsk region</text>
+                <text lang="deu">Sverdlovsk region</text>
+                <text lang="fra">Sverdlovsk region</text>
+                <text lang="spa">Sverdlovsk region</text>
+                <text lang="zho">Sverdlovsk region</text>
+                <text lang="jpn">Sverdlovsk region</text>
+                <text lang="ara">Sverdlovsk region</text>
+            </name>
+        </item>
+        <item id="18805" code="sevastopol" name="Севастополь" type="891c9dcf">
+            <name>
+                <text lang="rus">Севастополь</text>
+                <text lang="eng">Sevastopol</text>
+                <text lang="deu">Sevastopol</text>
+                <text lang="fra">Sevastopol</text>
+                <text lang="spa">Sevastopol</text>
+                <text lang="zho">Sevastopol</text>
+                <text lang="jpn">Sevastopol</text>
+                <text lang="ara">Sevastopol</text>
+            </name>
+        </item>
+        <item id="10505" code="smolenskaja" name="Смоленская область" type="503166f7">
+            <name>
+                <text lang="rus">Смоленская область</text>
+                <text lang="eng">Smolensk region</text>
+                <text lang="deu">Smolensk region</text>
+                <text lang="fra">Smolensk region</text>
+                <text lang="spa">Smolensk region</text>
+                <text lang="zho">Smolensk region</text>
+                <text lang="jpn">Smolensk region</text>
+                <text lang="ara">Smolensk region</text>
+            </name>
+        </item>
+        <item id="9999" code="stavropolskij" name="Ставропольский край" type="503166f7">
+            <name>
+                <text lang="rus">Ставропольский край</text>
+                <text lang="eng">Stavropol Krai</text>
+                <text lang="deu">Stavropol Krai</text>
+                <text lang="fra">Stavropol Krai</text>
+                <text lang="spa">Stavropol Krai</text>
+                <text lang="zho">Stavropol Krai</text>
+                <text lang="jpn">Stavropol Krai</text>
+                <text lang="ara">Stavropol Krai</text>
+            </name>
+        </item>
+        <item id="10507" code="tambovskaja" name="Тамбовская область" type="503166f7">
+            <name>
+                <text lang="rus">Тамбовская область</text>
+                <text lang="eng">Tambov region</text>
+                <text lang="deu">Tambov region</text>
+                <text lang="fra">Tambov region</text>
+                <text lang="spa">Tambov region</text>
+                <text lang="zho">Tambov region</text>
+                <text lang="jpn">Tambov region</text>
+                <text lang="ara">Tambov region</text>
+            </name>
+        </item>
+        <item id="10509" code="tverskaya" name="Тверская область" type="503166f7">
+            <name>
+                <text lang="rus">Тверская область</text>
+                <text lang="eng">Tver region</text>
+                <text lang="deu">Tver region</text>
+                <text lang="fra">Tver region</text>
+                <text lang="spa">Tver region</text>
+                <text lang="zho">Tver region</text>
+                <text lang="jpn">Tver region</text>
+                <text lang="ara">Tver region</text>
+            </name>
+        </item>
+        <item id="10510" code="tomskaja" name="Томская область" type="503166f7">
+            <name>
+                <text lang="rus">Томская область</text>
+                <text lang="eng">Tomsk region</text>
+                <text lang="deu">Tomsk region</text>
+                <text lang="fra">Tomsk region</text>
+                <text lang="spa">Tomsk region</text>
+                <text lang="zho">Tomsk region</text>
+                <text lang="jpn">Tomsk region</text>
+                <text lang="ara">Tomsk region</text>
+            </name>
+        </item>
+        <item id="10512" code="tulskaja" name="Тульская область" type="503166f7">
+            <name>
+                <text lang="rus">Тульская область</text>
+                <text lang="eng">Tula region</text>
+                <text lang="deu">Tula region</text>
+                <text lang="fra">Tula region</text>
+                <text lang="spa">Tula region</text>
+                <text lang="zho">Tula region</text>
+                <text lang="jpn">Tula region</text>
+                <text lang="ara">Tula region</text>
+            </name>
+        </item>
+        <item id="10514" code="tjumenskaja" name="Тюменская область" type="503166f7">
+            <name>
+                <text lang="rus">Тюменская область</text>
+                <text lang="eng">Tyumen region</text>
+                <text lang="deu">Tyumen region</text>
+                <text lang="fra">Tyumen region</text>
+                <text lang="spa">Tyumen region</text>
+                <text lang="zho">Tyumen region</text>
+                <text lang="jpn">Tyumen region</text>
+                <text lang="ara">Tyumen region</text>
+            </name>
+        </item>
+        <item id="9996" code="udmurtija" name="Удмуртская Республика" type="503166f7">
+            <name>
+                <text lang="rus">Удмуртская Республика</text>
+                <text lang="eng">Udmurt Republic</text>
+                <text lang="deu">Udmurt Republic</text>
+                <text lang="fra">Udmurt Republic</text>
+                <text lang="spa">Udmurt Republic</text>
+                <text lang="zho">Udmurt Republic</text>
+                <text lang="jpn">Udmurt Republic</text>
+                <text lang="ara">Udmurt Republic</text>
+            </name>
+        </item>
+        <item id="10515" code="uljanovskaja" name="Ульяновская область" type="503166f7">
+            <name>
+                <text lang="rus">Ульяновская область</text>
+                <text lang="eng">Ulyanovsk region</text>
+                <text lang="deu">Ulyanovsk region</text>
+                <text lang="fra">Ulyanovsk region</text>
+                <text lang="spa">Ulyanovsk region</text>
+                <text lang="zho">Ulyanovsk region</text>
+                <text lang="jpn">Ulyanovsk region</text>
+                <text lang="ara">Ulyanovsk region</text>
+            </name>
+        </item>
+        <item id="10000" code="habarovskij" name="Хабаровский край" type="503166f7">
+            <name>
+                <text lang="rus">Хабаровский край</text>
+                <text lang="eng">Khabarovsk Krai</text>
+                <text lang="deu">Khabarovsk Krai</text>
+                <text lang="fra">Khabarovsk Krai</text>
+                <text lang="spa">Khabarovsk Krai</text>
+                <text lang="zho">Khabarovsk Krai</text>
+                <text lang="jpn">Khabarovsk Krai</text>
+                <text lang="ara">Khabarovsk Krai</text>
+            </name>
+        </item>
+        <item id="10518" code="hmao" name="Ханты-Мансийский автономный округ" type="503166f7">
+            <name>
+                <text lang="rus">Ханты-Мансийский автономный округ</text>
+                <text lang="eng">Khanty-Mansi Autonomous Okrug</text>
+                <text lang="deu">Khanty-Mansi Autonomous Okrug</text>
+                <text lang="fra">Khanty-Mansi Autonomous Okrug</text>
+                <text lang="spa">Khanty-Mansi Autonomous Okrug</text>
+                <text lang="zho">Khanty-Mansi Autonomous Okrug</text>
+                <text lang="jpn">Khanty-Mansi Autonomous Okrug</text>
+                <text lang="ara">Khanty-Mansi Autonomous Okrug</text>
+            </name>
+        </item>
+        <item id="10520" code="cheljabinskaja" name="Челябинская область" type="503166f7">
+            <name>
+                <text lang="rus">Челябинская область</text>
+                <text lang="eng">Chelyabinsk region</text>
+                <text lang="deu">Chelyabinsk region</text>
+                <text lang="fra">Chelyabinsk region</text>
+                <text lang="spa">Chelyabinsk region</text>
+                <text lang="zho">Chelyabinsk region</text>
+                <text lang="jpn">Chelyabinsk region</text>
+                <text lang="ara">Chelyabinsk region</text>
+            </name>
+        </item>
+        <item id="10001" code="chechnja" name="Чеченская Республика" type="503166f7">
+            <name>
+                <text lang="rus">Чеченская Республика</text>
+                <text lang="eng">The Chechen Republic</text>
+                <text lang="deu">The Chechen Republic</text>
+                <text lang="fra">The Chechen Republic</text>
+                <text lang="spa">The Chechen Republic</text>
+                <text lang="zho">The Chechen Republic</text>
+                <text lang="jpn">The Chechen Republic</text>
+                <text lang="ara">The Chechen Republic</text>
+            </name>
+        </item>
+        <item id="10002" code="c" name="Чувашская Республика" type="503166f7">
+            <name>
+                <text lang="rus">Чувашская Республика</text>
+                <text lang="eng">Chuvash Republic</text>
+                <text lang="deu">Chuvash Republic</text>
+                <text lang="fra">Chuvash Republic</text>
+                <text lang="spa">Chuvash Republic</text>
+                <text lang="zho">Chuvash Republic</text>
+                <text lang="jpn">Chuvash Republic</text>
+                <text lang="ara">Chuvash Republic</text>
+            </name>
+        </item>
+        <item id="10523" code="chukotskij" name="Чукотский автономный округ" type="503166f7">
+            <name>
+                <text lang="rus">Чукотский автономный округ</text>
+                <text lang="eng">Chukotka Autonomous Okrug</text>
+                <text lang="deu">Chukotka Autonomous Okrug</text>
+                <text lang="fra">Chukotka Autonomous Okrug</text>
+                <text lang="spa">Chukotka Autonomous Okrug</text>
+                <text lang="zho">Chukotka Autonomous Okrug</text>
+                <text lang="jpn">Chukotka Autonomous Okrug</text>
+                <text lang="ara">Chukotka Autonomous Okrug</text>
+            </name>
+        </item>
+        <item id="10525" code="janao" name="Ямало-Ненецкий автономный округ" type="503166f7">
+            <name>
+                <text lang="rus">Ямало-Ненецкий автономный округ</text>
+                <text lang="eng">Yamalo-Nenets Autonomous Okrug</text>
+                <text lang="deu">Yamalo-Nenets Autonomous Okrug</text>
+                <text lang="fra">Yamalo-Nenets Autonomous Okrug</text>
+                <text lang="spa">Yamalo-Nenets Autonomous Okrug</text>
+                <text lang="zho">Yamalo-Nenets Autonomous Okrug</text>
+                <text lang="jpn">Yamalo-Nenets Autonomous Okrug</text>
+                <text lang="ara">Yamalo-Nenets Autonomous Okrug</text>
+            </name>
+        </item>
+        <item id="10534" code="yaroslavskaya" name="Ярославская область" type="503166f7">
+            <name>
+                <text lang="rus">Ярославская область</text>
+                <text lang="eng">Yaroslavl region</text>
+                <text lang="deu">Yaroslavl region</text>
+                <text lang="fra">Yaroslavl region</text>
+                <text lang="spa">Yaroslavl region</text>
+                <text lang="zho">Yaroslavl region</text>
+                <text lang="jpn">Yaroslavl region</text>
+                <text lang="ara">Yaroslavl region</text>
+            </name>
+        </item>
+    </items>
+    <responseCode>200</responseCode>
+    <responseMessage>Запрос успешен</responseMessage>
+</response>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+    <items>
+        <item id="bilety" name="Билеты">
+            <name>
+                <text lang="rus">Билеты</text>
+                <text lang="eng">Tickets</text>
+                <text lang="deu">Tickets</text>
+                <text lang="fra">Les billets</text>
+                <text lang="spa">Entradas</text>
+                <text lang="zho">票</text>
+                <text lang="jpn">-</text>
+                <text lang="ara">تذاكر</text>
+            </name>
+        </item>
+        <item id="bankomat" name="Банкомат">
+            <name>
+                <text lang="rus">Банкомат</text>
+                <text lang="eng">ATM</text>
+                <text lang="deu">Geldautomat</text>
+                <text lang="fra">Distributeur automatique de billets</text>
+                <text lang="spa">Cajero automático</text>
+                <text lang="zho">ATM</text>
+                <text lang="jpn">-</text>
+                <text lang="ara">ATM</text>
+            </name>
+        </item>
+        <item id="parikmakherskaya" name="Парикмахерская">
+            <name>
+                <text lang="rus">Парикмахерская</text>
+                <text lang="eng">Barber</text>
+                <text lang="deu">Friseur</text>
+                <text lang="fra">Salon de coiffure</text>
+                <text lang="spa">Peluquería</text>
+                <text lang="zho">理发师</text>
+                <text lang="jpn">-</text>
+                <text lang="ara">الحلاق</text>
+            </name>
+        </item>
+        <item id="obmen_valyuty" name="Обмен валюты">
+            <name>
+                <text lang="rus">Обмен валюты</text>
+                <text lang="eng">Currency exchange</text>
+                <text lang="deu">Währungsumtausch</text>
+                <text lang="fra">Service de change</text>
+                <text lang="spa">Cambio de moneda</text>
+                <text lang="zho">货币兑换</text>
+                <text lang="jpn">-</text>
+                <text lang="ara">صرف العملات</text>
+            </name>
+        </item>
+        <item id="taksi" name="Такси">
+            <name>
+                <text lang="rus">Такси</text>
+                <text lang="eng">Taxi</text>
+                <text lang="deu">Taxi</text>
+                <text lang="fra">Taxi</text>
+                <text lang="spa">Taxi</text>
+                <text lang="zho">出租车</text>
+                <text lang="jpn">-</text>
+                <text lang="ara">تاكسي</text>
+            </name>
+        </item>
+        <item id="pochta" name="Почта">
+            <name>
+                <text lang="rus">Почта</text>
+                <text lang="eng">Mail</text>
+                <text lang="deu">E-Mail</text>
+                <text lang="fra">Mail</text>
+                <text lang="spa">Correo electrónico</text>
+                <text lang="zho">邮件</text>
+                <text lang="jpn">-</text>
+                <text lang="ara">البريد</text>
+            </name>
+        </item>
+        <item id="parking" name="Паркинг">
+            <name>
+                <text lang="rus">Паркинг</text>
+                <text lang="eng">Parking</text>
+                <text lang="deu">Parkplatz</text>
+                <text lang="fra">Parking</text>
+                <text lang="spa">Parking</text>
+                <text lang="zho">停车</text>
+                <text lang="jpn">-</text>
+                <text lang="ara">وقوف السيارات</text>
+            </name>
+        </item>
+        <item id="wifi" name="wifi">
+            <name>
+                <text lang="rus">wifi</text>
+                <text lang="eng">wifi</text>
+                <text lang="deu">wifi</text>
+                <text lang="fra">wifi</text>
+                <text lang="spa">wifi</text>
+                <text lang="zho">无线网络</text>
+                <text lang="jpn">-</text>
+                <text lang="ara">واي فاي</text>
+            </name>
+        </item>
+        <item id="kafe" name="Кафе">
+            <name>
+                <text lang="rus">Кафе</text>
+                <text lang="eng">Cafe</text>
+                <text lang="deu">Café</text>
+                <text lang="fra">Café</text>
+                <text lang="spa">Cafetería</text>
+                <text lang="zho">咖啡馆</text>
+                <text lang="jpn">-</text>
+                <text lang="ara">مقهى</text>
+            </name>
+        </item>
+        <item id="apteka" name="Аптека">
+            <name>
+                <text lang="rus">Аптека</text>
+                <text lang="eng">Pharmacy</text>
+                <text lang="deu">Apotheke</text>
+                <text lang="fra">Pharmacie</text>
+                <text lang="spa">Farmacia</text>
+                <text lang="zho">药房</text>
+                <text lang="jpn">-</text>
+                <text lang="ara">صيدلية</text>
+            </name>
+        </item>
+        <item id="uslugi_dlya_lyudey_s_ogranichennymi_vozmozhnostyami"
+              name="Услуги для людей с ограниченными возможностями">
+            <name>
+                <text lang="rus">Услуги для людей с ограниченными возможностями</text>
+                <text lang="eng">Services for people with disabilities</text>
+                <text lang="deu">Dienstleistungen für Menschen mit Behinderungen</text>
+                <text lang="fra">Équipements pour personnes à mobilité réduite</text>
+                <text lang="spa">Servicios para personas con discapacidad</text>
+                <text lang="zho">对残疾人的服务</text>
+                <text lang="jpn">-</text>
+                <text lang="ara">الخدمات المقدمة للأشخاص ذوي الإعاقة</text>
+            </name>
+        </item>
+        <item id="tualet" name="Туалет">
+            <name>
+                <text lang="rus">Туалет</text>
+                <text lang="eng">Toilet</text>
+                <text lang="deu">WC</text>
+                <text lang="fra">Toilettes</text>
+                <text lang="spa">Aseo</text>
+                <text lang="zho">厕所</text>
+                <text lang="jpn">-</text>
+                <text lang="ara">المرحاض</text>
+            </name>
+        </item>
+    </items>
+    <responseCode>200</responseCode>
+    <responseMessage>Запрос успешен</responseMessage>
+</response>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response page="1" totalPages="1">
+    <items>
+        <item id="137859" code="" name="Медногорский" type="0ad45198" region="9972" area="278151">
+            <name>
+                <text lang="rus">Медногорский</text>
+                <text lang="eng">Mednogorskiy</text>
+                <text lang="deu">Mednogorskiy</text>
+                <text lang="fra">Mednogorskiy</text>
+                <text lang="spa">Mednogorskiy</text>
+                <text lang="zho">Mednogorskiy</text>
+                <text lang="jpn">Mednogorskiy</text>
+                <text lang="ara">Mednogorskiy</text>
+            </name>
+        </item>
+    </items>
+    <responseCode>200</responseCode>
+    <responseMessage>Запрос успешен</responseMessage>
+</response>

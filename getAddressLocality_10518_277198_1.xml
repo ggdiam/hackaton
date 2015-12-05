@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response page="1" totalPages="1">
+    <items>
+        <item id="205489" code="" name="Кондинское" type="0ad45198" region="10518" area="277198">
+            <name>
+                <text lang="rus">Кондинское</text>
+                <text lang="eng">Kondinskoe</text>
+                <text lang="deu">Kondinskoe</text>
+                <text lang="fra">Kondinskoe</text>
+                <text lang="spa">Kondinskoe</text>
+                <text lang="zho">Kondinskoe</text>
+                <text lang="jpn">Kondinskoe</text>
+                <text lang="ara">Kondinskoe</text>
+            </name>
+        </item>
+        <item id="205482" code="" name="Куминский" type="0ad45198" region="10518" area="277198">
+            <name>
+                <text lang="rus">Куминский</text>
+                <text lang="eng">Kuminskiy</text>
+                <text lang="deu">Kuminskiy</text>
+                <text lang="fra">Kuminskiy</text>
+                <text lang="spa">Kuminskiy</text>
+                <text lang="zho">Kuminskiy</text>
+                <text lang="jpn">Kuminskiy</text>
+                <text lang="ara">Kuminskiy</text>
+            </name>
+        </item>
+        <item id="205488" code="" name="Луговой" type="0ad45198" region="10518" area="277198">
+            <name>
+                <text lang="rus">Луговой</text>
+                <text lang="eng">Lugovoy</text>
+                <text lang="deu">Lugovoy</text>
+                <text lang="fra">Lugovoy</text>
+                <text lang="spa">Lugovoy</text>
+                <text lang="zho">Lugovoy</text>
+                <text lang="jpn">Lugovoy</text>
+                <text lang="ara">Lugovoy</text>
+            </name>
+        </item>
+        <item id="205496" code="" name="Междуреченский" type="0ad45198" region="10518" area="277198">
+            <name>
+                <text lang="rus">Междуреченский</text>
+                <text lang="eng">Mezhdurechenskiy</text>
+                <text lang="deu">Mezhdurechenskiy</text>
+                <text lang="fra">Mezhdurechenskiy</text>
+                <text lang="spa">Mezhdurechenskiy</text>
+                <text lang="zho">Mezhdurechenskiy</text>
+                <text lang="jpn">Mezhdurechenskiy</text>
+                <text lang="ara">Mezhdurechenskiy</text>
+            </name>
+        </item>
+        <item id="205505" code="" name="Мортка" type="0ad45198" region="10518" area="277198">
+            <name>
+                <text lang="rus">Мортка</text>
+                <text lang="eng">Mortka</text>
+                <text lang="deu">Mortka</text>
+                <text lang="fra">Mortka</text>
+                <text lang="spa">Mortka</text>
+                <text lang="zho">Mortka</text>
+                <text lang="jpn">Mortka</text>
+                <text lang="ara">Mortka</text>
+            </name>
+        </item>
+        <item id="205485" code="" name="Набережная" type="7169c260" region="10518" area="277198">
+            <name>
+                <text lang="rus">Набережная</text>
+                <text lang="eng">Naberezhnaya</text>
+                <text lang="deu">Naberezhnaya</text>
+                <text lang="fra">Naberezhnaya</text>
+                <text lang="spa">Naberezhnaya</text>
+                <text lang="zho">Naberezhnaya</text>
+                <text lang="jpn">Naberezhnaya</text>
+                <text lang="ara">Naberezhnaya</text>
+            </name>
+        </item>
+    </items>
+    <responseCode>200</responseCode>
+    <responseMessage>Запрос успешен</responseMessage>
+</response>

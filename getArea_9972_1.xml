@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response page="1" totalPages="1">
+    <items>
+        <item id="296980" code="" name="Абазинский район" type="1a5241db" region="9972">
+            <name>
+                <text lang="rus">Абазинский район</text>
+                <text lang="eng">-</text>
+                <text lang="deu">-</text>
+                <text lang="fra">-</text>
+                <text lang="spa">-</text>
+                <text lang="zho">-</text>
+                <text lang="jpn">-</text>
+                <text lang="ara">-</text>
+            </name>
+        </item>
+        <item id="276486" code="" name="Адыге-Хабльский" type="1a5241db" region="9972">
+            <name>
+                <text lang="rus">Адыге-Хабльский</text>
+                <text lang="eng"/>
+                <text lang="deu"/>
+                <text lang="fra"/>
+                <text lang="spa"/>
+                <text lang="zho"/>
+                <text lang="jpn"/>
+                <text lang="ara"/>
+            </name>
+        </item>
+        <item id="276980" code="" name="Зеленчукский" type="1a5241db" region="9972">
+            <name>
+                <text lang="rus">Зеленчукский</text>
+                <text lang="eng"/>
+                <text lang="deu"/>
+                <text lang="fra"/>
+                <text lang="spa"/>
+                <text lang="zho"/>
+                <text lang="jpn"/>
+                <text lang="ara"/>
+            </name>
+        </item>
+        <item id="277098" code="" name="Карачаевский" type="1a5241db" region="9972">
+            <name>
+                <text lang="rus">Карачаевский</text>
+                <text lang="eng"/>
+                <text lang="deu"/>
+                <text lang="fra"/>
+                <text lang="spa"/>
+                <text lang="zho"/>
+                <text lang="jpn"/>
+                <text lang="ara"/>
+            </name>
+        </item>
+        <item id="277400" code="" name="Малокарачаевский" type="1a5241db" region="9972">
+            <name>
+                <text lang="rus">Малокарачаевский</text>
+                <text lang="eng"/>
+                <text lang="deu"/>
+                <text lang="fra"/>
+                <text lang="spa"/>
+                <text lang="zho"/>
+                <text lang="jpn"/>
+                <text lang="ara"/>
+            </name>
+        </item>
+        <item id="277580" code="" name="Ногайский" type="1a5241db" region="9972">
+            <name>
+                <text lang="rus">Ногайский</text>
+                <text lang="eng"/>
+                <text lang="deu"/>
+                <text lang="fra"/>
+                <text lang="spa"/>
+                <text lang="zho"/>
+                <text lang="jpn"/>
+                <text lang="ara"/>
+            </name>
+        </item>
+        <item id="277761" code="" name="Прикубанский" type="1a5241db" region="9972">
+            <name>
+                <text lang="rus">Прикубанский</text>
+                <text lang="eng"/>
+                <text lang="deu"/>
+                <text lang="fra"/>
+                <text lang="spa"/>
+                <text lang="zho"/>
+                <text lang="jpn"/>
+                <text lang="ara"/>
+            </name>
+        </item>
+        <item id="278151" code="" name="Урупский" type="1a5241db" region="9972">
+            <name>
+                <text lang="rus">Урупский</text>
+                <text lang="eng"/>
+                <text lang="deu"/>
+                <text lang="fra"/>
+                <text lang="spa"/>
+                <text lang="zho"/>
+                <text lang="jpn"/>
+                <text lang="ara"/>
+            </name>
+        </item>
+        <item id="278165" code="" name="Усть-Джегутинский" type="1a5241db" region="9972">
+            <name>
+                <text lang="rus">Усть-Джегутинский</text>
+                <text lang="eng"/>
+                <text lang="deu"/>
+                <text lang="fra"/>
+                <text lang="spa"/>
+                <text lang="zho"/>
+                <text lang="jpn"/>
+                <text lang="ara"/>
+            </name>
+        </item>
+        <item id="278202" code="" name="Хабезский" type="1a5241db" region="9972">
+            <name>
+                <text lang="rus">Хабезский</text>
+                <text lang="eng"/>
+                <text lang="deu"/>
+                <text lang="fra"/>
+                <text lang="spa"/>
+                <text lang="zho"/>
+                <text lang="jpn"/>
+                <text lang="ara"/>
+            </name>
+        </item>
+    </items>
+    <responseCode>200</responseCode>
+    <responseMessage>Запрос успешен</responseMessage>
+</response>

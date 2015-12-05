@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+    <items page="1" totalPages="1">
+        <item id="286367" published="Y" date="26.10.2015 10:57:09"
+              image="http://api.russia.travel/upload/iblock/eb1/eb173a897907bb3bce070319947ab488.jpg"
+              geo="59.575157886487,66.678017995398">
+            <types>
+                <type><![CDATA[f64f72c7]]></type>
+                <type><![CDATA[a716e021]]></type>
+            </types>
+            <name>
+                <text lang="rus"><![CDATA[База отдыха «Варья протока»]]></text>
+            </name>
+            <geo>59.575157886487,66.678017995398</geo>
+            <addressCountry>255003</addressCountry>
+            <addressArea>277198</addressArea>
+            <addressRegion>10518</addressRegion>
+            <streetAddress>
+                <text lang="rus">
+                    <![CDATA[Россия, Ханты-Мансийский автономный округ-Югра, Кондинский район, пгт. Междуреченский]]></text>
+            </streetAddress>
+            <telephone>+7-952-6906-606</telephone>
+            <priceRange/>
+            <review>
+                <text lang="rus"><![CDATA[<p>Сельский туризм &ndash; это вид туризма, направленный на организацию отдыха в сельской местности и способствующий знакомству с неторопливым укладом жизни в деревне, ценностями народной культуры, прикладного искусства, местными обычаями. Этот вид туризма включает элементы познавательного, активного и экологического туризма. Кроме того, он интересен еще и тем, что позволяет прикоснуться к традиционным ремеслам,сохранившимся в сельской местности, и возможности каждому поучаствовать в процессе создания изделий народных промыслов, деревенских кулинарных шедевров и т.д.</p>
+<p>База отдыха &laquo;Варья протока&raquo;</p>]]></text>
+                <text lang="eng"><![CDATA[<p>-</p>]]></text>
+                <text lang="deu"><![CDATA[<p>-</p>]]></text>
+                <text lang="fra"><![CDATA[<p>-</p>]]></text>
+                <text lang="spa"><![CDATA[<p>-</p>]]></text>
+                <text lang="zho"><![CDATA[<p>-</p>]]></text>
+                <text lang="jpn"><![CDATA[<p>-</p>]]></text>
+                <text lang="ara"><![CDATA[<p>-</p>]]></text>
+            </review>
+            <photos>
+                <photo order="0" id="59232" preview="Y">
+                    <file name="Ханты-Мансийский автономный округ – Югра. Междуреченский. База отдыха «Варья протока»"
+                          authorCopyright="База отдыха «Варья протока»">
+                        <![CDATA[http://api.russia.travel/upload/uf/d75/d751501b84f0baf19c04ab36756ae75d.jpg]]></file>
+                </photo>
+                <photo order="1" id="59252">
+                    <file name="Ханты-Мансийский автономный округ – Югра. Междуреченский. База отдыха «Варья протока»"
+                          authorCopyright="База отдыха «Варья протока»">
+                        <![CDATA[http://api.russia.travel/upload/uf/cf4/cf43e436186e621fefbdda2a43200878.jpg]]></file>
+                </photo>
+                <photo order="2" id="59253">
+                    <file name="Ханты-Мансийский автономный округ – Югра. Междуреченский. База отдыха «Варья протока»"
+                          authorCopyright="База отдыха «Варья протока»">
+                        <![CDATA[http://api.russia.travel/upload/uf/5e6/5e64105f24ec85ced804a085d3c55c6f.jpg]]></file>
+                </photo>
+                <photo order="3" id="59254">
+                    <file name="Ханты-Мансийский автономный округ – Югра. Междуреченский. База отдыха «Варья протока»"
+                          authorCopyright="База отдыха «Варья протока»">
+                        <![CDATA[http://api.russia.travel/upload/uf/b11/b116a7f8ec6aba804769cbd3de9a9526.jpg]]></file>
+                </photo>
+            </photos>
+        </item>
+    </items>
+    <responseCode>200</responseCode>
+    <responseMessage>Запрос успешен</responseMessage>
+</response>

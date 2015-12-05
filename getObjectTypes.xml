@@ -1,0 +1,4117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+    <items>
+        <item id="a9e41e68" nid="53" name="Зоопарки, океанариумы, дельфинарии">
+            <groups>
+                <group nid="2">rostur_culture</group>
+            </groups>
+            <name>
+                <text lang="rus">Зоопарки, океанариумы, дельфинарии</text>
+                <text lang="eng">Zoos, aquariums, dolphinariums</text>
+                <text lang="deu">Zoos, Meerwasseraquarien, delfinarium</text>
+                <text lang="fra">Les zoos, okeanariumy, les dauphins</text>
+                <text lang="spa">Los zoos, океанариумы, el delfinario</text>
+                <text lang="zho">动物园，水族馆dolphinariums</text>
+                <text lang="jpn">動物園、水族館、イルカ</text>
+                <text lang="ara">حدائق الحيوان, أحواض, dolphinariums</text>
+            </name>
+        </item>
+        <item id="503166f7" nid="55" name="Регион">
+            <name>
+                <text lang="rus">Регион</text>
+                <text lang="eng">The region</text>
+                <text lang="deu">Region</text>
+                <text lang="fra">Région</text>
+                <text lang="spa">Región</text>
+                <text lang="zho">该区域</text>
+                <text lang="jpn">地域</text>
+                <text lang="ara">المنطقة</text>
+            </name>
+        </item>
+        <item id="9b44142e" nid="56" name="Дайвинг">
+            <groups>
+                <group nid="5">rostur_active</group>
+            </groups>
+            <name>
+                <text lang="rus">Дайвинг</text>
+                <text lang="eng">Diving</text>
+                <text lang="deu">Tauchen</text>
+                <text lang="fra">Plongée sous-marine</text>
+                <text lang="spa">Submarinismo</text>
+                <text lang="zho">潜水</text>
+                <text lang="jpn">ダイビング</text>
+                <text lang="ara">الغوص</text>
+            </name>
+        </item>
+        <item id="b29a692e" nid="57" name="Пляжный отдых">
+            <groups>
+                <group nid="8">rostur_recreational</group>
+            </groups>
+            <name>
+                <text lang="rus">Пляжный отдых</text>
+                <text lang="eng">Beach vacation</text>
+                <text lang="deu">Strandurlaub</text>
+                <text lang="fra">Vacances à la plage</text>
+                <text lang="spa">El descanso de playa</text>
+                <text lang="zho">海滩上度假</text>
+                <text lang="jpn">ビーチでの休暇</text>
+                <text lang="ara">شاطئ عطلة</text>
+            </name>
+        </item>
+        <item id="b957c069" nid="58" name="Этнопоселения">
+            <groups>
+                <group nid="2">rostur_culture</group>
+                <group nid="4">rostur_traditions</group>
+            </groups>
+            <name>
+                <text lang="rus">Этнопоселения</text>
+                <text lang="eng">Etoposide</text>
+                <text lang="deu">Этнопоселения</text>
+                <text lang="fra">Этнопоселения</text>
+                <text lang="spa">Этнопоселения</text>
+                <text lang="zho">Etoposide</text>
+                <text lang="jpn">Etnoposeleniya</text>
+                <text lang="ara">Etoposide</text>
+            </name>
+        </item>
+        <item id="2af85f2d" nid="59" name="Садовое неком-е товарищество">
+            <name>
+                <text lang="rus">Садовое неком-е товарищество</text>
+                <text lang="eng">Garden sort of the partnership</text>
+                <text lang="deu">Anbau-einer-E-Kameradschaft</text>
+                <text lang="fra">Jardin de l'un-e de l'association</text>
+                <text lang="spa">Mezclas de un e-sociedad</text>
+                <text lang="zho">花园种伙伴关系</text>
+                <text lang="jpn">特定の電子パートナーシップ庭園</text>
+                <text lang="ara">حديقة نوع من الشراكة</text>
+            </name>
+        </item>
+        <item id="253d7b9f" nid="60" name="Аул">
+            <groups>
+                <group nid="41">rostur_locality</group>
+            </groups>
+            <name>
+                <text lang="rus">Аул</text>
+                <text lang="eng">Aul</text>
+                <text lang="deu">Aul</text>
+                <text lang="fra">Village</text>
+                <text lang="spa">"</text>
+                <text lang="zho">Aul</text>
+                <text lang="jpn">AUL</text>
+                <text lang="ara">Aul</text>
+            </name>
+        </item>
+        <item id="0ad45198" nid="61" name="Поселок городского типа">
+            <groups>
+                <group nid="41">rostur_locality</group>
+            </groups>
+            <name>
+                <text lang="rus">Поселок городского типа</text>
+                <text lang="eng">An urban-type settlement</text>
+                <text lang="deu">Die Siedlung städtischen Typs</text>
+                <text lang="fra">Village urbain</text>
+                <text lang="spa">Asentamiento de tipo urbano</text>
+                <text lang="zho">一个城市类型的解决</text>
+                <text lang="jpn">アーバンビレッジ</text>
+                <text lang="ara">الحضرية-نوع التسوية</text>
+            </name>
+        </item>
+        <item id="2b53cb2a" nid="62" name="Хутор">
+            <groups>
+                <group nid="41">rostur_locality</group>
+            </groups>
+            <name>
+                <text lang="rus">Хутор</text>
+                <text lang="eng">Farm</text>
+                <text lang="deu">Der Bauernhof</text>
+                <text lang="fra">La ferme</text>
+                <text lang="spa">La casería</text>
+                <text lang="zho">农场</text>
+                <text lang="jpn">農場</text>
+                <text lang="ara">مزرعة</text>
+            </name>
+        </item>
+        <item id="634409d4" nid="63" name="Сельское поселение">
+            <name>
+                <text lang="rus">Сельское поселение</text>
+                <text lang="eng">Rural settlement</text>
+                <text lang="deu">Ländliche Siedlung</text>
+                <text lang="fra">Établissement rural de</text>
+                <text lang="spa">Aldea rural</text>
+                <text lang="zho">农村解决</text>
+                <text lang="jpn">農村集落</text>
+                <text lang="ara">التسوية الريفية</text>
+            </name>
+        </item>
+        <item id="45756906" nid="64" name="Поселение">
+            <groups>
+                <group nid="41">rostur_locality</group>
+            </groups>
+            <name>
+                <text lang="rus">Поселение</text>
+                <text lang="eng">Settlement</text>
+                <text lang="deu">Siedlung</text>
+                <text lang="fra">Village</text>
+                <text lang="spa">El asentamiento de</text>
+                <text lang="zho">解决</text>
+                <text lang="jpn">決済</text>
+                <text lang="ara">تسوية</text>
+            </name>
+        </item>
+        <item id="318c11ae" nid="65" name="Село">
+            <groups>
+                <group nid="41">rostur_locality</group>
+            </groups>
+            <name>
+                <text lang="rus">Село</text>
+                <text lang="eng">Village</text>
+                <text lang="deu">Das Dorf</text>
+                <text lang="fra">Village</text>
+                <text lang="spa">Aldea</text>
+                <text lang="zho">村庄</text>
+                <text lang="jpn">村</text>
+                <text lang="ara">قرية</text>
+            </name>
+        </item>
+        <item id="dcf881fb" nid="66" name="Станица">
+            <groups>
+                <group nid="41">rostur_locality</group>
+            </groups>
+            <name>
+                <text lang="rus">Станица</text>
+                <text lang="eng">The village</text>
+                <text lang="deu">Die Kosakensiedlung</text>
+                <text lang="fra">Le village</text>
+                <text lang="spa">Página</text>
+                <text lang="zho">村里</text>
+                <text lang="jpn">村</text>
+                <text lang="ara">القرية</text>
+            </name>
+        </item>
+        <item id="1dd322a1" nid="67" name="Территория">
+            <name>
+                <text lang="rus">Территория</text>
+                <text lang="eng">Territory</text>
+                <text lang="deu">Gebiet</text>
+                <text lang="fra">Le territoire</text>
+                <text lang="spa">El territorio de</text>
+                <text lang="zho">领土</text>
+                <text lang="jpn">領土</text>
+                <text lang="ara">الإقليم</text>
+            </name>
+        </item>
+        <item id="069c9cb1" nid="68" name="Город">
+            <groups>
+                <group nid="41">rostur_locality</group>
+            </groups>
+            <name>
+                <text lang="rus">Город</text>
+                <text lang="eng">The city</text>
+                <text lang="deu">Stadt</text>
+                <text lang="fra">Ville</text>
+                <text lang="spa">Ciudad</text>
+                <text lang="zho">这城市</text>
+                <text lang="jpn">シティ</text>
+                <text lang="ara">المدينة</text>
+            </name>
+        </item>
+        <item id="9f26ce43" nid="69" name="Дачный поселок">
+            <name>
+                <text lang="rus">Дачный поселок</text>
+                <text lang="eng">Holiday village</text>
+                <text lang="deu">Feriendorf</text>
+                <text lang="fra">Un village de vacances</text>
+                <text lang="spa">Pueblo vacacional</text>
+                <text lang="zho">度假村</text>
+                <text lang="jpn">サマーコロニー</text>
+                <text lang="ara">Holiday village</text>
+            </name>
+        </item>
+        <item id="f999dd5a" nid="70" name="Местечко">
+            <name>
+                <text lang="rus">Местечко</text>
+                <text lang="eng">Place</text>
+                <text lang="deu">Platz</text>
+                <text lang="fra">Endroit</text>
+                <text lang="spa">Lugar</text>
+                <text lang="zho">的地方</text>
+                <text lang="jpn">タウン</text>
+                <text lang="ara">المكان</text>
+            </name>
+        </item>
+        <item id="3ddc6b9f" nid="71" name="Арбан">
+            <name>
+                <text lang="rus">Арбан</text>
+                <text lang="eng">The arban</text>
+                <text lang="deu">Арбан</text>
+                <text lang="fra">Арбан</text>
+                <text lang="spa">Арбан</text>
+                <text lang="zho">《Arban</text>
+                <text lang="jpn">アーバン</text>
+                <text lang="ara">على arban</text>
+            </name>
+        </item>
+        <item id="7169c260" nid="72" name="Населенный пункт">
+            <groups>
+                <group nid="41">rostur_locality</group>
+            </groups>
+            <name>
+                <text lang="rus">Населенный пункт</text>
+                <text lang="eng">Locality</text>
+                <text lang="deu">Ort</text>
+                <text lang="fra">Localité</text>
+                <text lang="spa">Localidad</text>
+                <text lang="zho">地点</text>
+                <text lang="jpn">地域</text>
+                <text lang="ara">المكان</text>
+            </name>
+        </item>
+        <item id="55ab3609" nid="73" name="Рабочий поселок">
+            <name>
+                <text lang="rus">Рабочий поселок</text>
+                <text lang="eng">Working village</text>
+                <text lang="deu">Arbeitersiedlung</text>
+                <text lang="fra">Le village de travail</text>
+                <text lang="spa">De trabajo el poblado</text>
+                <text lang="zho">工作的村子</text>
+                <text lang="jpn">作業村</text>
+                <text lang="ara">العمل قرية</text>
+            </name>
+        </item>
+        <item id="7a6fedab" nid="74" name="Деревня">
+            <groups>
+                <group nid="41">rostur_locality</group>
+            </groups>
+            <name>
+                <text lang="rus">Деревня</text>
+                <text lang="eng">The village</text>
+                <text lang="deu">Dorf</text>
+                <text lang="fra">Village</text>
+                <text lang="spa">Aldea</text>
+                <text lang="zho">村里</text>
+                <text lang="jpn">村</text>
+                <text lang="ara">القرية</text>
+            </name>
+        </item>
+        <item id="7195e898" nid="75" name="Станция">
+            <name>
+                <text lang="rus">Станция</text>
+                <text lang="eng">Station</text>
+                <text lang="deu">Station</text>
+                <text lang="fra">La station de</text>
+                <text lang="spa">La estación de</text>
+                <text lang="zho">站</text>
+                <text lang="jpn">駅</text>
+                <text lang="ara">محطة</text>
+            </name>
+        </item>
+        <item id="5f531a79" nid="76" name="Железнодорожная станция">
+            <name>
+                <text lang="rus">Железнодорожная станция</text>
+                <text lang="eng">Railway station</text>
+                <text lang="deu">Bahnhof</text>
+                <text lang="fra">La gare</text>
+                <text lang="spa">Estación de ferrocarril</text>
+                <text lang="zho">火车站</text>
+                <text lang="jpn">駅</text>
+                <text lang="ara">محطة سكة حديد</text>
+            </name>
+        </item>
+        <item id="b1938b71" nid="77" name="ж/д останов. (обгонный) пункт">
+            <name>
+                <text lang="rus">ж/д останов. (обгонный) пункт</text>
+                <text lang="eng">the railway stop. (overrunning) item</text>
+                <text lang="deu">/Bahnhof abfahren. (обгонный) Artikel</text>
+                <text lang="fra">gare arrêt. (обгонный) le paragraphe</text>
+                <text lang="spa">la estaciòn de parada. (обгонный) el párrafo</text>
+                <text lang="zho">铁路停止。 (占据)项目</text>
+                <text lang="jpn">ワット/ dで停止。</text>
+                <text lang="ara">السكك الحديدية توقف. (يكتسح) البند</text>
+            </name>
+        </item>
+        <item id="d4358b87" nid="78" name="Микрорайон">
+            <name>
+                <text lang="rus">Микрорайон</text>
+                <text lang="eng">Neighborhood</text>
+                <text lang="deu">Der Wohnkomplex</text>
+                <text lang="fra">Quartier</text>
+                <text lang="spa">La microrregión</text>
+                <text lang="zho">邻居</text>
+                <text lang="jpn">Microdistrict</text>
+                <text lang="ara">حي</text>
+            </name>
+        </item>
+        <item id="584d5e51" nid="79" name="Городок">
+            <name>
+                <text lang="rus">Городок</text>
+                <text lang="eng">Town</text>
+                <text lang="deu">Stadt</text>
+                <text lang="fra">Ville</text>
+                <text lang="spa">Ciudad</text>
+                <text lang="zho">镇上</text>
+                <text lang="jpn">タウン</text>
+                <text lang="ara">المدينة</text>
+            </name>
+        </item>
+        <item id="9f6b6951" nid="80" name="Разъезд">
+            <name>
+                <text lang="rus">Разъезд</text>
+                <text lang="eng">Siding</text>
+                <text lang="deu">Reisen</text>
+                <text lang="fra">Le croisement</text>
+                <text lang="spa">Enlace</text>
+                <text lang="zho">站在一边</text>
+                <text lang="jpn">パトロール</text>
+                <text lang="ara">انحياز</text>
+            </name>
+        </item>
+        <item id="6f81be10" nid="81" name="Железнодорожный пост">
+            <name>
+                <text lang="rus">Железнодорожный пост</text>
+                <text lang="eng">Railroad post</text>
+                <text lang="deu">Der Bahnhof Beitrag</text>
+                <text lang="fra">Gare de post</text>
+                <text lang="spa">La estación post</text>
+                <text lang="zho">铁路公司的员额</text>
+                <text lang="jpn">鉄道ポスト</text>
+                <text lang="ara">السكك الحديدية بعد</text>
+            </name>
+        </item>
+        <item id="333ef060" nid="82" name="Почтовое отделение">
+            <name>
+                <text lang="rus">Почтовое отделение</text>
+                <text lang="eng">Post office</text>
+                <text lang="deu">Postamt</text>
+                <text lang="fra">Bureau de poste</text>
+                <text lang="spa">Oficina de correos</text>
+                <text lang="zho">员额的办公室</text>
+                <text lang="jpn">郵便局</text>
+                <text lang="ara">مكتب بريد</text>
+            </name>
+        </item>
+        <item id="f0ae8a59" nid="83" name="Починок">
+            <name>
+                <text lang="rus">Починок</text>
+                <text lang="eng">Repairings</text>
+                <text lang="deu">Potschinok</text>
+                <text lang="fra">Pochinok</text>
+                <text lang="spa">Arreglos</text>
+                <text lang="zho">Repairings</text>
+                <text lang="jpn">Pochinok</text>
+                <text lang="ara">Repairings</text>
+            </name>
+        </item>
+        <item id="e4cfb24e" nid="84" name="Железнодорожный разъезд">
+            <name>
+                <text lang="rus">Железнодорожный разъезд</text>
+                <text lang="eng">Railroad crossing</text>
+                <text lang="deu">Eisenbahn-Reisen</text>
+                <text lang="fra">Le croisement ferroviaire</text>
+                <text lang="spa">La estación de partida</text>
+                <text lang="zho">铁路过境点</text>
+                <text lang="jpn">鉄道サイディング</text>
+                <text lang="ara">سكة عبور</text>
+            </name>
+        </item>
+        <item id="a6a6b750" nid="85" name="Железнодорожная казарма">
+            <name>
+                <text lang="rus">Железнодорожная казарма</text>
+                <text lang="eng">Railway barracks</text>
+                <text lang="deu">Bahnhof-Kaserne</text>
+                <text lang="fra">De la gare, la caserne</text>
+                <text lang="spa">La estación ferroviaria de el cuartel</text>
+                <text lang="zho">铁路营</text>
+                <text lang="jpn">鉄道兵舎</text>
+                <text lang="ara">السكك الحديدية الثكنات</text>
+            </name>
+        </item>
+        <item id="7bd6f7cb" nid="86" name="Казарма">
+            <name>
+                <text lang="rus">Казарма</text>
+                <text lang="eng">Barracks</text>
+                <text lang="deu">Kaserne</text>
+                <text lang="fra">Caserne</text>
+                <text lang="spa">El cuartel</text>
+                <text lang="zho">营</text>
+                <text lang="jpn">兵舎</text>
+                <text lang="ara">ثكنة</text>
+            </name>
+        </item>
+        <item id="06d86cde" nid="87" name="Слобода">
+            <name>
+                <text lang="rus">Слобода</text>
+                <text lang="eng">Sloboda</text>
+                <text lang="deu">Sloboda</text>
+                <text lang="fra">Sloboda</text>
+                <text lang="spa">Arrabal</text>
+                <text lang="zho">Sloboda</text>
+                <text lang="jpn">スロボダ</text>
+                <text lang="ara">سلوبودا</text>
+            </name>
+        </item>
+        <item id="08c77f72" nid="88" name="Железнодорожная будка">
+            <name>
+                <text lang="rus">Железнодорожная будка</text>
+                <text lang="eng">Train booth</text>
+                <text lang="deu">Bahnhof-Hütte</text>
+                <text lang="fra">La gare la cabine</text>
+                <text lang="spa">La estación ferroviaria de la cabina</text>
+                <text lang="zho">火车亭</text>
+                <text lang="jpn">鉄道ブース</text>
+                <text lang="ara">قطار كشك</text>
+            </name>
+        </item>
+        <item id="a1dcdbe4" nid="89" name="Железнодорожная платформа">
+            <name>
+                <text lang="rus">Железнодорожная платформа</text>
+                <text lang="eng">Railway platform</text>
+                <text lang="deu">Der Bahnsteig</text>
+                <text lang="fra">Plateforme ferroviaire</text>
+                <text lang="spa">Plataforma ferroviaria</text>
+                <text lang="zho">铁路站台</text>
+                <text lang="jpn">鉄道プラットフォーム</text>
+                <text lang="ara">منصة للسكك الحديدية</text>
+            </name>
+        </item>
+        <item id="a7c26f72" nid="90" name="Квартал">
+            <name>
+                <text lang="rus">Квартал</text>
+                <text lang="eng">Quarter</text>
+                <text lang="deu">Quartal</text>
+                <text lang="fra">Trimestre</text>
+                <text lang="spa">Trimestre</text>
+                <text lang="zho">季度</text>
+                <text lang="jpn">四半期</text>
+                <text lang="ara">الربع</text>
+            </name>
+        </item>
+        <item id="29c7e168" nid="91" name="Курортный поселок">
+            <groups>
+                <group nid="8">rostur_recreational</group>
+                <group nid="41">rostur_locality</group>
+            </groups>
+            <name>
+                <text lang="rus">Курортный поселок</text>
+                <text lang="eng">Holiday village</text>
+                <text lang="deu">Das Feriendorf</text>
+                <text lang="fra">Village de vacances</text>
+                <text lang="spa">Complejo vacacional</text>
+                <text lang="zho">度假村</text>
+                <text lang="jpn">リゾート村</text>
+                <text lang="ara">Holiday village</text>
+            </name>
+        </item>
+        <item id="4d4d8a15" nid="92" name="Автодорога">
+            <name>
+                <text lang="rus">Автодорога</text>
+                <text lang="eng">Road</text>
+                <text lang="deu">Die Autostraße</text>
+                <text lang="fra">Autoroute</text>
+                <text lang="spa">Circunvalación</text>
+                <text lang="zho">路</text>
+                <text lang="jpn">高速道路</text>
+                <text lang="ara">الطريق</text>
+            </name>
+        </item>
+        <item id="ebdf2266" nid="93" name="Выселки(ок)">
+            <name>
+                <text lang="rus">Выселки(ок)</text>
+                <text lang="eng">Vyselki(OK)</text>
+                <text lang="deu">Regelungen(OK)</text>
+                <text lang="fra">Règlements(ok)</text>
+                <text lang="spa">Establecimientos(aceptar)</text>
+                <text lang="zho">Vyselki(好)</text>
+                <text lang="jpn">決済（複数可）</text>
+                <text lang="ara">Vyselki(موافق)</text>
+            </name>
+        </item>
+        <item id="43ac0395" nid="94" name="Аал">
+            <name>
+                <text lang="rus">Аал</text>
+                <text lang="eng">AAL</text>
+                <text lang="deu">Аал</text>
+                <text lang="fra">Aal</text>
+                <text lang="spa">Aal</text>
+                <text lang="zho">AAL</text>
+                <text lang="jpn">AAL</text>
+                <text lang="ara">العال</text>
+            </name>
+        </item>
+        <item id="1a5241db" nid="95" name="Район">
+            <name>
+                <text lang="rus">Район</text>
+                <text lang="eng">District</text>
+                <text lang="deu">Landkreis</text>
+                <text lang="fra">Secteur</text>
+                <text lang="spa">La zona</text>
+                <text lang="zho">区</text>
+                <text lang="jpn">エリア</text>
+                <text lang="ara">حي</text>
+            </name>
+        </item>
+        <item id="71081ea6" nid="96" name="Поселок и(при) станция(и)">
+            <name>
+                <text lang="rus">Поселок и(при) станция(и)</text>
+                <text lang="eng">The village and the(in) station(s)</text>
+                <text lang="deu">Dorf-und(bei) Station(und)</text>
+                <text lang="fra">Le bourg et(lorsque) la station(et)</text>
+                <text lang="spa">El poblado y el(la) estación(es)</text>
+                <text lang="zho">村里的局(s)</text>
+                <text lang="jpn">決済局（単数または複数）（時）</text>
+                <text lang="ara">قرية و(في) من محطة(s)</text>
+            </name>
+        </item>
+        <item id="6ba12016" nid="2" name="SPA-комплексы">
+            <groups>
+                <group nid="8">rostur_recreational</group>
+            </groups>
+            <name>
+                <text lang="rus">SPA-комплексы</text>
+                <text lang="eng">SPA-complexes</text>
+                <text lang="deu">SPA-komplexe</text>
+                <text lang="fra">SPA et des complexes de</text>
+                <text lang="spa">SPA-complejos</text>
+                <text lang="zho">温泉疗养设施</text>
+                <text lang="jpn">SPA-複雑な</text>
+                <text lang="ara">سبا-المجمعات</text>
+            </name>
+        </item>
+        <item id="f92a947d" nid="3" name="Аквапарки">
+            <groups>
+                <group nid="1">rostur_fun</group>
+                <group nid="8">rostur_recreational</group>
+            </groups>
+            <name>
+                <text lang="rus">Аквапарки</text>
+                <text lang="eng">Water parks</text>
+                <text lang="deu">Wasserparks</text>
+                <text lang="fra">Parcs aquatiques</text>
+                <text lang="spa">Parques acuáticos</text>
+                <text lang="zho">水上乐园</text>
+                <text lang="jpn">ウォーターパーク</text>
+                <text lang="ara">الحدائق المائية</text>
+            </name>
+        </item>
+        <item id="52f8ae2f" nid="4" name="Памятники архитектуры">
+            <groups>
+                <group nid="2">rostur_culture</group>
+            </groups>
+            <name>
+                <text lang="rus">Памятники архитектуры</text>
+                <text lang="eng">Monuments</text>
+                <text lang="deu">Die Denkmäler der Architektur</text>
+                <text lang="fra">Les monuments de l'architecture</text>
+                <text lang="spa">Los monumentos de la arquitectura</text>
+                <text lang="zho">纪念碑</text>
+                <text lang="jpn">建築モニュメント</text>
+                <text lang="ara">المعالم</text>
+            </name>
+        </item>
+        <item id="12676ce7" nid="5" name="Аттракционы">
+            <groups>
+                <group nid="1">rostur_fun</group>
+            </groups>
+            <name>
+                <text lang="rus">Аттракционы</text>
+                <text lang="eng">Rides</text>
+                <text lang="deu">Attraktionen</text>
+                <text lang="fra">Attractions</text>
+                <text lang="spa">Atracciones</text>
+                <text lang="zho">骑</text>
+                <text lang="jpn">観光名所</text>
+                <text lang="ara">ركوب الخيل</text>
+            </name>
+        </item>
+        <item id="3318560b" nid="6" name="Природные памятники">
+            <groups>
+                <group nid="3">rostur_nature</group>
+            </groups>
+            <name>
+                <text lang="rus">Природные памятники</text>
+                <text lang="eng">Natural attractions</text>
+                <text lang="deu">Natürliche Sehenswürdigkeiten</text>
+                <text lang="fra">Sites naturels</text>
+                <text lang="spa">Atractivos naturales</text>
+                <text lang="zho">自然景点</text>
+                <text lang="jpn">自然のアトラクション</text>
+                <text lang="ara">المعالم الطبيعية</text>
+            </name>
+        </item>
+        <item id="3783b818" nid="12" name="Сады, скверы, парки">
+            <groups>
+                <group nid="3">rostur_nature</group>
+            </groups>
+            <name>
+                <text lang="rus">Сады, скверы, парки</text>
+                <text lang="eng">Gardens, squares, parks</text>
+                <text lang="deu">Gärten, Parks</text>
+                <text lang="fra">Les jardins, les squares, les parcs</text>
+                <text lang="spa">Jardines, plazas, parques</text>
+                <text lang="zho">花园广场、公园</text>
+                <text lang="jpn">庭園、広場、公園</text>
+                <text lang="ara">الحدائق والساحات والمنتزهات</text>
+            </name>
+        </item>
+        <item id="c7940300" nid="13" name="Святыни и храмы">
+            <groups>
+                <group nid="6">rostur_religions</group>
+            </groups>
+            <name>
+                <text lang="rus">Святыни и храмы</text>
+                <text lang="eng">Shrines and temples</text>
+                <text lang="deu">Schreine und Tempel</text>
+                <text lang="fra">Les sanctuaires et les temples</text>
+                <text lang="spa">Los santuarios y templos</text>
+                <text lang="zho">圣祠和庙宇</text>
+                <text lang="jpn">神社仏閣</text>
+                <text lang="ara">الأضرحة والمعابد</text>
+            </name>
+        </item>
+        <item id="228c0b95" nid="14" name="Смотровые площадки">
+            <groups>
+                <group nid="1">rostur_fun</group>
+            </groups>
+            <name>
+                <text lang="rus">Смотровые площадки</text>
+                <text lang="eng">The observation deck</text>
+                <text lang="deu">Die Aussichtsplattformen</text>
+                <text lang="fra">Une terrasse d'observation</text>
+                <text lang="spa">El mirador del</text>
+                <text lang="zho">该观测台</text>
+                <text lang="jpn">プラットフォームを表示する</text>
+                <text lang="ara">مراقبة سطح السفينة</text>
+            </name>
+        </item>
+        <item id="2082e45a" nid="15" name="Железнодорожные вокзалы">
+            <name>
+                <text lang="rus">Железнодорожные вокзалы</text>
+                <text lang="eng">Railway stations</text>
+                <text lang="deu">Bahnhöfe</text>
+                <text lang="fra">Les gares</text>
+                <text lang="spa">Estaciones de tren</text>
+                <text lang="zho">火车站</text>
+                <text lang="jpn">鉄道駅</text>
+                <text lang="ara">محطة سكة حديد</text>
+            </name>
+        </item>
+        <item id="b6e20efa" nid="16" name="Водные вокзалы">
+            <name>
+                <text lang="rus">Водные вокзалы</text>
+                <text lang="eng">Water stations</text>
+                <text lang="deu">Wasser-Bahnhöfe</text>
+                <text lang="fra">Eau gares</text>
+                <text lang="spa">De agua de las estaciones de tren</text>
+                <text lang="zho">水站</text>
+                <text lang="jpn">水の駅</text>
+                <text lang="ara">محطات المياه</text>
+            </name>
+        </item>
+        <item id="ae617c8d" nid="17" name="Аэропорты">
+            <name>
+                <text lang="rus">Аэропорты</text>
+                <text lang="eng">Airports</text>
+                <text lang="deu">Flughäfen</text>
+                <text lang="fra">Aéroports</text>
+                <text lang="spa">Aeropuertos</text>
+                <text lang="zho">机场</text>
+                <text lang="jpn">空港</text>
+                <text lang="ara">المطارات</text>
+            </name>
+        </item>
+        <item id="af47ec4c" nid="18" name="Автовокзалы">
+            <name>
+                <text lang="rus">Автовокзалы</text>
+                <text lang="eng">Bus stations</text>
+                <text lang="deu">Bus</text>
+                <text lang="fra">Gares routières</text>
+                <text lang="spa">Estaciones de autobuses</text>
+                <text lang="zho">公共汽车站</text>
+                <text lang="jpn">バス</text>
+                <text lang="ara">محطات الحافلات</text>
+            </name>
+        </item>
+        <item id="63b336d0" nid="20" name="Такси">
+            <name>
+                <text lang="rus">Такси</text>
+                <text lang="eng">Taxi</text>
+                <text lang="deu">Taxi</text>
+                <text lang="fra">Taxi</text>
+                <text lang="spa">Taxi</text>
+                <text lang="zho">出租车</text>
+                <text lang="jpn">タクシー</text>
+                <text lang="ara">سيارات الأجرة</text>
+            </name>
+        </item>
+        <item id="3b0b18d3" nid="21" name="Станции метро">
+            <name>
+                <text lang="rus">Станции метро</text>
+                <text lang="eng">Metro station</text>
+                <text lang="deu">U-Bahnhof</text>
+                <text lang="fra">La station de métro</text>
+                <text lang="spa">La estación de metro de</text>
+                <text lang="zho">地铁站</text>
+                <text lang="jpn">駅</text>
+                <text lang="ara">محطة مترو</text>
+            </name>
+        </item>
+        <item id="63ddb6d7" nid="22" name="Ночные клубы">
+            <groups>
+                <group nid="1">rostur_fun</group>
+            </groups>
+            <name>
+                <text lang="rus">Ночные клубы</text>
+                <text lang="eng">Nightclubs</text>
+                <text lang="deu">Nachtclubs</text>
+                <text lang="fra">Boîtes de nuit</text>
+                <text lang="spa">Clubes nocturnos</text>
+                <text lang="zho">夜总会</text>
+                <text lang="jpn">ナイトクラブ</text>
+                <text lang="ara">النوادي الليلية</text>
+            </name>
+        </item>
+        <item id="a6e9d0bb" nid="24" name="Библиотеки">
+            <groups>
+                <group nid="2">rostur_culture</group>
+            </groups>
+            <name>
+                <text lang="rus">Библиотеки</text>
+                <text lang="eng">Library</text>
+                <text lang="deu">Bibliotheken</text>
+                <text lang="fra">De la bibliothèque</text>
+                <text lang="spa">La biblioteca</text>
+                <text lang="zho">图书馆</text>
+                <text lang="jpn">ライブラリ</text>
+                <text lang="ara">المكتبة</text>
+            </name>
+        </item>
+        <item id="c81f5aee" nid="25" name="Больницы и оздоровительные центры">
+            <groups>
+                <group nid="8">rostur_recreational</group>
+            </groups>
+            <name>
+                <text lang="rus">Больницы и оздоровительные центры</text>
+                <text lang="eng">Hospitals and Wellness centers</text>
+                <text lang="deu">Krankenhäuser und Rehabilitationszentren</text>
+                <text lang="fra">Les hôpitaux et les centres de bien-être</text>
+                <text lang="spa">Los hospitales y centros de salud</text>
+                <text lang="zho">医院和健康中心</text>
+                <text lang="jpn">病院や保健センター</text>
+                <text lang="ara">مستشفيات و مراكز العافية</text>
+            </name>
+        </item>
+        <item id="2751d2f3" nid="26" name="Горнолыжный отдых">
+            <groups>
+                <group nid="5">rostur_active</group>
+                <group nid="81">winter_holidays</group>
+            </groups>
+            <name>
+                <text lang="rus">Горнолыжный отдых</text>
+                <text lang="eng">Ski holidays</text>
+                <text lang="deu">Ski-Urlaub</text>
+                <text lang="fra">Vacances de ski</text>
+                <text lang="spa">Unas vacaciones de esquí</text>
+                <text lang="zho">滑雪假期</text>
+                <text lang="jpn">スキー休暇</text>
+                <text lang="ara">عطلات التزلج</text>
+            </name>
+        </item>
+        <item id="7d982a01" nid="27" name="Гостевые дома">
+            <name>
+                <text lang="rus">Гостевые дома</text>
+                <text lang="eng">Guest house</text>
+                <text lang="deu">Gästehäuser</text>
+                <text lang="fra">Maisons d'hôtes</text>
+                <text lang="spa">Casas de huéspedes</text>
+                <text lang="zho">客房</text>
+                <text lang="jpn">ゲストハウス</text>
+                <text lang="ara">بيت الضيافة</text>
+            </name>
+        </item>
+        <item id="6b3ca8e9" nid="28" name="Мотели">
+            <name>
+                <text lang="rus">Мотели</text>
+                <text lang="eng">Motels</text>
+                <text lang="deu">Motels</text>
+                <text lang="fra">Les motels</text>
+                <text lang="spa">Los moteles</text>
+                <text lang="zho">汽车旅馆</text>
+                <text lang="jpn">モーテル</text>
+                <text lang="ara">الموتيلات</text>
+            </name>
+        </item>
+        <item id="d9c2c665" nid="29" name="Гостиницы">
+            <name>
+                <text lang="rus">Гостиницы</text>
+                <text lang="eng">Of</text>
+                <text lang="deu">Hotels</text>
+                <text lang="fra">Hôtels</text>
+                <text lang="spa">Hoteles</text>
+                <text lang="zho">的</text>
+                <text lang="jpn">ホテル</text>
+                <text lang="ara">من</text>
+            </name>
+        </item>
+        <item id="72041954" nid="30" name="Санатории">
+            <groups>
+                <group nid="8">rostur_recreational</group>
+            </groups>
+            <name>
+                <text lang="rus">Санатории</text>
+                <text lang="eng">Motels</text>
+                <text lang="deu">Sanatorium</text>
+                <text lang="fra">Sanatorium</text>
+                <text lang="spa">El sanatorio</text>
+                <text lang="zho">汽车旅馆</text>
+                <text lang="jpn">療養所</text>
+                <text lang="ara">الموتيلات</text>
+            </name>
+        </item>
+        <item id="56d89efb" nid="31" name="Пансионаты, дома отдыха">
+            <groups>
+                <group nid="8">rostur_recreational</group>
+            </groups>
+            <name>
+                <text lang="rus">Пансионаты, дома отдыха</text>
+                <text lang="eng">The houses, holiday homes</text>
+                <text lang="deu">Die Pensionen, Ferienhäuser</text>
+                <text lang="fra">Les pensionnats, maisons de vacances</text>
+                <text lang="spa">Los hoteles-pensiones, casas de vacaciones</text>
+                <text lang="zho">房子的度假住宅</text>
+                <text lang="jpn">ホリデーホテル</text>
+                <text lang="ara">المنازل, ديكورات منازل</text>
+            </name>
+        </item>
+        <item id="5aa8d200" nid="32" name="Туристические базы">
+            <groups>
+                <group nid="5">rostur_active</group>
+            </groups>
+            <name>
+                <text lang="rus">Туристические базы</text>
+                <text lang="eng">Tourist base</text>
+                <text lang="deu">Reise-Datenbank</text>
+                <text lang="fra">Tourisme</text>
+                <text lang="spa">Turísticos de la base de</text>
+                <text lang="zho">旅游基础</text>
+                <text lang="jpn">観光拠点</text>
+                <text lang="ara">السياحية قاعدة</text>
+            </name>
+        </item>
+        <item id="3e63f301" nid="33" name="Водный спорт">
+            <groups>
+                <group nid="5">rostur_active</group>
+            </groups>
+            <name>
+                <text lang="rus">Водный спорт</text>
+                <text lang="eng">Water sports</text>
+                <text lang="deu">Wasser-Sport</text>
+                <text lang="fra">Centre nautique</text>
+                <text lang="spa">Deportes acuaticos</text>
+                <text lang="zho">水上运动</text>
+                <text lang="jpn">ウォータースポーツ</text>
+                <text lang="ara">الرياضات المائية</text>
+            </name>
+        </item>
+        <item id="ceec2cd6" nid="34" name="Конный спорт">
+            <groups>
+                <group nid="5">rostur_active</group>
+            </groups>
+            <name>
+                <text lang="rus">Конный спорт</text>
+                <text lang="eng">Horse riding</text>
+                <text lang="deu">Reiten</text>
+                <text lang="fra">Sports équestres</text>
+                <text lang="spa">El deporte hpico</text>
+                <text lang="zho">骑马</text>
+                <text lang="jpn">馬術スポーツ</text>
+                <text lang="ara">ركوب الخيل</text>
+            </name>
+        </item>
+        <item id="e59e2966" nid="35" name="Автоспорт">
+            <groups>
+                <group nid="5">rostur_active</group>
+            </groups>
+            <name>
+                <text lang="rus">Автоспорт</text>
+                <text lang="eng">Motorsports</text>
+                <text lang="deu">Motorsport</text>
+                <text lang="fra">Sports mécaniques</text>
+                <text lang="spa">Deportes de motor</text>
+                <text lang="zho">项赛车运动</text>
+                <text lang="jpn">モータースポーツ</text>
+                <text lang="ara">رياضة السيارات</text>
+            </name>
+        </item>
+        <item id="0b21bf4d" nid="36" name="Выставочные комплексы">
+            <groups>
+                <group nid="2">rostur_culture</group>
+            </groups>
+            <name>
+                <text lang="rus">Выставочные комплексы</text>
+                <text lang="eng">Exhibition centres</text>
+                <text lang="deu">Messezentren</text>
+                <text lang="fra">Parc des expositions</text>
+                <text lang="spa">Salas de exposiciones, etc</text>
+                <text lang="zho">展览中心</text>
+                <text lang="jpn">エキシビションセンター</text>
+                <text lang="ara">مراكز المعارض</text>
+            </name>
+        </item>
+        <item id="ead3409b" nid="37" name="Культурные центры">
+            <groups>
+                <group nid="2">rostur_culture</group>
+            </groups>
+            <name>
+                <text lang="rus">Культурные центры</text>
+                <text lang="eng">Cultural centers</text>
+                <text lang="deu">Kulturelle Zentren</text>
+                <text lang="fra">Centres culturels</text>
+                <text lang="spa">Centros culturales</text>
+                <text lang="zho">文化中心</text>
+                <text lang="jpn">文化センター</text>
+                <text lang="ara">المراكز الثقافية</text>
+            </name>
+        </item>
+        <item id="5ffa8515" nid="40" name="Полиция">
+            <name>
+                <text lang="rus">Полиция</text>
+                <text lang="eng">Police</text>
+                <text lang="deu">Polizei</text>
+                <text lang="fra">La police</text>
+                <text lang="spa">La policía</text>
+                <text lang="zho">警察</text>
+                <text lang="jpn">警察</text>
+                <text lang="ara">الشرطة</text>
+            </name>
+        </item>
+        <item id="70b475c1" nid="41" name="Театры">
+            <groups>
+                <group nid="1">rostur_fun</group>
+                <group nid="2">rostur_culture</group>
+            </groups>
+            <name>
+                <text lang="rus">Театры</text>
+                <text lang="eng">Theatres</text>
+                <text lang="deu">Theater</text>
+                <text lang="fra">Théâtres</text>
+                <text lang="spa">Teatros</text>
+                <text lang="zho">剧院</text>
+                <text lang="jpn">映画館</text>
+                <text lang="ara">المسارح</text>
+            </name>
+        </item>
+        <item id="e7d36873" nid="42" name="Кинотеатры">
+            <groups>
+                <group nid="1">rostur_fun</group>
+            </groups>
+            <name>
+                <text lang="rus">Кинотеатры</text>
+                <text lang="eng">Cinemas</text>
+                <text lang="deu">Kinos</text>
+                <text lang="fra">Cinéma</text>
+                <text lang="spa">Cines</text>
+                <text lang="zho">电影院</text>
+                <text lang="jpn">映画館</text>
+                <text lang="ara">السينما</text>
+            </name>
+        </item>
+        <item id="40b04075" nid="43" name="Экспоцентры">
+            <name>
+                <text lang="rus">Экспоцентры</text>
+                <text lang="eng">Venues</text>
+                <text lang="deu">Экспоцентры</text>
+                <text lang="fra">Palais des congrès</text>
+                <text lang="spa">Экспоцентры</text>
+                <text lang="zho">地点</text>
+                <text lang="jpn">会場</text>
+                <text lang="ara">الأماكن</text>
+            </name>
+        </item>
+        <item id="60e3382f" nid="44" name="Торговые центры">
+            <groups>
+                <group nid="1">rostur_fun</group>
+            </groups>
+            <name>
+                <text lang="rus">Торговые центры</text>
+                <text lang="eng">Shopping centers</text>
+                <text lang="deu">Einkaufszentren</text>
+                <text lang="fra">Centres commerciaux</text>
+                <text lang="spa">Centros comerciales</text>
+                <text lang="zho">购物中心</text>
+                <text lang="jpn">ショッピングセンター</text>
+                <text lang="ara">مراكز التسوق</text>
+            </name>
+        </item>
+        <item id="b5ab914b" nid="45" name="Бизнес-центры">
+            <name>
+                <text lang="rus">Бизнес-центры</text>
+                <text lang="eng">Business centers</text>
+                <text lang="deu">Business-Zentren</text>
+                <text lang="fra">Centres d'affaires</text>
+                <text lang="spa">Centros de negocios</text>
+                <text lang="zho">商业中心</text>
+                <text lang="jpn">ビジネスセンター</text>
+                <text lang="ara">المراكز التجارية</text>
+            </name>
+        </item>
+        <item id="891c9dcf" nid="47" name="Административный центр региона">
+            <groups>
+                <group nid="41">rostur_locality</group>
+            </groups>
+            <name>
+                <text lang="rus">Административный центр региона</text>
+                <text lang="eng">The administrative centre of the region</text>
+                <text lang="deu">Verwaltungszentrum der Region</text>
+                <text lang="fra">Le centre administratif de la région</text>
+                <text lang="spa">El centro administrativo de la región</text>
+                <text lang="zho">的行政中心的地区</text>
+                <text lang="jpn">地域の行政の中心地</text>
+                <text lang="ara">المركز الإداري للمنطقة</text>
+            </name>
+        </item>
+        <item id="3a9a5ca0" nid="50" name="Кемпинги">
+            <groups>
+                <group nid="3">rostur_nature</group>
+            </groups>
+            <name>
+                <text lang="rus">Кемпинги</text>
+                <text lang="eng">Campsites</text>
+                <text lang="deu">Campingplätze</text>
+                <text lang="fra">Campings</text>
+                <text lang="spa">Campings</text>
+                <text lang="zho">露营地</text>
+                <text lang="jpn">キャンプ場</text>
+                <text lang="ara">المعسكرات</text>
+            </name>
+        </item>
+        <item id="3ddf059b" nid="51" name="Фуникулеры / подъемники">
+            <groups>
+                <group nid="1">rostur_fun</group>
+            </groups>
+            <name>
+                <text lang="rus">Фуникулеры / подъемники</text>
+                <text lang="eng">Cable cars / lifts</text>
+                <text lang="deu">Seilbahnen / Skilifte</text>
+                <text lang="fra">Les funiculaires / remontées mécaniques</text>
+                <text lang="spa">Teleféricos / elevadores</text>
+                <text lang="zho">缆车/电梯</text>
+                <text lang="jpn">チェアリフト/エレベーター</text>
+                <text lang="ara">التلفريك / مصاعد</text>
+            </name>
+        </item>
+        <item id="5770bced" nid="52" name="Мосты">
+            <groups>
+                <group nid="2">rostur_culture</group>
+            </groups>
+            <name>
+                <text lang="rus">Мосты</text>
+                <text lang="eng">Bridges</text>
+                <text lang="deu">Brücken</text>
+                <text lang="fra">Ponts</text>
+                <text lang="spa">Puentes</text>
+                <text lang="zho">桥梁</text>
+                <text lang="jpn">橋</text>
+                <text lang="ara">الجسور</text>
+            </name>
+        </item>
+        <item id="e92bbb6f" nid="97" name="Промышленная зона">
+            <name>
+                <text lang="rus">Промышленная зона</text>
+                <text lang="eng">Industrial zone</text>
+                <text lang="deu">Industriegebiet</text>
+                <text lang="fra">Zone industrielle</text>
+                <text lang="spa">Zona industrial</text>
+                <text lang="zho">工业区</text>
+                <text lang="jpn">工業地帯</text>
+                <text lang="ara">المنطقة الصناعية</text>
+            </name>
+        </item>
+        <item id="b5e1b9ea" nid="98" name="Кордон">
+            <name>
+                <text lang="rus">Кордон</text>
+                <text lang="eng">Cordon</text>
+                <text lang="deu">Cordon</text>
+                <text lang="fra">Cordon</text>
+                <text lang="spa">Cordón</text>
+                <text lang="zho">警戒线</text>
+                <text lang="jpn">非常線</text>
+                <text lang="ara">كوردو</text>
+            </name>
+        </item>
+        <item id="febc38ac" nid="99" name="Погост">
+            <name>
+                <text lang="rus">Погост</text>
+                <text lang="eng">The churchyard</text>
+                <text lang="deu">Der gottesacker</text>
+                <text lang="fra">Le cimetière</text>
+                <text lang="spa">Cementerio</text>
+                <text lang="zho">在教堂院子里</text>
+                <text lang="jpn">教会の墓地</text>
+                <text lang="ara">باحة الكنيسة</text>
+            </name>
+        </item>
+        <item id="c1e73217" nid="100" name="Планировочный район">
+            <name>
+                <text lang="rus">Планировочный район</text>
+                <text lang="eng">Planning district</text>
+                <text lang="deu">Планировочный Landkreis</text>
+                <text lang="fra">Планировочный secteur</text>
+                <text lang="spa">Планировочный la zona</text>
+                <text lang="zho">规划地区</text>
+                <text lang="jpn">計画区域</text>
+                <text lang="ara">التخطيط حي</text>
+            </name>
+        </item>
+        <item id="f49ee955" nid="101" name="Сельсовет">
+            <name>
+                <text lang="rus">Сельсовет</text>
+                <text lang="eng">The village Council</text>
+                <text lang="deu">Gemeinde</text>
+                <text lang="fra">Sel'sovet</text>
+                <text lang="spa">Сельсовет</text>
+                <text lang="zho">村理事会</text>
+                <text lang="jpn">村評議会</text>
+                <text lang="ara">مجلس القرية</text>
+            </name>
+        </item>
+        <item id="3bdbc68e" nid="102" name="Острова">
+            <groups>
+                <group nid="3">rostur_nature</group>
+            </groups>
+            <name>
+                <text lang="rus">Острова</text>
+                <text lang="eng">Islands</text>
+                <text lang="deu">Die Insel</text>
+                <text lang="fra">De l'île</text>
+                <text lang="spa">La isla</text>
+                <text lang="zho">群岛</text>
+                <text lang="jpn">島々</text>
+                <text lang="ara">الجزر</text>
+            </name>
+        </item>
+        <item id="8264b691" nid="103" name="Сельский округ">
+            <name>
+                <text lang="rus">Сельский округ</text>
+                <text lang="eng">Rural district</text>
+                <text lang="deu">Ländliche Bezirk</text>
+                <text lang="fra">Le comté rural de</text>
+                <text lang="spa">Rural del distrito</text>
+                <text lang="zho">农村地区</text>
+                <text lang="jpn">農村地域</text>
+                <text lang="ara">المناطق الريفية</text>
+            </name>
+        </item>
+        <item id="c5a78c65" nid="104" name="Жилой район">
+            <name>
+                <text lang="rus">Жилой район</text>
+                <text lang="eng">Residential area</text>
+                <text lang="deu">Wohngebiet</text>
+                <text lang="fra">Quartier résidentiel</text>
+                <text lang="spa">Zona residencial</text>
+                <text lang="zho">居民区</text>
+                <text lang="jpn">住宅街</text>
+                <text lang="ara">منطقة سكنية</text>
+            </name>
+        </item>
+        <item id="016c515a" nid="105" name="Массив">
+            <name>
+                <text lang="rus">Массив</text>
+                <text lang="eng">Array</text>
+                <text lang="deu">Array</text>
+                <text lang="fra">Un tableau</text>
+                <text lang="spa">La matriz de</text>
+                <text lang="zho">阵列</text>
+                <text lang="jpn">配列</text>
+                <text lang="ara">مجموعة</text>
+            </name>
+        </item>
+        <item id="596184bf" nid="106" name="Сельское муниципальное образо">
+            <name>
+                <text lang="rus">Сельское муниципальное образо</text>
+                <text lang="eng">Rural municipal education</text>
+                <text lang="deu">Landwirtschaft, kommunale edu</text>
+                <text lang="fra">L'municipal de l'éducation</text>
+                <text lang="spa">La municipal de educación</text>
+                <text lang="zho">农村市镇的教育</text>
+                <text lang="jpn">農村自治体の道</text>
+                <text lang="ara">الريفية التعليم البلدية</text>
+            </name>
+        </item>
+        <item id="16f443f7" nid="107" name="Заимка">
+            <name>
+                <text lang="rus">Заимка</text>
+                <text lang="eng">Zaimka</text>
+                <text lang="deu">Заимка</text>
+                <text lang="fra">Règlement nouvelle</text>
+                <text lang="spa">Заимка</text>
+                <text lang="zho">Zaimka</text>
+                <text lang="jpn">Zaimka</text>
+                <text lang="ara">Zaimka</text>
+            </name>
+        </item>
+        <item id="f6b3084c" nid="108" name="Улус">
+            <name>
+                <text lang="rus">Улус</text>
+                <text lang="eng">Ulus</text>
+                <text lang="deu">Ulus</text>
+                <text lang="fra">Ulus</text>
+                <text lang="spa">Ulus</text>
+                <text lang="zho">Ulus</text>
+                <text lang="jpn">ウルス</text>
+                <text lang="ara">Ulus</text>
+            </name>
+        </item>
+        <item id="750553e8" nid="109" name="Жилая зона">
+            <name>
+                <text lang="rus">Жилая зона</text>
+                <text lang="eng">The living area</text>
+                <text lang="deu">Der Wohnbereich</text>
+                <text lang="fra">Zone résidentielle</text>
+                <text lang="spa">Zona residencial</text>
+                <text lang="zho">在生活领域</text>
+                <text lang="jpn">リビングエリア</text>
+                <text lang="ara">منطقة المعيشة</text>
+            </name>
+        </item>
+        <item id="51a9df24" nid="110" name="Сельская администрация">
+            <name>
+                <text lang="rus">Сельская администрация</text>
+                <text lang="eng">Rural administration</text>
+                <text lang="deu">Auf dem Land-Verwaltung</text>
+                <text lang="fra">La campagne de l'administration</text>
+                <text lang="spa">Rurales de la administración</text>
+                <text lang="zho">农村行政管理</text>
+                <text lang="jpn">農村の管理</text>
+                <text lang="ara">الريفية الإدارة</text>
+            </name>
+        </item>
+        <item id="b5693432" nid="111" name="Леспромхоз">
+            <name>
+                <text lang="rus">Леспромхоз</text>
+                <text lang="eng">The timber industry</text>
+                <text lang="deu">Holzwirtschaft</text>
+                <text lang="fra">Exploitation de l'entreprise</text>
+                <text lang="spa">Леспромхоз</text>
+                <text lang="zho">木材工业</text>
+                <text lang="jpn">LPH</text>
+                <text lang="ara">الصناعات الخشبية</text>
+            </name>
+        </item>
+        <item id="53bfdb4d" nid="112" name="Государство">
+            <name>
+                <text lang="rus">Государство</text>
+                <text lang="eng">The state</text>
+                <text lang="deu">Der Staat</text>
+                <text lang="fra">Etat</text>
+                <text lang="spa">Estado</text>
+                <text lang="zho">国家</text>
+                <text lang="jpn">状態</text>
+                <text lang="ara">الدولة</text>
+            </name>
+        </item>
+        <item id="626f70da" nid="113" name="Аренда автомобилей">
+            <name>
+                <text lang="rus">Аренда автомобилей</text>
+                <text lang="eng">Car hire</text>
+                <text lang="deu">Mietwagen</text>
+                <text lang="fra">Location de voitures</text>
+                <text lang="spa">Alquiler de coches</text>
+                <text lang="zho">租车</text>
+                <text lang="jpn">レンタカー</text>
+                <text lang="ara">تأجير السيارات</text>
+            </name>
+        </item>
+        <item id="15ce1120" nid="114" name="Отели">
+            <name>
+                <text lang="rus">Отели</text>
+                <text lang="eng">Hotels</text>
+                <text lang="deu">Hotels</text>
+                <text lang="fra">Hôtels</text>
+                <text lang="spa">Hoteles</text>
+                <text lang="zho">旅馆</text>
+                <text lang="jpn">ホテル</text>
+                <text lang="ara">الفنادق</text>
+            </name>
+        </item>
+        <item id="6d3d3c0d" nid="115" name="Мини-отели">
+            <name>
+                <text lang="rus">Мини-отели</text>
+                <text lang="eng">Mini-hotels</text>
+                <text lang="deu">Mini-Hotels</text>
+                <text lang="fra">Mini-hôtels</text>
+                <text lang="spa">Mini-hoteles</text>
+                <text lang="zho">小旅馆</text>
+                <text lang="jpn">ミニホテル</text>
+                <text lang="ara">الفنادق الصغيرة</text>
+            </name>
+        </item>
+        <item id="a5dce5b7" nid="116" name="Коттеджи">
+            <name>
+                <text lang="rus">Коттеджи</text>
+                <text lang="eng">Cottages</text>
+                <text lang="deu">Ferienhäuser</text>
+                <text lang="fra">Vacances à la ferme</text>
+                <text lang="spa">Cabañas</text>
+                <text lang="zho">小屋</text>
+                <text lang="jpn">コテージ</text>
+                <text lang="ara">البيوت</text>
+            </name>
+        </item>
+        <item id="71e761ab" nid="117" name="Рестораны">
+            <groups>
+                <group nid="1">rostur_fun</group>
+            </groups>
+            <name>
+                <text lang="rus">Рестораны</text>
+                <text lang="eng">Restaurants</text>
+                <text lang="deu">Restaurants</text>
+                <text lang="fra">Restaurants</text>
+                <text lang="spa">Restaurantes</text>
+                <text lang="zho">餐馆</text>
+                <text lang="jpn">レストラン</text>
+                <text lang="ara">المطاعم</text>
+            </name>
+        </item>
+        <item id="ba2e8299" nid="118" name="Традиционная кухня">
+            <groups>
+                <group nid="4">rostur_traditions</group>
+            </groups>
+            <name>
+                <text lang="rus">Традиционная кухня</text>
+                <text lang="eng">Traditional kitchen</text>
+                <text lang="deu">Die traditionelle Küche</text>
+                <text lang="fra">Cuisine traditionnelle</text>
+                <text lang="spa">Cocina tradicional</text>
+                <text lang="zho">传统的厨房</text>
+                <text lang="jpn">伝統料理</text>
+                <text lang="ara">المطبخ التقليدي</text>
+            </name>
+        </item>
+        <item id="7c0b54a2" nid="119" name="Кафе">
+            <groups>
+                <group nid="1">rostur_fun</group>
+            </groups>
+            <name>
+                <text lang="rus">Кафе</text>
+                <text lang="eng">Cafe</text>
+                <text lang="deu">Café</text>
+                <text lang="fra">Café</text>
+                <text lang="spa">Cafetería</text>
+                <text lang="zho">咖啡馆</text>
+                <text lang="jpn">カフェ</text>
+                <text lang="ara">مقهى</text>
+            </name>
+        </item>
+        <item id="cb1319c0" nid="120" name="Столовые">
+            <name>
+                <text lang="rus">Столовые</text>
+                <text lang="eng">Table</text>
+                <text lang="deu">Kantine</text>
+                <text lang="fra">Arts de la table</text>
+                <text lang="spa">Comedores</text>
+                <text lang="zho">表</text>
+                <text lang="jpn">カトラリー</text>
+                <text lang="ara">الجدول</text>
+            </name>
+        </item>
+        <item id="8f96f4f5" nid="121" name="Бары">
+            <groups>
+                <group nid="1">rostur_fun</group>
+            </groups>
+            <name>
+                <text lang="rus">Бары</text>
+                <text lang="eng">Bars</text>
+                <text lang="deu">Bars</text>
+                <text lang="fra">Bars</text>
+                <text lang="spa">Bares</text>
+                <text lang="zho">酒吧</text>
+                <text lang="jpn">バー</text>
+                <text lang="ara">القضبان</text>
+            </name>
+        </item>
+        <item id="c1057fbb" nid="122" name="Апартаменты">
+            <name>
+                <text lang="rus">Апартаменты</text>
+                <text lang="eng">Apartments</text>
+                <text lang="deu">Apartment</text>
+                <text lang="fra">Appartement</text>
+                <text lang="spa">Apartamentos</text>
+                <text lang="zho">公寓</text>
+                <text lang="jpn">アパート</text>
+                <text lang="ara">شقق</text>
+            </name>
+        </item>
+        <item id="1e383082" nid="123" name="SPA-отели">
+            <groups>
+                <group nid="8">rostur_recreational</group>
+            </groups>
+            <name>
+                <text lang="rus">SPA-отели</text>
+                <text lang="eng">SPA hotels</text>
+                <text lang="deu">SPA-Hotels</text>
+                <text lang="fra">SPA-hôtels</text>
+                <text lang="spa">SPA-hoteles</text>
+                <text lang="zho">温泉酒店</text>
+                <text lang="jpn">SPA-ホテル</text>
+                <text lang="ara">فندق نادي صحي</text>
+            </name>
+        </item>
+        <item id="55b426d3" nid="124" name="Хостелы">
+            <name>
+                <text lang="rus">Хостелы</text>
+                <text lang="eng">Hostels</text>
+                <text lang="deu">Gasthaus</text>
+                <text lang="fra">Auberges de jeunesse</text>
+                <text lang="spa">Los albergues</text>
+                <text lang="zho">宿舍</text>
+                <text lang="jpn">ホステル</text>
+                <text lang="ara">بيوت الشباب</text>
+            </name>
+        </item>
+        <item id="186179df" nid="125" name="Рыбалка">
+            <groups>
+                <group nid="5">rostur_active</group>
+            </groups>
+            <name>
+                <text lang="rus">Рыбалка</text>
+                <text lang="eng">Fishing</text>
+                <text lang="deu">Angeln</text>
+                <text lang="fra">Pêche</text>
+                <text lang="spa">Pesca</text>
+                <text lang="zho">捕鱼</text>
+                <text lang="jpn">フィッシング</text>
+                <text lang="ara">الصيد</text>
+            </name>
+        </item>
+        <item id="9961e6dd" nid="126" name="Охота">
+            <groups>
+                <group nid="5">rostur_active</group>
+            </groups>
+            <name>
+                <text lang="rus">Охота</text>
+                <text lang="eng">Hunting</text>
+                <text lang="deu">Die Jagd</text>
+                <text lang="fra">La chasse</text>
+                <text lang="spa">La caza</text>
+                <text lang="zho">狩猎</text>
+                <text lang="jpn">狩猟</text>
+                <text lang="ara">الصيد</text>
+            </name>
+        </item>
+        <item id="e5fbe058" nid="127" name="Музеи, галереи, выставки">
+            <groups>
+                <group nid="2">rostur_culture</group>
+            </groups>
+            <name>
+                <text lang="rus">Музеи, галереи, выставки</text>
+                <text lang="eng">Museums, galleries, exhibitions</text>
+                <text lang="deu">Museen, Galerien, Ausstellungen</text>
+                <text lang="fra">Musées, galeries, expositions</text>
+                <text lang="spa">Museos, galerías, exposiciones</text>
+                <text lang="zho">博物馆、美术馆、展览</text>
+                <text lang="jpn">美術館、ギャラリー、展示会</text>
+                <text lang="ara">من المتاحف والمعارض معارض</text>
+            </name>
+        </item>
+        <item id="7897e6a3" nid="128" name="Событие">
+            <groups>
+                <group nid="9">rostur_event</group>
+            </groups>
+            <name>
+                <text lang="rus">Событие</text>
+                <text lang="eng">Event</text>
+                <text lang="deu">Ereignis</text>
+                <text lang="fra">Événement</text>
+                <text lang="spa">El evento</text>
+                <text lang="zho">活动</text>
+                <text lang="jpn">イベント</text>
+                <text lang="ara">الحدث</text>
+            </name>
+        </item>
+        <item id="e1d08dd5" nid="129" name="Новость">
+            <groups>
+                <group nid="10">rostur_news</group>
+            </groups>
+            <name>
+                <text lang="rus">Новость</text>
+                <text lang="eng">News</text>
+                <text lang="deu">Nachricht</text>
+                <text lang="fra">Nouvelles</text>
+                <text lang="spa">La noticia</text>
+                <text lang="zho">消息</text>
+                <text lang="jpn">ニュース</text>
+                <text lang="ara">الأخبار</text>
+            </name>
+        </item>
+        <item id="63fb7e1f" nid="130" name="История">
+            <name>
+                <text lang="rus">История</text>
+                <text lang="eng">History</text>
+                <text lang="deu">Geschichte</text>
+                <text lang="fra">Histoire</text>
+                <text lang="spa">La historia</text>
+                <text lang="zho">历史</text>
+                <text lang="jpn">歴史</text>
+                <text lang="ara">التاريخ</text>
+            </name>
+        </item>
+        <item id="6df5b7d7" nid="131" name="Интересные факты">
+            <groups>
+                <group nid="7">rostur_regions</group>
+            </groups>
+            <name>
+                <text lang="rus">Интересные факты</text>
+                <text lang="eng">Interesting facts</text>
+                <text lang="deu">Interessante Fakten</text>
+                <text lang="fra">Faits intéressants</text>
+                <text lang="spa">Hechos interesantes</text>
+                <text lang="zho">有趣的事实</text>
+                <text lang="jpn">興味深い事実</text>
+                <text lang="ara">حقائق مثيرة للاهتمام</text>
+            </name>
+        </item>
+        <item id="172bc676" nid="132" name="Туриcтические агентства">
+            <name>
+                <text lang="rus">Туриcтические агентства</text>
+                <text lang="eng">Travel Agency</text>
+                <text lang="deu">Reisebüros</text>
+                <text lang="fra">Agence de voyage</text>
+                <text lang="spa">Agencia de viajes</text>
+                <text lang="zho">旅行社</text>
+                <text lang="jpn">Turicticheskie庁</text>
+                <text lang="ara">وكالة سفر</text>
+            </name>
+        </item>
+        <item id="f2a2acff" nid="133" name="Досуг">
+            <groups>
+                <group nid="1">rostur_fun</group>
+            </groups>
+            <name>
+                <text lang="rus">Досуг</text>
+                <text lang="eng">Leisure</text>
+                <text lang="deu">Freizeit</text>
+                <text lang="fra">Loisirs</text>
+                <text lang="spa">Ocio</text>
+                <text lang="zho">休闲</text>
+                <text lang="jpn">レジャー</text>
+                <text lang="ara">الترفيه</text>
+            </name>
+        </item>
+        <item id="7488accb" nid="134" name="Развлекательные центры">
+            <groups>
+                <group nid="1">rostur_fun</group>
+            </groups>
+            <name>
+                <text lang="rus">Развлекательные центры</text>
+                <text lang="eng">Entertainment centers</text>
+                <text lang="deu">Unterhaltungszentren</text>
+                <text lang="fra">Centres de loisirs</text>
+                <text lang="spa">Centros de entretenimiento</text>
+                <text lang="zho">娱乐中心</text>
+                <text lang="jpn">エンターテイメントセンター</text>
+                <text lang="ara">المراكز الترفيهية</text>
+            </name>
+        </item>
+        <item id="aef2c1aa" nid="135" name="Финансовые учреждения">
+            <name>
+                <text lang="rus">Финансовые учреждения</text>
+                <text lang="eng">Financial institutions</text>
+                <text lang="deu">Finanzinstitute</text>
+                <text lang="fra">Les institutions financières</text>
+                <text lang="spa">Instituciones financieras</text>
+                <text lang="zho">金融机构</text>
+                <text lang="jpn">金融機関</text>
+                <text lang="ara">المؤسسات المالية</text>
+            </name>
+        </item>
+        <item id="c4e3c1b8" nid="136" name="Информационные центры">
+            <name>
+                <text lang="rus">Информационные центры</text>
+                <text lang="eng">Information centres</text>
+                <text lang="deu">- Informations-Zentren</text>
+                <text lang="fra">Centres d'information</text>
+                <text lang="spa">Centros de información</text>
+                <text lang="zho">信息中心</text>
+                <text lang="jpn">情報センター</text>
+                <text lang="ara">مراكز المعلومات</text>
+            </name>
+        </item>
+        <item id="482dfc19" nid="137" name="Детские развлекательные центры">
+            <groups>
+                <group nid="1">rostur_fun</group>
+            </groups>
+            <name>
+                <text lang="rus">Детские развлекательные центры</text>
+                <text lang="eng">Children's entertainment centers</text>
+                <text lang="deu">Kinder-und Freizeitzentren</text>
+                <text lang="fra">Enfants des centres de loisirs</text>
+                <text lang="spa">Niños de centros de entretenimiento</text>
+                <text lang="zho">儿童娱乐中心</text>
+                <text lang="jpn">子供のためのエンターテイメントセンター</text>
+                <text lang="ara">الأطفال ومراكز الترفيه</text>
+            </name>
+        </item>
+        <item id="9ecb725f" nid="138" name="МЧС">
+            <name>
+                <text lang="rus">МЧС</text>
+                <text lang="eng">MOE</text>
+                <text lang="deu">MOE</text>
+                <text lang="fra">MES</text>
+                <text lang="spa">Ministerio de educación</text>
+                <text lang="zho">教育部</text>
+                <text lang="jpn">緊急事態省</text>
+                <text lang="ara">MOE</text>
+            </name>
+        </item>
+        <item id="2870fce4" nid="139" name="Автосервисы">
+            <name>
+                <text lang="rus">Автосервисы</text>
+                <text lang="eng">Auto repair</text>
+                <text lang="deu">Werkstätten</text>
+                <text lang="fra">Stations-service</text>
+                <text lang="spa">Autoservicios</text>
+                <text lang="zho">汽车修理</text>
+                <text lang="jpn">カー</text>
+                <text lang="ara">لإصلاح السيارات</text>
+            </name>
+        </item>
+        <item id="f61c5084" nid="140" name="Учебные заведения">
+            <name>
+                <text lang="rus">Учебные заведения</text>
+                <text lang="eng">Educational institutions</text>
+                <text lang="deu">Bildungseinrichtungen</text>
+                <text lang="fra">Établissements d'enseignement</text>
+                <text lang="spa">Instituciones</text>
+                <text lang="zho">教育机构</text>
+                <text lang="jpn">教育機関</text>
+                <text lang="ara">المؤسسات التعليمية</text>
+            </name>
+        </item>
+        <item id="4fde679f" nid="141" name="Перевозка грузов">
+            <name>
+                <text lang="rus">Перевозка грузов</text>
+                <text lang="eng">Freight</text>
+                <text lang="deu">Transport von Gütern</text>
+                <text lang="fra">Transport de marchandises</text>
+                <text lang="spa">El transporte de mercancías</text>
+                <text lang="zho">货运</text>
+                <text lang="jpn">運賃</text>
+                <text lang="ara">الشحن</text>
+            </name>
+        </item>
+        <item id="b94ad744" nid="142" name="Авиа и ж/д кассы">
+            <name>
+                <text lang="rus">Авиа и ж/д кассы</text>
+                <text lang="eng">Air and railway ticket offices</text>
+                <text lang="deu">Luft-und Schienenverkehr/T Kasse</text>
+                <text lang="fra">De l'air et la gare de la caisse</text>
+                <text lang="spa">Billetes de avión y la estación de tren de entradas</text>
+                <text lang="zho">航空和铁路的机票办事处</text>
+                <text lang="jpn">航空·鉄道/チケットオフィス</text>
+                <text lang="ara">الجوية و السكك الحديدية مكاتب التذاكر</text>
+            </name>
+        </item>
+        <item id="3d02fa45" nid="143" name="Округ">
+            <name>
+                <text lang="rus">Округ</text>
+                <text lang="eng">District</text>
+                <text lang="deu">Bezirk</text>
+                <text lang="fra">Circonscription</text>
+                <text lang="spa">Distrito</text>
+                <text lang="zho">区</text>
+                <text lang="jpn">郡</text>
+                <text lang="ara">حي</text>
+            </name>
+        </item>
+        <item id="464653a1" nid="144" name="Туроператор">
+            <name>
+                <text lang="rus">Туроператор</text>
+                <text lang="eng">Tour operator</text>
+                <text lang="deu">Reiseveranstalter</text>
+                <text lang="fra">Tour-opérateur</text>
+                <text lang="spa">El operador turstico</text>
+                <text lang="zho">旅游经营人</text>
+                <text lang="jpn">ツアーオペレーター</text>
+                <text lang="ara">منظمو الرحلات</text>
+            </name>
+        </item>
+        <item id="6df5b7q2" nid="146" name="Имена">
+            <groups>
+                <group nid="7">rostur_regions</group>
+            </groups>
+            <name>
+                <text lang="rus">Имена</text>
+                <text lang="eng">Names</text>
+                <text lang="deu">Namen</text>
+                <text lang="fra">Les noms de</text>
+                <text lang="spa">Los nombres de los</text>
+                <text lang="zho">姓名</text>
+                <text lang="jpn">名前</text>
+                <text lang="ara">أسماء</text>
+            </name>
+        </item>
+        <item id="6df5b7q4" nid="148" name="Воинская слава">
+            <groups>
+                <group nid="7">rostur_regions</group>
+            </groups>
+            <name>
+                <text lang="rus">Воинская слава</text>
+                <text lang="eng">Military glory</text>
+                <text lang="deu">Militärische Ruhm</text>
+                <text lang="fra">Militaire de la gloire</text>
+                <text lang="spa">El servicio militar de la gloria</text>
+                <text lang="zho">军队的荣耀</text>
+                <text lang="jpn">軍功</text>
+                <text lang="ara">المجد العسكري</text>
+            </name>
+        </item>
+        <item id="6df5b7q5" nid="149" name="Сказочные и былинные герои">
+            <groups>
+                <group nid="7">rostur_regions</group>
+            </groups>
+            <name>
+                <text lang="rus">Сказочные и былинные герои</text>
+                <text lang="eng">Fabulous and epic heroes</text>
+                <text lang="deu">Fabelhafte und die epischen Helden</text>
+                <text lang="fra">La fabuleuse et épiques héros</text>
+                <text lang="spa">Fabuloso y былинные héroes</text>
+                <text lang="zho">神奇的史诗英雄</text>
+                <text lang="jpn">素晴らしいと叙事詩の英雄</text>
+                <text lang="ara">رائع ملحمة الأبطال</text>
+            </name>
+        </item>
+        <item id="6df5b7w4" nid="165" name="Чудеса России">
+            <groups>
+                <group nid="7">rostur_regions</group>
+            </groups>
+            <name>
+                <text lang="rus">Чудеса России</text>
+                <text lang="eng">Wonders Of Russia</text>
+                <text lang="deu">Wunder Russland</text>
+                <text lang="fra">Les Merveilles De La Russie</text>
+                <text lang="spa">Los Milagros De Rusia</text>
+                <text lang="zho">俄罗斯的奇观</text>
+                <text lang="jpn">ロシアの不思議</text>
+                <text lang="ara">عجائب روسيا</text>
+            </name>
+        </item>
+        <item id="bd23fcdb" nid="185" name="Памятники, скульптуры, мемориалы">
+            <groups>
+                <group nid="2">rostur_culture</group>
+            </groups>
+            <name>
+                <text lang="rus">Памятники, скульптуры, мемориалы</text>
+                <text lang="eng">Monuments, sculptures, memorials</text>
+                <text lang="deu">Denkmäler, Skulpturen, Denkmäler</text>
+                <text lang="fra">Des monuments, des sculptures, des mémoriaux</text>
+                <text lang="spa">Monumentos, esculturas, monumentos conmemorativos</text>
+                <text lang="zho">遗迹、雕刻纪念碑</text>
+                <text lang="jpn">記念碑、彫刻、記念碑</text>
+                <text lang="ara">الآثار والتماثيل التذكارية</text>
+            </name>
+        </item>
+        <item id="efab9e26" nid="205" name="Мемориальные комплексы">
+            <groups>
+                <group nid="2">rostur_culture</group>
+            </groups>
+            <name>
+                <text lang="rus">Мемориальные комплексы</text>
+                <text lang="eng">Memorials</text>
+                <text lang="deu">Gedenktafeln komplexe</text>
+                <text lang="fra">Les complexes</text>
+                <text lang="spa">Complejos conmemorativos</text>
+                <text lang="zho">纪念碑</text>
+                <text lang="jpn">記念複雑な</text>
+                <text lang="ara">التذكارية</text>
+            </name>
+        </item>
+        <item id="e5185153" nid="206" name="Здания">
+            <groups>
+                <group nid="2">rostur_culture</group>
+            </groups>
+            <name>
+                <text lang="rus">Здания</text>
+                <text lang="eng">Building</text>
+                <text lang="deu">Gebäude</text>
+                <text lang="fra">Bâtiment</text>
+                <text lang="spa">Edificio</text>
+                <text lang="zho">建设</text>
+                <text lang="jpn">建物</text>
+                <text lang="ara">البناء</text>
+            </name>
+        </item>
+        <item id="e1de8e39" nid="207" name="Архитектурные ансамбли">
+            <groups>
+                <group nid="2">rostur_culture</group>
+            </groups>
+            <name>
+                <text lang="rus">Архитектурные ансамбли</text>
+                <text lang="eng">Architectural ensembles</text>
+                <text lang="deu">Die architektonischen Ensembles</text>
+                <text lang="fra">Les ensembles architecturaux</text>
+                <text lang="spa">Los conjuntos arquitectónicos</text>
+                <text lang="zho">建筑乐团</text>
+                <text lang="jpn">建築アンサンブル</text>
+                <text lang="ara">المعمارية الفرق</text>
+            </name>
+        </item>
+        <item id="f81f0774" nid="208" name="Исторические места">
+            <groups>
+                <group nid="2">rostur_culture</group>
+            </groups>
+            <name>
+                <text lang="rus">Исторические места</text>
+                <text lang="eng">Historical places</text>
+                <text lang="deu">Historische Stätten</text>
+                <text lang="fra">Lieux historiques</text>
+                <text lang="spa">Sitios históricos</text>
+                <text lang="zho">历史的地方</text>
+                <text lang="jpn">史跡</text>
+                <text lang="ara">الأماكن التاريخية</text>
+            </name>
+        </item>
+        <item id="fa8e3d1a" nid="186" name="Дворцы">
+            <groups>
+                <group nid="2">rostur_culture</group>
+            </groups>
+            <name>
+                <text lang="rus">Дворцы</text>
+                <text lang="eng">Palaces</text>
+                <text lang="deu">Paläste</text>
+                <text lang="fra">Palais</text>
+                <text lang="spa">Palacios</text>
+                <text lang="zho">宫殿</text>
+                <text lang="jpn">宮殿</text>
+                <text lang="ara">القصور</text>
+            </name>
+        </item>
+        <item id="5900f8b9" nid="187" name="Улицы, проспекты, набережные">
+            <groups>
+                <group nid="2">rostur_culture</group>
+            </groups>
+            <name>
+                <text lang="rus">Улицы, проспекты, набережные</text>
+                <text lang="eng">Streets, avenues, promenades</text>
+                <text lang="deu">Straßen, Alleen, Promenaden</text>
+                <text lang="fra">Les rues, les avenues, les quais de la</text>
+                <text lang="spa">Calles, avenidas, paseos</text>
+                <text lang="zho">街道的途径，promenades</text>
+                <text lang="jpn">ストリート、道、堤防</text>
+                <text lang="ara">الشوارع, السبل, promenades</text>
+            </name>
+        </item>
+        <item id="c811e215" nid="188" name="Площади">
+            <groups>
+                <group nid="2">rostur_culture</group>
+            </groups>
+            <name>
+                <text lang="rus">Площади</text>
+                <text lang="eng">Square</text>
+                <text lang="deu">Platz</text>
+                <text lang="fra">La place</text>
+                <text lang="spa">La plaza</text>
+                <text lang="zho">广场</text>
+                <text lang="jpn">エリア</text>
+                <text lang="ara">ساحة</text>
+            </name>
+        </item>
+        <item id="785afa19" nid="209" name="Археологические объекты">
+            <groups>
+                <group nid="2">rostur_culture</group>
+            </groups>
+            <name>
+                <text lang="rus">Археологические объекты</text>
+                <text lang="eng">Archaeological objects</text>
+                <text lang="deu">Archäologische Objekte</text>
+                <text lang="fra">Les sites archéologiques</text>
+                <text lang="spa">Sitios arqueológicos</text>
+                <text lang="zho">考古物品</text>
+                <text lang="jpn">遺跡</text>
+                <text lang="ara">القطع الأثرية</text>
+            </name>
+        </item>
+        <item id="07a7f5ee" nid="210" name="Руины">
+            <groups>
+                <group nid="2">rostur_culture</group>
+            </groups>
+            <name>
+                <text lang="rus">Руины</text>
+                <text lang="eng">Ruins</text>
+                <text lang="deu">Ruinen</text>
+                <text lang="fra">Les ruines</text>
+                <text lang="spa">Las ruinas</text>
+                <text lang="zho">废墟</text>
+                <text lang="jpn">廃墟</text>
+                <text lang="ara">أطلال</text>
+            </name>
+        </item>
+        <item id="028ec3f8" nid="189" name="Фонтаны">
+            <groups>
+                <group nid="2">rostur_culture</group>
+            </groups>
+            <name>
+                <text lang="rus">Фонтаны</text>
+                <text lang="eng">Fountains</text>
+                <text lang="deu">Brunnen</text>
+                <text lang="fra">Les fontaines</text>
+                <text lang="spa">Fuentes</text>
+                <text lang="zho">喷泉</text>
+                <text lang="jpn">ファウンテンズ</text>
+                <text lang="ara">نوافير</text>
+            </name>
+        </item>
+        <item id="154b80a9" nid="212" name="Религия">
+            <groups>
+                <group nid="6">rostur_religions</group>
+            </groups>
+            <name>
+                <text lang="rus">Религия</text>
+                <text lang="eng">Religion</text>
+                <text lang="deu">Religion</text>
+                <text lang="fra">Religions</text>
+                <text lang="spa">Religión</text>
+                <text lang="zho">宗教</text>
+                <text lang="jpn">宗教</text>
+                <text lang="ara">الدين</text>
+            </name>
+        </item>
+        <item id="ed047e94" nid="213" name="Интересные виды">
+            <groups>
+                <group nid="2">rostur_culture</group>
+            </groups>
+            <name>
+                <text lang="rus">Интересные виды</text>
+                <text lang="eng">Interesting species</text>
+                <text lang="deu">Interessante Arten</text>
+                <text lang="fra">Espèces intéressantes</text>
+                <text lang="spa">Interesantes vistas</text>
+                <text lang="zho">有趣的物种</text>
+                <text lang="jpn">興味深い見解</text>
+                <text lang="ara">اهتمام الأنواع</text>
+            </name>
+        </item>
+        <item id="68d361b0" nid="215" name="Научные объекты">
+            <groups>
+                <group nid="2">rostur_culture</group>
+            </groups>
+            <name>
+                <text lang="rus">Научные объекты</text>
+                <text lang="eng">Scientific objects</text>
+                <text lang="deu">Wissenschaftliche Objekte</text>
+                <text lang="fra">Scientifiques objets</text>
+                <text lang="spa">Científicos objetos de</text>
+                <text lang="zho">科学的天体</text>
+                <text lang="jpn">研究施設</text>
+                <text lang="ara">العلمية الكائنات</text>
+            </name>
+        </item>
+        <item id="6a009076" nid="217" name="Экскурсии">
+            <groups>
+                <group nid="2">rostur_culture</group>
+            </groups>
+            <name>
+                <text lang="rus">Экскурсии</text>
+                <text lang="eng">Excursions</text>
+                <text lang="deu">Ausflüge</text>
+                <text lang="fra">Visites</text>
+                <text lang="spa">Visitas guiadas</text>
+                <text lang="zho">游览</text>
+                <text lang="jpn">エクスカーション</text>
+                <text lang="ara">الرحلات</text>
+            </name>
+        </item>
+        <item id="62da6aff" nid="218" name="Высотные здания">
+            <groups>
+                <group nid="2">rostur_culture</group>
+            </groups>
+            <name>
+                <text lang="rus">Высотные здания</text>
+                <text lang="eng">High-rise buildings</text>
+                <text lang="deu">Hochhäuser</text>
+                <text lang="fra">Immeubles de grande hauteur</text>
+                <text lang="spa">Los edificios de gran altura</text>
+                <text lang="zho">高层建筑</text>
+                <text lang="jpn">高層ビル</text>
+                <text lang="ara">المباني الشاهقة</text>
+            </name>
+        </item>
+        <item id="d965e6c1" nid="222" name="Заповедники">
+            <groups>
+                <group nid="3">rostur_nature</group>
+            </groups>
+            <name>
+                <text lang="rus">Заповедники</text>
+                <text lang="eng">Reserves</text>
+                <text lang="deu">Naturschutzgebiete</text>
+                <text lang="fra">Les réserves naturelles</text>
+                <text lang="spa">Reservas</text>
+                <text lang="zho">储备金</text>
+                <text lang="jpn">引当金</text>
+                <text lang="ara">الاحتياطيات</text>
+            </name>
+        </item>
+        <item id="86a39f44" nid="223" name="Пещеры">
+            <groups>
+                <group nid="3">rostur_nature</group>
+            </groups>
+            <name>
+                <text lang="rus">Пещеры</text>
+                <text lang="eng">Cave</text>
+                <text lang="deu">Höhlen</text>
+                <text lang="fra">La grotte</text>
+                <text lang="spa">Cuevas</text>
+                <text lang="zho">洞穴</text>
+                <text lang="jpn">洞窟</text>
+                <text lang="ara">الكهف</text>
+            </name>
+        </item>
+        <item id="c2a99698" nid="226" name="Источники">
+            <groups>
+                <group nid="3">rostur_nature</group>
+            </groups>
+            <name>
+                <text lang="rus">Источники</text>
+                <text lang="eng">Sources</text>
+                <text lang="deu">Quellen</text>
+                <text lang="fra">Sources</text>
+                <text lang="spa">Fuentes</text>
+                <text lang="zho">来源</text>
+                <text lang="jpn">ソース</text>
+                <text lang="ara">مصادر</text>
+            </name>
+        </item>
+        <item id="797ae7c2" nid="228" name="Карьеры">
+            <groups>
+                <group nid="3">rostur_nature</group>
+            </groups>
+            <name>
+                <text lang="rus">Карьеры</text>
+                <text lang="eng">Career</text>
+                <text lang="deu">Karriere</text>
+                <text lang="fra">Carrière</text>
+                <text lang="spa">Carrera</text>
+                <text lang="zho">职业生涯</text>
+                <text lang="jpn">キャリア</text>
+                <text lang="ara">الخبرة</text>
+            </name>
+        </item>
+        <item id="d0dd40a5" nid="229" name="Озера">
+            <groups>
+                <group nid="3">rostur_nature</group>
+            </groups>
+            <name>
+                <text lang="rus">Озера</text>
+                <text lang="eng">Lake</text>
+                <text lang="deu">See</text>
+                <text lang="fra">Lac</text>
+                <text lang="spa">Lago</text>
+                <text lang="zho">湖</text>
+                <text lang="jpn">湖</text>
+                <text lang="ara">البحيرة</text>
+            </name>
+        </item>
+        <item id="a2e66a4c" nid="232" name="Ледники">
+            <groups>
+                <group nid="3">rostur_nature</group>
+            </groups>
+            <name>
+                <text lang="rus">Ледники</text>
+                <text lang="eng">Glaciers</text>
+                <text lang="deu">Gletscher</text>
+                <text lang="fra">Les glaciers</text>
+                <text lang="spa">Los glaciares</text>
+                <text lang="zho">冰川</text>
+                <text lang="jpn">氷河</text>
+                <text lang="ara">الأنهار الجليدية</text>
+            </name>
+        </item>
+        <item id="6a35be55" nid="235" name="Водохранилища">
+            <groups>
+                <group nid="3">rostur_nature</group>
+            </groups>
+            <name>
+                <text lang="rus">Водохранилища</text>
+                <text lang="eng">Reservoir</text>
+                <text lang="deu">Stausee</text>
+                <text lang="fra">Réservoir d'eau</text>
+                <text lang="spa">Depósito de agua</text>
+                <text lang="zho">库</text>
+                <text lang="jpn">貯水池</text>
+                <text lang="ara">الخزان</text>
+            </name>
+        </item>
+        <item id="21360f4b" nid="236" name="Места добычи">
+            <groups>
+                <group nid="3">rostur_nature</group>
+            </groups>
+            <name>
+                <text lang="rus">Места добычи</text>
+                <text lang="eng">The place of production</text>
+                <text lang="deu">Abbaugebiete</text>
+                <text lang="fra">La place de la production</text>
+                <text lang="spa">Las áreas de extracción de</text>
+                <text lang="zho">这里生产</text>
+                <text lang="jpn">抽出の場所</text>
+                <text lang="ara">مكان الإنتاج</text>
+            </name>
+        </item>
+        <item id="86faf544" nid="240" name="Костёлы">
+            <groups>
+                <group nid="6">rostur_religions</group>
+            </groups>
+            <name>
+                <text lang="rus">Костёлы</text>
+                <text lang="eng">Churches</text>
+                <text lang="deu">Kirchen</text>
+                <text lang="fra">Les églises</text>
+                <text lang="spa">Iglesias</text>
+                <text lang="zho">教堂</text>
+                <text lang="jpn">教会</text>
+                <text lang="ara">الكنائس</text>
+            </name>
+        </item>
+        <item id="d612a9a0" nid="241" name="Монастыри">
+            <groups>
+                <group nid="6">rostur_religions</group>
+            </groups>
+            <name>
+                <text lang="rus">Монастыри</text>
+                <text lang="eng">Monasteries</text>
+                <text lang="deu">Klöster</text>
+                <text lang="fra">Les monastères</text>
+                <text lang="spa">Los monasterios</text>
+                <text lang="zho">修道院</text>
+                <text lang="jpn">修道院</text>
+                <text lang="ara">الأديرة</text>
+            </name>
+        </item>
+        <item id="08bcefdf" nid="243" name="Мечети">
+            <groups>
+                <group nid="6">rostur_religions</group>
+            </groups>
+            <name>
+                <text lang="rus">Мечети</text>
+                <text lang="eng">The mosque</text>
+                <text lang="deu">Moschee</text>
+                <text lang="fra">La mosquée</text>
+                <text lang="spa">La mezquita</text>
+                <text lang="zho">该清真寺</text>
+                <text lang="jpn">モスク</text>
+                <text lang="ara">المسجد</text>
+            </name>
+        </item>
+        <item id="43d4493c" nid="248" name="Языческие капища">
+            <groups>
+                <group nid="6">rostur_religions</group>
+            </groups>
+            <name>
+                <text lang="rus">Языческие капища</text>
+                <text lang="eng">Pagan temples</text>
+                <text lang="deu">Die heidnischen Altäre</text>
+                <text lang="fra">Les maisons</text>
+                <text lang="spa">Altares paganos</text>
+                <text lang="zho">异教神庙</text>
+                <text lang="jpn">パガンの寺院</text>
+                <text lang="ara">معابد</text>
+            </name>
+        </item>
+        <item id="92e731bf" nid="252" name="Традиции">
+            <groups>
+                <group nid="4">rostur_traditions</group>
+            </groups>
+            <name>
+                <text lang="rus">Традиции</text>
+                <text lang="eng">Tradition</text>
+                <text lang="deu">Tradition</text>
+                <text lang="fra">Tradition</text>
+                <text lang="spa">La tradición</text>
+                <text lang="zho">传统</text>
+                <text lang="jpn">伝統</text>
+                <text lang="ara">التقليد</text>
+            </name>
+        </item>
+        <item id="b369b3fa" nid="253" name="Фольклор">
+            <groups>
+                <group nid="4">rostur_traditions</group>
+            </groups>
+            <name>
+                <text lang="rus">Фольклор</text>
+                <text lang="eng">Folklore</text>
+                <text lang="deu">Folklore</text>
+                <text lang="fra">Folklore</text>
+                <text lang="spa">El folclore</text>
+                <text lang="zho">民间传说</text>
+                <text lang="jpn">フォークロア</text>
+                <text lang="ara">التراث الشعبي</text>
+            </name>
+        </item>
+        <item id="61fefa1d" nid="255" name="Национальный костюм">
+            <groups>
+                <group nid="4">rostur_traditions</group>
+            </groups>
+            <name>
+                <text lang="rus">Национальный костюм</text>
+                <text lang="eng">National costume</text>
+                <text lang="deu">Costume National</text>
+                <text lang="fra">Costume national</text>
+                <text lang="spa">El traje</text>
+                <text lang="zho">国家的服装</text>
+                <text lang="jpn">民族衣装</text>
+                <text lang="ara">الزي الوطني</text>
+            </name>
+        </item>
+        <item id="3f412d1f" nid="257" name="Обычаи и традиции">
+            <groups>
+                <group nid="4">rostur_traditions</group>
+            </groups>
+            <name>
+                <text lang="rus">Обычаи и традиции</text>
+                <text lang="eng">Customs and traditions</text>
+                <text lang="deu">Sitten und Bräuche</text>
+                <text lang="fra">Coutumes et traditions</text>
+                <text lang="spa">Costumbres y tradiciones</text>
+                <text lang="zho">习俗和传统</text>
+                <text lang="jpn">習慣や伝統</text>
+                <text lang="ara">العادات والتقاليد</text>
+            </name>
+        </item>
+        <item id="b12dfbc1" nid="259" name="Обряды">
+            <groups>
+                <group nid="4">rostur_traditions</group>
+            </groups>
+            <name>
+                <text lang="rus">Обряды</text>
+                <text lang="eng">Rites</text>
+                <text lang="deu">Riten</text>
+                <text lang="fra">Les rites</text>
+                <text lang="spa">Ritos</text>
+                <text lang="zho">仪式</text>
+                <text lang="jpn">儀式</text>
+                <text lang="ara">الشعائر</text>
+            </name>
+        </item>
+        <item id="d99f1a5c" nid="262" name="Альпинизм">
+            <groups>
+                <group nid="5">rostur_active</group>
+            </groups>
+            <name>
+                <text lang="rus">Альпинизм</text>
+                <text lang="eng">Mountaineering</text>
+                <text lang="deu">Bergsteigen</text>
+                <text lang="fra">Montagne</text>
+                <text lang="spa">Escalada</text>
+                <text lang="zho">登山</text>
+                <text lang="jpn">ロック·クライミング</text>
+                <text lang="ara">تسلق الجبال</text>
+            </name>
+        </item>
+        <item id="ca1edfdb" nid="264" name="Скалодром">
+            <groups>
+                <group nid="5">rostur_active</group>
+            </groups>
+            <name>
+                <text lang="rus">Скалодром</text>
+                <text lang="eng">Climbing wall</text>
+                <text lang="deu">Kletterwand</text>
+                <text lang="fra">Mur d'escalade</text>
+                <text lang="spa">Muro de escalada</text>
+                <text lang="zho">爬墙的本领</text>
+                <text lang="jpn">フリークライミング用の壁</text>
+                <text lang="ara">تسلق الجدار</text>
+            </name>
+        </item>
+        <item id="e0116598" nid="266" name="Пеший туризм">
+            <groups>
+                <group nid="5">rostur_active</group>
+            </groups>
+            <name>
+                <text lang="rus">Пеший туризм</text>
+                <text lang="eng">Hiking</text>
+                <text lang="deu">Wandern</text>
+                <text lang="fra">La randonnée</text>
+                <text lang="spa">Senderismo</text>
+                <text lang="zho">徒步旅行</text>
+                <text lang="jpn">ハイキング</text>
+                <text lang="ara">المشي لمسافات طويلة</text>
+            </name>
+        </item>
+        <item id="c0de28b8" nid="270" name="Самолет">
+            <groups>
+                <group nid="5">rostur_active</group>
+            </groups>
+            <name>
+                <text lang="rus">Самолет</text>
+                <text lang="eng">The plane</text>
+                <text lang="deu">Flugzeug</text>
+                <text lang="fra">Avion</text>
+                <text lang="spa">Avión</text>
+                <text lang="zho">在飞机上</text>
+                <text lang="jpn">プレーン</text>
+                <text lang="ara">الطائرة</text>
+            </name>
+        </item>
+        <item id="1707e294" nid="272" name="Каньонинг">
+            <groups>
+                <group nid="5">rostur_active</group>
+            </groups>
+            <name>
+                <text lang="rus">Каньонинг</text>
+                <text lang="eng">Canyoning</text>
+                <text lang="deu">Canyoning</text>
+                <text lang="fra">Canyoning</text>
+                <text lang="spa">Descenso de barrancos</text>
+                <text lang="zho">Canyoning</text>
+                <text lang="jpn">キャニオニング</text>
+                <text lang="ara">التجديف</text>
+            </name>
+        </item>
+        <item id="319273ea" nid="273" name="Велосипед">
+            <groups>
+                <group nid="5">rostur_active</group>
+            </groups>
+            <name>
+                <text lang="rus">Велосипед</text>
+                <text lang="eng">Bike</text>
+                <text lang="deu">Fahrrad</text>
+                <text lang="fra">Vélo</text>
+                <text lang="spa">Bicicleta</text>
+                <text lang="zho">自行车</text>
+                <text lang="jpn">自転車</text>
+                <text lang="ara">الدراجة</text>
+            </name>
+        </item>
+        <item id="ad416725" nid="274" name="Кайтинг">
+            <groups>
+                <group nid="5">rostur_active</group>
+            </groups>
+            <name>
+                <text lang="rus">Кайтинг</text>
+                <text lang="eng">Kiting</text>
+                <text lang="deu">Kitesurfen</text>
+                <text lang="fra">Cerf-volant</text>
+                <text lang="spa">Kite</text>
+                <text lang="zho">Kiting</text>
+                <text lang="jpn">カイトサーフィン</text>
+                <text lang="ara">الطيران الورقي</text>
+            </name>
+        </item>
+        <item id="4a775725" nid="279" name="Горные лыжи / сноуборд">
+            <groups>
+                <group nid="5">rostur_active</group>
+                <group nid="81">winter_holidays</group>
+            </groups>
+            <name>
+                <text lang="rus">Горные лыжи / сноуборд</text>
+                <text lang="eng">Ski / snowboard</text>
+                <text lang="deu">Skifahren / Snowboarden</text>
+                <text lang="fra">Ski alpin / snowboard</text>
+                <text lang="spa">Esquí alpino / snowboard</text>
+                <text lang="zho">滑雪/滑雪板</text>
+                <text lang="jpn">ダウンヒルスキー/スノーボード</text>
+                <text lang="ara">تزلج / على الجليد</text>
+            </name>
+        </item>
+        <item id="163eb6b8" nid="280" name="Мотоцикл">
+            <groups>
+                <group nid="5">rostur_active</group>
+            </groups>
+            <name>
+                <text lang="rus">Мотоцикл</text>
+                <text lang="eng">Motorcycle</text>
+                <text lang="deu">Motorrad</text>
+                <text lang="fra">Moto</text>
+                <text lang="spa">En moto</text>
+                <text lang="zho">摩托车</text>
+                <text lang="jpn">モーターサイクル</text>
+                <text lang="ara">دراجة نارية</text>
+            </name>
+        </item>
+        <item id="65049910" nid="283" name="Лыжи">
+            <groups>
+                <group nid="5">rostur_active</group>
+                <group nid="81">winter_holidays</group>
+            </groups>
+            <name>
+                <text lang="rus">Лыжи</text>
+                <text lang="eng">Skiing</text>
+                <text lang="deu">Skifahren</text>
+                <text lang="fra">Ski</text>
+                <text lang="spa">Esquí</text>
+                <text lang="zho">滑雪</text>
+                <text lang="jpn">スキー</text>
+                <text lang="ara">التزلج</text>
+            </name>
+        </item>
+        <item id="b6238c64" nid="286" name="Серфинг">
+            <groups>
+                <group nid="5">rostur_active</group>
+            </groups>
+            <name>
+                <text lang="rus">Серфинг</text>
+                <text lang="eng">Surfing</text>
+                <text lang="deu">Surfen</text>
+                <text lang="fra">Surf</text>
+                <text lang="spa">Surf</text>
+                <text lang="zho">冲浪</text>
+                <text lang="jpn">サーフィン</text>
+                <text lang="ara">تصفح</text>
+            </name>
+        </item>
+        <item id="70eb311c" nid="287" name="Параплан">
+            <groups>
+                <group nid="5">rostur_active</group>
+            </groups>
+            <name>
+                <text lang="rus">Параплан</text>
+                <text lang="eng">Paraglider</text>
+                <text lang="deu">Gleitschirm</text>
+                <text lang="fra">Parapente</text>
+                <text lang="spa">Parapente</text>
+                <text lang="zho">用滑翔伞练习者</text>
+                <text lang="jpn">パラグライダー</text>
+                <text lang="ara">شراعية</text>
+            </name>
+        </item>
+        <item id="049a4954" nid="214" name="Культура">
+            <groups>
+                <group nid="2">rostur_culture</group>
+            </groups>
+            <name>
+                <text lang="rus">Культура</text>
+                <text lang="eng">Culture</text>
+                <text lang="deu">Kultur</text>
+                <text lang="fra">La culture</text>
+                <text lang="spa">La cultura de la</text>
+                <text lang="zho">文化</text>
+                <text lang="jpn">文化</text>
+                <text lang="ara">الثقافة</text>
+            </name>
+        </item>
+        <item id="4b96a745" nid="220" name="Водопады">
+            <groups>
+                <group nid="3">rostur_nature</group>
+            </groups>
+            <name>
+                <text lang="rus">Водопады</text>
+                <text lang="eng">Waterfalls</text>
+                <text lang="deu">Wasserfälle</text>
+                <text lang="fra">Chutes d'eau</text>
+                <text lang="spa">Las cataratas</text>
+                <text lang="zho">瀑布</text>
+                <text lang="jpn">滝</text>
+                <text lang="ara">الشلالات</text>
+            </name>
+        </item>
+        <item id="71ac5584" nid="227" name="Гейзеры">
+            <groups>
+                <group nid="3">rostur_nature</group>
+            </groups>
+            <name>
+                <text lang="rus">Гейзеры</text>
+                <text lang="eng">Geysers</text>
+                <text lang="deu">Geysire</text>
+                <text lang="fra">Les geysers</text>
+                <text lang="spa">Los géiseres</text>
+                <text lang="zho">间歇泉</text>
+                <text lang="jpn">間欠泉</text>
+                <text lang="ara">السخانات</text>
+            </name>
+        </item>
+        <item id="2d3e9b36" nid="233" name="Реки">
+            <groups>
+                <group nid="3">rostur_nature</group>
+            </groups>
+            <name>
+                <text lang="rus">Реки</text>
+                <text lang="eng">River</text>
+                <text lang="deu">Fluss</text>
+                <text lang="fra">La rivière</text>
+                <text lang="spa">Del río</text>
+                <text lang="zho">河</text>
+                <text lang="jpn">川</text>
+                <text lang="ara">نهر</text>
+            </name>
+        </item>
+        <item id="32f17a45" nid="238" name="Синагоги">
+            <groups>
+                <group nid="6">rostur_religions</group>
+            </groups>
+            <name>
+                <text lang="rus">Синагоги</text>
+                <text lang="eng">Synagogue</text>
+                <text lang="deu">Synagogen</text>
+                <text lang="fra">La synagogue</text>
+                <text lang="spa">La sinagoga</text>
+                <text lang="zho">犹太教堂</text>
+                <text lang="jpn">シナゴーグ</text>
+                <text lang="ara">كنيس</text>
+            </name>
+        </item>
+        <item id="a6759bc4" nid="244" name="Святыни">
+            <groups>
+                <group nid="6">rostur_religions</group>
+            </groups>
+            <name>
+                <text lang="rus">Святыни</text>
+                <text lang="eng">Shrines</text>
+                <text lang="deu">Schreine</text>
+                <text lang="fra">Les sanctuaires</text>
+                <text lang="spa">Santuarios</text>
+                <text lang="zho">圣地</text>
+                <text lang="jpn">神社</text>
+                <text lang="ara">الأضرحة</text>
+            </name>
+        </item>
+        <item id="museum_estestvnauchnie" nid="348" name="Естественнонаучные музеи">
+            <groups>
+                <group nid="62">rostur_museum</group>
+            </groups>
+            <name>
+                <text lang="rus">Естественнонаучные музеи</text>
+                <text lang="eng">Natural science museums</text>
+                <text lang="deu">Naturwissenschaftliche Museen</text>
+                <text lang="fra">Sciences et technologie des musées</text>
+                <text lang="spa">Естественнонаучные museos</text>
+                <text lang="zho">自然科学博物馆</text>
+                <text lang="jpn"/>
+                <text lang="ara">العلوم الطبيعية والمتاحف</text>
+            </name>
+        </item>
+        <item id="f2d9e8d6" nid="261" name="Виндсерфинг">
+            <groups>
+                <group nid="5">rostur_active</group>
+            </groups>
+            <name>
+                <text lang="rus">Виндсерфинг</text>
+                <text lang="eng">Windsurfing</text>
+                <text lang="deu">Windsurfen</text>
+                <text lang="fra">Planche à voile</text>
+                <text lang="spa">Windsurf</text>
+                <text lang="zho">冲浪</text>
+                <text lang="jpn">ウィンドサーフィン</text>
+                <text lang="ara">ركوب الأمواج</text>
+            </name>
+        </item>
+        <item id="a6886d1d" nid="268" name="Вейкбординг">
+            <groups>
+                <group nid="5">rostur_active</group>
+            </groups>
+            <name>
+                <text lang="rus">Вейкбординг</text>
+                <text lang="eng">Wakeboarding</text>
+                <text lang="deu">Wakeboarding</text>
+                <text lang="fra">Le wakeboard</text>
+                <text lang="spa">Wakeboard</text>
+                <text lang="zho">水上滑板</text>
+                <text lang="jpn">ウェークボード</text>
+                <text lang="ara">تزلج</text>
+            </name>
+        </item>
+        <item id="museum_history" nid="349" name="Исторические музеи">
+            <groups>
+                <group nid="62">rostur_museum</group>
+            </groups>
+            <name>
+                <text lang="rus">Исторические музеи</text>
+                <text lang="eng">Historical museums</text>
+                <text lang="deu">Historische Museen</text>
+                <text lang="fra">Les musées historiques</text>
+                <text lang="spa">Los museos históricos</text>
+                <text lang="zho">历史博物馆</text>
+                <text lang="jpn"/>
+                <text lang="ara">المتاحف التاريخية</text>
+            </name>
+        </item>
+        <item id="5e6bbf95" nid="282" name="Парашют">
+            <groups>
+                <group nid="5">rostur_active</group>
+            </groups>
+            <name>
+                <text lang="rus">Парашют</text>
+                <text lang="eng">Parachute</text>
+                <text lang="deu">Fallschirm</text>
+                <text lang="fra">Le parachute</text>
+                <text lang="spa">El paracaídas</text>
+                <text lang="zho">降落伞</text>
+                <text lang="jpn">パラシュート</text>
+                <text lang="ara">المظلة</text>
+            </name>
+        </item>
+        <item id="f59bfac5" nid="247" name="Колокольни">
+            <groups>
+                <group nid="6">rostur_religions</group>
+            </groups>
+            <name>
+                <text lang="rus">Колокольни</text>
+                <text lang="eng">The bell tower</text>
+                <text lang="deu">Glockenturm</text>
+                <text lang="fra">Le clocher</text>
+                <text lang="spa">El campanario</text>
+                <text lang="zho">钟楼</text>
+                <text lang="jpn">鐘楼</text>
+                <text lang="ara">برج الجرس</text>
+            </name>
+        </item>
+        <item id="105a2b5c" nid="307" name="Кофейни">
+            <groups>
+                <group nid="1">rostur_fun</group>
+            </groups>
+            <name>
+                <text lang="rus">Кофейни</text>
+                <text lang="eng">Coffee</text>
+                <text lang="deu">Kaffeehäuser</text>
+                <text lang="fra">Les cafés</text>
+                <text lang="spa">Cafés</text>
+                <text lang="zho">咖啡</text>
+                <text lang="jpn">喫茶店</text>
+                <text lang="ara">القهوة</text>
+            </name>
+        </item>
+        <item id="museum_news" nid="345" name="Новости музеев">
+            <groups>
+                <group nid="10">rostur_news</group>
+                <group nid="62">rostur_museum</group>
+            </groups>
+            <name>
+                <text lang="rus">Новости музеев</text>
+                <text lang="eng">News museums</text>
+                <text lang="deu">News Museen</text>
+                <text lang="fra">Les nouvelles musées</text>
+                <text lang="spa">Noticias de los museos</text>
+                <text lang="zho">新闻博物馆</text>
+                <text lang="jpn"/>
+                <text lang="ara">أخبار المتاحف</text>
+            </name>
+        </item>
+        <item id="museum_and_etc" nid="346" name="Музеи и не только">
+            <groups>
+                <group nid="62">rostur_museum</group>
+            </groups>
+            <name>
+                <text lang="rus">Музеи и не только</text>
+                <text lang="eng">Museums and not only</text>
+                <text lang="deu">Museen und nicht nur</text>
+                <text lang="fra">Musées et pas seulement</text>
+                <text lang="spa">Los museos y no sólo</text>
+                <text lang="zho">博物馆，而不仅仅</text>
+                <text lang="jpn"/>
+                <text lang="ara">المتاحف و ليس فقط</text>
+            </name>
+        </item>
+        <item id="museum_arhcitecture" nid="347" name="Архитектурные музеи">
+            <groups>
+                <group nid="62">rostur_museum</group>
+            </groups>
+            <name>
+                <text lang="rus">Архитектурные музеи</text>
+                <text lang="eng">Architectural museums</text>
+                <text lang="deu">Architektur-Museen</text>
+                <text lang="fra">Architecture des musées</text>
+                <text lang="spa">Arquitectónicos de museos</text>
+                <text lang="zho">建筑博物馆</text>
+                <text lang="jpn"/>
+                <text lang="ara">المعمارية المتاحف</text>
+            </name>
+        </item>
+        <item id="museum_hudozhestv" nid="350" name="Художественные музеи">
+            <groups>
+                <group nid="62">rostur_museum</group>
+            </groups>
+            <name>
+                <text lang="rus">Художественные музеи</text>
+                <text lang="eng">Art museums</text>
+                <text lang="deu">Museen</text>
+                <text lang="fra">Les musées d'art</text>
+                <text lang="spa">Museos de arte</text>
+                <text lang="zho">艺术博物馆</text>
+                <text lang="jpn"/>
+                <text lang="ara">فن المتاحف</text>
+            </name>
+        </item>
+        <item id="museum_otrasclev" nid="351" name="Отраслевые музеи">
+            <groups>
+                <group nid="62">rostur_museum</group>
+            </groups>
+            <name>
+                <text lang="rus">Отраслевые музеи</text>
+                <text lang="eng">The branch museums</text>
+                <text lang="deu">Industrie-Museen</text>
+                <text lang="fra">L'industrie des musées</text>
+                <text lang="spa">La industria de los museos</text>
+                <text lang="zho">该处博物馆</text>
+                <text lang="jpn"/>
+                <text lang="ara">الفرع المتاحف</text>
+            </name>
+        </item>
+        <item id="museum_theatral" nid="352" name="Театральные музеи">
+            <groups>
+                <group nid="62">rostur_museum</group>
+            </groups>
+            <name>
+                <text lang="rus">Театральные музеи</text>
+                <text lang="eng">Theatre museums</text>
+                <text lang="deu">Theater-Museen</text>
+                <text lang="fra">Théâtre des musées</text>
+                <text lang="spa">Teatro, museos</text>
+                <text lang="zho">剧院博物馆</text>
+                <text lang="jpn"/>
+                <text lang="ara">والمسرح والمتاحف</text>
+            </name>
+        </item>
+        <item id="museum_musicalnie" nid="353" name="Музыкальные музеи">
+            <groups>
+                <group nid="62">rostur_museum</group>
+            </groups>
+            <name>
+                <text lang="rus">Музыкальные музеи</text>
+                <text lang="eng">Music museums</text>
+                <text lang="deu">Musik-Museen</text>
+                <text lang="fra">Musique des musées</text>
+                <text lang="spa">La música de los museos</text>
+                <text lang="zho">博物馆音乐</text>
+                <text lang="jpn"/>
+                <text lang="ara">الموسيقى والمتاحف</text>
+            </name>
+        </item>
+        <item id="museum_personal_memorial" nid="354" name="Персональные, мемориальные музеи">
+            <groups>
+                <group nid="62">rostur_museum</group>
+            </groups>
+            <name>
+                <text lang="rus">Персональные, мемориальные музеи</text>
+                <text lang="eng">Personal, memorial museums</text>
+                <text lang="deu">Persönliche, Gedenktafeln Museen</text>
+                <text lang="fra">Personnelles, des musés</text>
+                <text lang="spa">Personales, museos conmemorativos</text>
+                <text lang="zho">个人的纪念博物馆</text>
+                <text lang="jpn"/>
+                <text lang="ara">الشخصية التذكارية والمتاحف</text>
+            </name>
+        </item>
+        <item id="museum_kraevedcheskie" nid="355" name="Краеведческие музеи">
+            <groups>
+                <group nid="62">rostur_museum</group>
+            </groups>
+            <name>
+                <text lang="rus">Краеведческие музеи</text>
+                <text lang="eng">Local museums</text>
+                <text lang="deu">Die heimatkundlichen Museen</text>
+                <text lang="fra">Musées régionaux</text>
+                <text lang="spa">Regionales museos</text>
+                <text lang="zho">地方博物馆</text>
+                <text lang="jpn"/>
+                <text lang="ara">المتاحف المحلية</text>
+            </name>
+        </item>
+        <item id="theatre_zverej" nid="356" name="Театр зверей">
+            <groups>
+                <group nid="61">rostur_theater</group>
+            </groups>
+            <name>
+                <text lang="rus">Театр зверей</text>
+                <text lang="eng">Theater of animals</text>
+                <text lang="deu">Das Theater der Tiere</text>
+                <text lang="fra">Théâtre des animaux</text>
+                <text lang="spa">El teatro de las bestias</text>
+                <text lang="zho">剧院的动物</text>
+                <text lang="jpn"/>
+                <text lang="ara">مسرح الحيوانات</text>
+            </name>
+        </item>
+        <item id="theatre_kukol" nid="357" name="Театр кукол">
+            <groups>
+                <group nid="61">rostur_theater</group>
+            </groups>
+            <name>
+                <text lang="rus">Театр кукол</text>
+                <text lang="eng">Puppet theatre</text>
+                <text lang="deu">Puppentheater</text>
+                <text lang="fra">Le théâtre de marionnettes</text>
+                <text lang="spa">El teatro de marionetas</text>
+                <text lang="zho">木偶剧院</text>
+                <text lang="jpn"/>
+                <text lang="ara">مسرح العرائس</text>
+            </name>
+        </item>
+        <item id="theatre_musical" nid="358" name="Музыкальный театр">
+            <groups>
+                <group nid="61">rostur_theater</group>
+            </groups>
+            <name>
+                <text lang="rus">Музыкальный театр</text>
+                <text lang="eng">Musical theatre</text>
+                <text lang="deu">Musiktheater</text>
+                <text lang="fra">Théâtre musical</text>
+                <text lang="spa">El teatro musical</text>
+                <text lang="zho">音乐剧</text>
+                <text lang="jpn"/>
+                <text lang="ara">المسرح الموسيقي</text>
+            </name>
+        </item>
+        <item id="theatre_and_etc" nid="359" name="Театры и не только">
+            <groups>
+                <group nid="61">rostur_theater</group>
+            </groups>
+            <name>
+                <text lang="rus">Театры и не только</text>
+                <text lang="eng">Theatres and not only</text>
+                <text lang="deu">Theater und nicht nur</text>
+                <text lang="fra">Les théâtres et pas seulement</text>
+                <text lang="spa">Los teatros y no sólo</text>
+                <text lang="zho">剧院，而不仅仅</text>
+                <text lang="jpn"/>
+                <text lang="ara">المسارح و ليس فقط</text>
+            </name>
+        </item>
+        <item id="museum_literaturnie" nid="360" name="Литературные музеи">
+            <groups>
+                <group nid="62">rostur_museum</group>
+            </groups>
+            <name>
+                <text lang="rus">Литературные музеи</text>
+                <text lang="eng">Literary museums</text>
+                <text lang="deu">Literarische Museen</text>
+                <text lang="fra">Littéraires musées</text>
+                <text lang="spa">Museos literarios</text>
+                <text lang="zho">文学博物馆</text>
+                <text lang="jpn"/>
+                <text lang="ara">الأدبية المتاحف</text>
+            </name>
+        </item>
+        <item id="museum_zapovendniki" nid="361" name="Музеи-заповедники">
+            <groups>
+                <group nid="62">rostur_museum</group>
+            </groups>
+            <name>
+                <text lang="rus">Музеи-заповедники</text>
+                <text lang="eng">The state Museum-reserve</text>
+                <text lang="deu">Museen-die Naturschutzgebiete</text>
+                <text lang="fra">Musées-réserves</text>
+                <text lang="spa">Museos-reservas</text>
+                <text lang="zho">国家博物馆准备金</text>
+                <text lang="jpn"/>
+                <text lang="ara">متحف الدولة المحمية ،</text>
+            </name>
+        </item>
+        <item id="theatre_plastic_zhanre" nid="362" name="Театры пластического жанра">
+            <groups>
+                <group nid="61">rostur_theater</group>
+            </groups>
+            <name>
+                <text lang="rus">Театры пластического жанра</text>
+                <text lang="eng">Theatres plastic genre</text>
+                <text lang="deu">Theater plastischen Genre</text>
+                <text lang="fra">Théâtres en plastique du genre</text>
+                <text lang="spa">Los teatros de plástico de género</text>
+                <text lang="zho">剧院的塑料类型</text>
+                <text lang="jpn"/>
+                <text lang="ara">المسارح البلاستيك النوع</text>
+            </name>
+        </item>
+        <item id="theatre_klounadi_pantomimi" nid="363" name="Театр клоунады и пантомимы">
+            <groups>
+                <group nid="61">rostur_theater</group>
+            </groups>
+            <name>
+                <text lang="rus">Театр клоунады и пантомимы</text>
+                <text lang="eng">Theatre of clownery and pantomime</text>
+                <text lang="deu">Theater, Clown und Pantomime</text>
+                <text lang="fra">Théâtre clownesque et de la pantomime</text>
+                <text lang="spa">El teatro клоунады y la pantomima</text>
+                <text lang="zho">剧院的clownery和哑剧演员</text>
+                <text lang="jpn"/>
+                <text lang="ara">مسرح clownery و البانتوميم</text>
+            </name>
+        </item>
+        <item id="theatre_illusion" nid="364" name="Театр иллюзии">
+            <groups>
+                <group nid="61">rostur_theater</group>
+            </groups>
+            <name>
+                <text lang="rus">Театр иллюзии</text>
+                <text lang="eng">Theatre of illusion</text>
+                <text lang="deu">Theater der Illusionen</text>
+                <text lang="fra">Théâtre de l'illusion</text>
+                <text lang="spa">El teatro de la ilusión</text>
+                <text lang="zho">剧场幻觉</text>
+                <text lang="jpn"/>
+                <text lang="ara">مسرح الوهم</text>
+            </name>
+        </item>
+        <item id="theatre_estradi" nid="365" name="Театр эстрады">
+            <groups>
+                <group nid="61">rostur_theater</group>
+            </groups>
+            <name>
+                <text lang="rus">Театр эстрады</text>
+                <text lang="eng">The theater stage</text>
+                <text lang="deu">Das Theater der Bhne</text>
+                <text lang="fra">Le théâtre de l'estrade</text>
+                <text lang="spa">Teatro el tablado</text>
+                <text lang="zho">剧院的舞台</text>
+                <text lang="jpn"/>
+                <text lang="ara">المسرح المرحلة</text>
+            </name>
+        </item>
+        <item id="theatre_marionetok" nid="366" name="Театр марионеток">
+            <groups>
+                <group nid="61">rostur_theater</group>
+            </groups>
+            <name>
+                <text lang="rus">Театр марионеток</text>
+                <text lang="eng">Marionette theater</text>
+                <text lang="deu">Marionettentheater</text>
+                <text lang="fra">Théâtre de marionnettes</text>
+                <text lang="spa">El teatro de las marionetas</text>
+                <text lang="zho">牵线木偶剧院</text>
+                <text lang="jpn"/>
+                <text lang="ara">مسرح الدمى المتحركة ،</text>
+            </name>
+        </item>
+        <item id="theatre_drama" nid="367" name="Драматические театры">
+            <groups>
+                <group nid="61">rostur_theater</group>
+            </groups>
+            <name>
+                <text lang="rus">Драматические театры</text>
+                <text lang="eng">Theaters</text>
+                <text lang="deu">Dramatische Theater</text>
+                <text lang="fra">Le théâtre</text>
+                <text lang="spa">Los teatros dramáticos</text>
+                <text lang="zho">剧院</text>
+                <text lang="jpn"/>
+                <text lang="ara">المسارح</text>
+            </name>
+        </item>
+        <item id="theatre_news" nid="368" name="Новости театров">
+            <groups>
+                <group nid="10">rostur_news</group>
+                <group nid="61">rostur_theater</group>
+            </groups>
+            <name>
+                <text lang="rus">Новости театров</text>
+                <text lang="eng">News theatres</text>
+                <text lang="deu">News Theater</text>
+                <text lang="fra">Nouvelles des théâtres</text>
+                <text lang="spa">Noticias de los teatros</text>
+                <text lang="zho">新闻剧院</text>
+                <text lang="jpn"/>
+                <text lang="ara">أخبار المسارح</text>
+            </name>
+        </item>
+        <item id="08e3788c" nid="326" name="Музыкальный фестиваль">
+            <groups>
+                <group nid="9">rostur_event</group>
+            </groups>
+            <name>
+                <text lang="rus">Музыкальный фестиваль</text>
+                <text lang="eng">Music festival</text>
+                <text lang="deu">Musik-Festival</text>
+                <text lang="fra">Festival de musique</text>
+                <text lang="spa">El festival de música</text>
+                <text lang="zho">音乐节</text>
+                <text lang="jpn">音楽祭</text>
+                <text lang="ara">مهرجان الموسيقى</text>
+            </name>
+        </item>
+        <item id="f9949e52" nid="288" name="Лонгборд">
+            <groups>
+                <group nid="5">rostur_active</group>
+                <group nid="81">winter_holidays</group>
+            </groups>
+            <name>
+                <text lang="rus">Лонгборд</text>
+                <text lang="eng">Longboard</text>
+                <text lang="deu">Longbord</text>
+                <text lang="fra">Лонгборд</text>
+                <text lang="spa">Лонгборд</text>
+                <text lang="zho">长板</text>
+                <text lang="jpn">ロングボード</text>
+                <text lang="ara">Longboard</text>
+            </name>
+        </item>
+        <item id="6ea3ff20" nid="289" name="Грибы-ягоды">
+            <groups>
+                <group nid="5">rostur_active</group>
+            </groups>
+            <name>
+                <text lang="rus">Грибы-ягоды</text>
+                <text lang="eng">Mushrooms-berries</text>
+                <text lang="deu">Pilze und Beeren</text>
+                <text lang="fra">Champignons et des baies</text>
+                <text lang="spa">Setas, bayas de</text>
+                <text lang="zho">蘑菇-浆果</text>
+                <text lang="jpn">キノコやベリー</text>
+                <text lang="ara">الفطر-التوت</text>
+            </name>
+        </item>
+        <item id="604c6bbb" nid="290" name="Дельфинариумы">
+            <groups>
+                <group nid="1">rostur_fun</group>
+            </groups>
+            <name>
+                <text lang="rus">Дельфинариумы</text>
+                <text lang="eng">Delfinarium</text>
+                <text lang="deu">Дельфинариумы</text>
+                <text lang="fra">Дельфинариумы</text>
+                <text lang="spa">Дельфинариумы</text>
+                <text lang="zho">Delfinarium</text>
+                <text lang="jpn">イルカの水族館</text>
+                <text lang="ara">Delfinarium</text>
+            </name>
+        </item>
+        <item id="4514c24a" nid="291" name="Катки">
+            <groups>
+                <group nid="1">rostur_fun</group>
+                <group nid="5">rostur_active</group>
+            </groups>
+            <name>
+                <text lang="rus">Катки</text>
+                <text lang="eng">Skating rinks</text>
+                <text lang="deu">Eisbahnen</text>
+                <text lang="fra">Les patinoires</text>
+                <text lang="spa">Pistas de patinaje</text>
+                <text lang="zho">滑rinks</text>
+                <text lang="jpn">ローラー</text>
+                <text lang="ara">التزحلق على الجليد في حلبات</text>
+            </name>
+        </item>
+        <item id="1722d6b1" nid="292" name="Детские развлечения">
+            <groups>
+                <group nid="1">rostur_fun</group>
+            </groups>
+            <name>
+                <text lang="rus">Детские развлечения</text>
+                <text lang="eng">Children's entertainment</text>
+                <text lang="deu">Kinder-Unterhaltung</text>
+                <text lang="fra">Service d'animations pour enfants</text>
+                <text lang="spa">Animación para niños</text>
+                <text lang="zho">儿童娱乐</text>
+                <text lang="jpn">子供のエンターテイメント</text>
+                <text lang="ara">الترفيه للأطفال</text>
+            </name>
+        </item>
+        <item id="7025031b" nid="293" name="Необычные развлечения">
+            <groups>
+                <group nid="1">rostur_fun</group>
+            </groups>
+            <name>
+                <text lang="rus">Необычные развлечения</text>
+                <text lang="eng">Unusual entertainment</text>
+                <text lang="deu">Ungewöhnliche Unterhaltung</text>
+                <text lang="fra">Insolite, divertissement</text>
+                <text lang="spa">Inusual entretenimiento</text>
+                <text lang="zho">不寻常娱乐</text>
+                <text lang="jpn">珍しいエンターテイメント</text>
+                <text lang="ara">غير عادية الترفيه</text>
+            </name>
+        </item>
+        <item id="436641be" nid="294" name="Цирки">
+            <groups>
+                <group nid="1">rostur_fun</group>
+            </groups>
+            <name>
+                <text lang="rus">Цирки</text>
+                <text lang="eng">Circuses</text>
+                <text lang="deu">Die zirkusse</text>
+                <text lang="fra">Les cirques</text>
+                <text lang="spa">Los circos</text>
+                <text lang="zho">马戏团</text>
+                <text lang="jpn">サーカス</text>
+                <text lang="ara">والسيرك</text>
+            </name>
+        </item>
+        <item id="950198fe" nid="295" name="Казино">
+            <groups>
+                <group nid="1">rostur_fun</group>
+            </groups>
+            <name>
+                <text lang="rus">Казино</text>
+                <text lang="eng">Casino</text>
+                <text lang="deu">Casino</text>
+                <text lang="fra">Casino</text>
+                <text lang="spa">Casino</text>
+                <text lang="zho">赌场</text>
+                <text lang="jpn">カジノ</text>
+                <text lang="ara">القمار</text>
+            </name>
+        </item>
+        <item id="a2ab261d" nid="296" name="Живые уголки">
+            <groups>
+                <group nid="1">rostur_fun</group>
+            </groups>
+            <name>
+                <text lang="rus">Живые уголки</text>
+                <text lang="eng">Live corners</text>
+                <text lang="deu">Live-Ecken</text>
+                <text lang="fra">Vivants coins</text>
+                <text lang="spa">Vivo rincones</text>
+                <text lang="zho">住在街角</text>
+                <text lang="jpn">リビングコーナー</text>
+                <text lang="ara">يعيش زوايا</text>
+            </name>
+        </item>
+        <item id="f44cdf1c" nid="297" name="Парки аттракционов">
+            <groups>
+                <group nid="1">rostur_fun</group>
+            </groups>
+            <name>
+                <text lang="rus">Парки аттракционов</text>
+                <text lang="eng">Amusement parks</text>
+                <text lang="deu">Freizeitparks</text>
+                <text lang="fra">Parcs d'attractions</text>
+                <text lang="spa">Parques de atracciones</text>
+                <text lang="zho">娱乐公园</text>
+                <text lang="jpn">遊園地</text>
+                <text lang="ara">المتنزهات</text>
+            </name>
+        </item>
+        <item id="89b45e33" nid="298" name="События и праздники">
+            <groups>
+                <group nid="9">rostur_event</group>
+            </groups>
+            <name>
+                <text lang="rus">События и праздники</text>
+                <text lang="eng">Events and holidays</text>
+                <text lang="deu">Veranstaltungen und Feste</text>
+                <text lang="fra">Événements et fêtes</text>
+                <text lang="spa">Eventos y fiestas</text>
+                <text lang="zho">活动和节日</text>
+                <text lang="jpn">イベントやお祝い</text>
+                <text lang="ara">الأحداث والعطلات</text>
+            </name>
+        </item>
+        <item id="ce59c8d0" nid="299" name="Концертные площадки">
+            <groups>
+                <group nid="1">rostur_fun</group>
+            </groups>
+            <name>
+                <text lang="rus">Концертные площадки</text>
+                <text lang="eng">Concert venue</text>
+                <text lang="deu">Konzerthäuser</text>
+                <text lang="fra">Salles de concert</text>
+                <text lang="spa">Salas de conciertos</text>
+                <text lang="zho">音乐会的地点</text>
+                <text lang="jpn">コンサートホール</text>
+                <text lang="ara">مكان الحفل</text>
+            </name>
+        </item>
+        <item id="25cc67c1" nid="300" name="Фастфуд">
+            <groups>
+                <group nid="1">rostur_fun</group>
+            </groups>
+            <name>
+                <text lang="rus">Фастфуд</text>
+                <text lang="eng">Fast food</text>
+                <text lang="deu">Fast Food</text>
+                <text lang="fra">Restauration rapide</text>
+                <text lang="spa">Comida rápida</text>
+                <text lang="zho">快餐食品</text>
+                <text lang="jpn">ファストフード</text>
+                <text lang="ara">الوجبات السريعة</text>
+            </name>
+        </item>
+        <item id="5330425c" nid="301" name="Под открытым небом">
+            <groups>
+                <group nid="1">rostur_fun</group>
+            </groups>
+            <name>
+                <text lang="rus">Под открытым небом</text>
+                <text lang="eng">Outdoor</text>
+                <text lang="deu">Unter freiem Himmel</text>
+                <text lang="fra">En plein air</text>
+                <text lang="spa">Al aire libre</text>
+                <text lang="zho">户外</text>
+                <text lang="jpn">オープンエア</text>
+                <text lang="ara">جمهور</text>
+            </name>
+        </item>
+        <item id="fe71e792" nid="302" name="Развлечения">
+            <groups>
+                <group nid="1">rostur_fun</group>
+            </groups>
+            <name>
+                <text lang="rus">Развлечения</text>
+                <text lang="eng">Entertainment</text>
+                <text lang="deu">Unterhaltung</text>
+                <text lang="fra">Divertissement</text>
+                <text lang="spa">Entretenimiento</text>
+                <text lang="zho">娱乐</text>
+                <text lang="jpn">エンターテインメント</text>
+                <text lang="ara">الترفيه</text>
+            </name>
+        </item>
+        <item id="1b89bd8a" nid="303" name="Торгово-развлекательные комплексы">
+            <groups>
+                <group nid="1">rostur_fun</group>
+            </groups>
+            <name>
+                <text lang="rus">Торгово-развлекательные комплексы</text>
+                <text lang="eng">Shopping malls</text>
+                <text lang="deu">Einkaufs-und Freizeitzentren</text>
+                <text lang="fra">Les centres commerciaux</text>
+                <text lang="spa">Comercial-centros de ocio</text>
+                <text lang="zho">购物中心</text>
+                <text lang="jpn">モール</text>
+                <text lang="ara">مراكز التسوق</text>
+            </name>
+        </item>
+        <item id="8b635a6c" nid="304" name="Планетарии">
+            <groups>
+                <group nid="1">rostur_fun</group>
+            </groups>
+            <name>
+                <text lang="rus">Планетарии</text>
+                <text lang="eng">The planetarium</text>
+                <text lang="deu">Planetarium</text>
+                <text lang="fra">Le planétarium</text>
+                <text lang="spa">Planetario</text>
+                <text lang="zho">今晚的天文馆</text>
+                <text lang="jpn">プラネタリウム</text>
+                <text lang="ara">القبة السماوية</text>
+            </name>
+        </item>
+        <item id="5cda8c70" nid="305" name="Ипподромы">
+            <groups>
+                <group nid="1">rostur_fun</group>
+            </groups>
+            <name>
+                <text lang="rus">Ипподромы</text>
+                <text lang="eng">Racecourses</text>
+                <text lang="deu">Rennstrecken</text>
+                <text lang="fra">Les hippodromes</text>
+                <text lang="spa">Ипподромы</text>
+                <text lang="zho">Racecourses</text>
+                <text lang="jpn">競馬場</text>
+                <text lang="ara">حلبات سباق</text>
+            </name>
+        </item>
+        <item id="a1230639" nid="306" name="Городское пространство">
+            <groups>
+                <group nid="1">rostur_fun</group>
+            </groups>
+            <name>
+                <text lang="rus">Городское пространство</text>
+                <text lang="eng">Urban space</text>
+                <text lang="deu">Der städtische Raum</text>
+                <text lang="fra">L'espace urbain</text>
+                <text lang="spa">Espacio urbano</text>
+                <text lang="zho">城市空间</text>
+                <text lang="jpn">都市空間</text>
+                <text lang="ara">الفضاء الحضري</text>
+            </name>
+        </item>
+        <item id="fc8742ef" nid="308" name="Зоопарки">
+            <groups>
+                <group nid="1">rostur_fun</group>
+            </groups>
+            <name>
+                <text lang="rus">Зоопарки</text>
+                <text lang="eng">Zoos</text>
+                <text lang="deu">Zoos</text>
+                <text lang="fra">Les zoos</text>
+                <text lang="spa">Los zoos</text>
+                <text lang="zho">动物园</text>
+                <text lang="jpn">動物園</text>
+                <text lang="ara">حدائق الحيوان</text>
+            </name>
+        </item>
+        <item id="8e78e7a2" nid="309" name="Океанариумы">
+            <groups>
+                <group nid="1">rostur_fun</group>
+            </groups>
+            <name>
+                <text lang="rus">Океанариумы</text>
+                <text lang="eng">Aquariums</text>
+                <text lang="deu">Meerwasseraquarien</text>
+                <text lang="fra">Okeanariumy</text>
+                <text lang="spa">Океанариумы</text>
+                <text lang="zho">水族馆</text>
+                <text lang="jpn">海洋水族館</text>
+                <text lang="ara">أحواض السمك</text>
+            </name>
+        </item>
+        <item id="ce047394" nid="310" name="Стадионы">
+            <groups>
+                <group nid="1">rostur_fun</group>
+            </groups>
+            <name>
+                <text lang="rus">Стадионы</text>
+                <text lang="eng">Stadiums</text>
+                <text lang="deu">Stadien</text>
+                <text lang="fra">Les stades</text>
+                <text lang="spa">Estadios</text>
+                <text lang="zho">体育场</text>
+                <text lang="jpn">スタジアム</text>
+                <text lang="ara">الملاعب</text>
+            </name>
+        </item>
+        <item id="740ea540" nid="311" name="Тайм-кафе">
+            <groups>
+                <group nid="1">rostur_fun</group>
+            </groups>
+            <name>
+                <text lang="rus">Тайм-кафе</text>
+                <text lang="eng">Time cafe</text>
+                <text lang="deu">Zeit-Café</text>
+                <text lang="fra">Le délai d'un café</text>
+                <text lang="spa">El tiempo-cafetería</text>
+                <text lang="zho">时间咖啡馆</text>
+                <text lang="jpn">タイムカフェ</text>
+                <text lang="ara">الوقت مقهى</text>
+            </name>
+        </item>
+        <item id="ac64fc47" nid="312" name="Курорты">
+            <groups>
+                <group nid="8">rostur_recreational</group>
+            </groups>
+            <name>
+                <text lang="rus">Курорты</text>
+                <text lang="eng">Resorts</text>
+                <text lang="deu">Resorts</text>
+                <text lang="fra">Stations</text>
+                <text lang="spa">Balnearios</text>
+                <text lang="zho">度假胜地</text>
+                <text lang="jpn">リゾート</text>
+                <text lang="ara">المنتجعات</text>
+            </name>
+        </item>
+        <item id="950593b2" nid="313" name="Бани, Сауны">
+            <groups>
+                <group nid="8">rostur_recreational</group>
+            </groups>
+            <name>
+                <text lang="rus">Бани, Сауны</text>
+                <text lang="eng">Baths, Saunas</text>
+                <text lang="deu">Bäder, Saunen</text>
+                <text lang="fra">Bains De Vapeur, Sauna</text>
+                <text lang="spa">Baños, Saunas</text>
+                <text lang="zho">浴室、桑拿浴室</text>
+                <text lang="jpn">サウナ、スチームバス</text>
+                <text lang="ara">حمامات البخار</text>
+            </name>
+        </item>
+        <item id="1ac569ea" nid="314" name="Минеральные источники">
+            <groups>
+                <group nid="8">rostur_recreational</group>
+            </groups>
+            <name>
+                <text lang="rus">Минеральные источники</text>
+                <text lang="eng">Mineral springs</text>
+                <text lang="deu">Die Mineralquellen</text>
+                <text lang="fra">Les sources d'eau minérale</text>
+                <text lang="spa">Los manantiales de aguas minerales</text>
+                <text lang="zho">矿泉水</text>
+                <text lang="jpn">鉱泉</text>
+                <text lang="ara">الينابيع المعدنية</text>
+            </name>
+        </item>
+        <item id="a716e021" nid="315" name="Рекреационный туризм">
+            <groups>
+                <group nid="8">rostur_recreational</group>
+            </groups>
+            <name>
+                <text lang="rus">Рекреационный туризм</text>
+                <text lang="eng">Recreational tourism</text>
+                <text lang="deu">Der Tourismus ist</text>
+                <text lang="fra">Le tourisme de loisir</text>
+                <text lang="spa">Recreativo de turismo</text>
+                <text lang="zho">娱乐性旅游业</text>
+                <text lang="jpn">レクリエーション観光</text>
+                <text lang="ara">السياحة الترفيهية</text>
+            </name>
+        </item>
+        <item id="605e7e00" nid="316" name="Грязевые источники">
+            <groups>
+                <group nid="8">rostur_recreational</group>
+            </groups>
+            <name>
+                <text lang="rus">Грязевые источники</text>
+                <text lang="eng">Mud springs</text>
+                <text lang="deu">Schlamm-Quellen</text>
+                <text lang="fra">De la boue sources</text>
+                <text lang="spa">De barro fuentes</text>
+                <text lang="zho">泥泉</text>
+                <text lang="jpn">泥源</text>
+                <text lang="ara">الطين الينابيع</text>
+            </name>
+        </item>
+        <item id="8bbe1569" nid="317" name="Здравницы">
+            <groups>
+                <group nid="8">rostur_recreational</group>
+            </groups>
+            <name>
+                <text lang="rus">Здравницы</text>
+                <text lang="eng">Resorts</text>
+                <text lang="deu">Die Heilstätten</text>
+                <text lang="fra">Les sanatoriums</text>
+                <text lang="spa">Balneario</text>
+                <text lang="zho">度假胜地</text>
+                <text lang="jpn">リゾート</text>
+                <text lang="ara">المنتجعات</text>
+            </name>
+        </item>
+        <item id="4e1d8344" nid="318" name="Исторические факты">
+            <groups>
+                <group nid="7">rostur_regions</group>
+            </groups>
+            <name>
+                <text lang="rus">Исторические факты</text>
+                <text lang="eng">Historical facts</text>
+                <text lang="deu">Historische Fakten</text>
+                <text lang="fra">Les faits historiques</text>
+                <text lang="spa">Hechos históricos</text>
+                <text lang="zho">历史事实</text>
+                <text lang="jpn">歴史的事実</text>
+                <text lang="ara">حقائق تاريخية</text>
+            </name>
+        </item>
+        <item id="1ede6e09" nid="319" name="Даты и события">
+            <groups>
+                <group nid="7">rostur_regions</group>
+            </groups>
+            <name>
+                <text lang="rus">Даты и события</text>
+                <text lang="eng">Dates and events</text>
+                <text lang="deu">Datum und Veranstaltungen</text>
+                <text lang="fra">Les dates et les événements</text>
+                <text lang="spa">Fechas y eventos</text>
+                <text lang="zho">日期和活动</text>
+                <text lang="jpn">日付とイベント</text>
+                <text lang="ara">تواريخ وأحداث</text>
+            </name>
+        </item>
+        <item id="8198c18b" nid="320" name="Фестиваль исторической реконструкции">
+            <groups>
+                <group nid="9">rostur_event</group>
+            </groups>
+            <name>
+                <text lang="rus">Фестиваль исторической реконструкции</text>
+                <text lang="eng">Festival of historical reenactment</text>
+                <text lang="deu">Festival der historischen Rekonstruktion</text>
+                <text lang="fra">Festival de la reconstruction historique</text>
+                <text lang="spa">Festival de la reconstrucción histórica</text>
+                <text lang="zho">节日具有历史重演</text>
+                <text lang="jpn">歴史的再建の祭り</text>
+                <text lang="ara">مهرجان التاريخية reenactment</text>
+            </name>
+        </item>
+        <item id="46507697" nid="321" name="Кинофестиваль">
+            <groups>
+                <group nid="9">rostur_event</group>
+            </groups>
+            <name>
+                <text lang="rus">Кинофестиваль</text>
+                <text lang="eng">Film festival</text>
+                <text lang="deu">Filmfestival</text>
+                <text lang="fra">Le festival du film</text>
+                <text lang="spa">El festival de cine de</text>
+                <text lang="zho">电影节</text>
+                <text lang="jpn">映画祭</text>
+                <text lang="ara">السينمائي</text>
+            </name>
+        </item>
+        <item id="095dd086" nid="322" name="Фестиваль">
+            <groups>
+                <group nid="9">rostur_event</group>
+            </groups>
+            <name>
+                <text lang="rus">Фестиваль</text>
+                <text lang="eng">Festival</text>
+                <text lang="deu">Festival</text>
+                <text lang="fra">Festival</text>
+                <text lang="spa">El festival</text>
+                <text lang="zho">节日</text>
+                <text lang="jpn">祭り</text>
+                <text lang="ara">مهرجان</text>
+            </name>
+        </item>
+        <item id="2d4b2576" nid="323" name="Театральный фестиваль">
+            <groups>
+                <group nid="9">rostur_event</group>
+            </groups>
+            <name>
+                <text lang="rus">Театральный фестиваль</text>
+                <text lang="eng">Theatre festival</text>
+                <text lang="deu">Das Theaterfestival</text>
+                <text lang="fra">Festival de théâtre</text>
+                <text lang="spa">El festival de teatro</text>
+                <text lang="zho">戏剧节</text>
+                <text lang="jpn">演劇祭</text>
+                <text lang="ara">مهرجان المسرح</text>
+            </name>
+        </item>
+        <item id="4cd22c34" nid="324" name="Конкурс">
+            <groups>
+                <group nid="9">rostur_event</group>
+            </groups>
+            <name>
+                <text lang="rus">Конкурс</text>
+                <text lang="eng">Competition</text>
+                <text lang="deu">Wettbewerb</text>
+                <text lang="fra">Concours</text>
+                <text lang="spa">Concurso</text>
+                <text lang="zho">竞争</text>
+                <text lang="jpn">コンペティション</text>
+                <text lang="ara">المنافسة</text>
+            </name>
+        </item>
+        <item id="4ed88af2" nid="325" name="Творческий фестиваль">
+            <groups>
+                <group nid="9">rostur_event</group>
+            </groups>
+            <name>
+                <text lang="rus">Творческий фестиваль</text>
+                <text lang="eng">Creative festival</text>
+                <text lang="deu">Kreativ-Festival</text>
+                <text lang="fra">Créatrice du festival</text>
+                <text lang="spa">El festival creativo</text>
+                <text lang="zho">有创意的节日</text>
+                <text lang="jpn">クリエイティブ·フェスティバル</text>
+                <text lang="ara">الإبداعية مهرجان</text>
+            </name>
+        </item>
+        <item id="e55744f0" nid="327" name="Фестиваль фотографии">
+            <groups>
+                <group nid="9">rostur_event</group>
+            </groups>
+            <name>
+                <text lang="rus">Фестиваль фотографии</text>
+                <text lang="eng">Festival photos</text>
+                <text lang="deu">Fest der Fotografie</text>
+                <text lang="fra">Le festival de la photographie</text>
+                <text lang="spa">Festival de fotos</text>
+                <text lang="zho">节的照片</text>
+                <text lang="jpn">写真の祭り</text>
+                <text lang="ara">مهرجان صور</text>
+            </name>
+        </item>
+        <item id="ef4073fa" nid="328" name="Туристко-информационный центр">
+            <groups>
+                <group nid="21">rostur_tourist_infr</group>
+            </groups>
+            <name>
+                <text lang="rus">Туристко-информационный центр</text>
+                <text lang="eng">Tourist information centre</text>
+                <text lang="deu">Туристко-und Informationszentrum</text>
+                <text lang="fra">Туристко-centre d'information</text>
+                <text lang="spa">Туристко-centro de información</text>
+                <text lang="zho">旅游信息中心</text>
+                <text lang="jpn">ツーリスト·インフォメーション·センター</text>
+                <text lang="ara">مركز المعلومات السياحية</text>
+            </name>
+        </item>
+        <item id="e2348e38" nid="329" name="Инфо-пункт">
+            <groups>
+                <group nid="21">rostur_tourist_infr</group>
+            </groups>
+            <name>
+                <text lang="rus">Инфо-пункт</text>
+                <text lang="eng">Info-point</text>
+                <text lang="deu">Info-Punkt</text>
+                <text lang="fra">Info-point</text>
+                <text lang="spa">Info del tema</text>
+                <text lang="zho">资料点</text>
+                <text lang="jpn">インフォポイント</text>
+                <text lang="ara">معلومات نقطة</text>
+            </name>
+        </item>
+        <item id="43dfb8d4" nid="330" name="Информационная стойка">
+            <groups>
+                <group nid="21">rostur_tourist_infr</group>
+            </groups>
+            <name>
+                <text lang="rus">Информационная стойка</text>
+                <text lang="eng">Information Desk</text>
+                <text lang="deu">Die informative Stunden</text>
+                <text lang="fra">Un comptoir d'information</text>
+                <text lang="spa">Mostrador de información</text>
+                <text lang="zho">信息查询台</text>
+                <text lang="jpn">インフォメーションデスク</text>
+                <text lang="ara">معلومات مكتب</text>
+            </name>
+        </item>
+        <item id="4f3b7827" nid="190" name="Современное искусство">
+            <groups>
+                <group nid="2">rostur_culture</group>
+            </groups>
+            <name>
+                <text lang="rus">Современное искусство</text>
+                <text lang="eng">Contemporary art</text>
+                <text lang="deu">Zeitgenössische Kunst</text>
+                <text lang="fra">Art contemporain</text>
+                <text lang="spa">Arte contemporáneo</text>
+                <text lang="zho">当代艺术</text>
+                <text lang="jpn">現代美術</text>
+                <text lang="ara">الفن المعاصر</text>
+            </name>
+        </item>
+        <item id="a4d14e8c" nid="211" name="Консерватории / филармонии">
+            <groups>
+                <group nid="1">rostur_fun</group>
+                <group nid="2">rostur_culture</group>
+            </groups>
+            <name>
+                <text lang="rus">Консерватории / филармонии</text>
+                <text lang="eng">Conservatory / Philharmonic</text>
+                <text lang="deu">Wintergarten / Philharmonie</text>
+                <text lang="fra">Conservatoire / la philharmonie de</text>
+                <text lang="spa">Conservatorio / filarmónica de</text>
+                <text lang="zho">音乐学院/爱乐乐团</text>
+                <text lang="jpn">音楽院/フィルハーモニー</text>
+                <text lang="ara">كونسرفتوار / الفيلهارمونية</text>
+            </name>
+        </item>
+        <item id="376cf3c7" nid="216" name="Объекты искусства">
+            <groups>
+                <group nid="2">rostur_culture</group>
+            </groups>
+            <name>
+                <text lang="rus">Объекты искусства</text>
+                <text lang="eng">Objects of art</text>
+                <text lang="deu">Gegenstände der Kunst</text>
+                <text lang="fra">Objets d'art</text>
+                <text lang="spa">Objetos de arte</text>
+                <text lang="zho">艺术品</text>
+                <text lang="jpn">芸術のオブジェクト</text>
+                <text lang="ara">الكائنات الفن</text>
+            </name>
+        </item>
+        <item id="8d651291" nid="219" name="Природные парки">
+            <groups>
+                <group nid="3">rostur_nature</group>
+            </groups>
+            <name>
+                <text lang="rus">Природные парки</text>
+                <text lang="eng">Natural parks</text>
+                <text lang="deu">Natürliche Parks</text>
+                <text lang="fra">Les parcs naturels</text>
+                <text lang="spa">Parques naturales de</text>
+                <text lang="zho">自然公园</text>
+                <text lang="jpn">自然公園</text>
+                <text lang="ara">المتنزهات الطبيعية</text>
+            </name>
+        </item>
+        <item id="f70a7ad3" nid="221" name="Моря / океаны">
+            <groups>
+                <group nid="3">rostur_nature</group>
+            </groups>
+            <name>
+                <text lang="rus">Моря / океаны</text>
+                <text lang="eng">Sea / oceans</text>
+                <text lang="deu">Meere / Ozeane</text>
+                <text lang="fra">Mers / océans</text>
+                <text lang="spa">Mares / océanos</text>
+                <text lang="zho">海/海洋</text>
+                <text lang="jpn">海/海</text>
+                <text lang="ara">البحر / المحيطات</text>
+            </name>
+        </item>
+        <item id="bfe3e2da" nid="224" name="Вулканы / кратеры">
+            <groups>
+                <group nid="3">rostur_nature</group>
+            </groups>
+            <name>
+                <text lang="rus">Вулканы / кратеры</text>
+                <text lang="eng">Volcanoes / craters</text>
+                <text lang="deu">Vulkane / Krater</text>
+                <text lang="fra">Les volcans / cratères</text>
+                <text lang="spa">Los volcanes / cráteres</text>
+                <text lang="zho">火山/陨石坑</text>
+                <text lang="jpn">火山/クレーター</text>
+                <text lang="ara">البراكين / الحفر</text>
+            </name>
+        </item>
+        <item id="ea4b547f" nid="225" name="Впадины и низины">
+            <groups>
+                <group nid="3">rostur_nature</group>
+            </groups>
+            <name>
+                <text lang="rus">Впадины и низины</text>
+                <text lang="eng">Depressions and lowlands</text>
+                <text lang="deu">Die Vertiefungen und die Talniederungen</text>
+                <text lang="fra">Les creux et les plaines</text>
+                <text lang="spa">Valles y las tierras bajas</text>
+                <text lang="zho">洼地和低地</text>
+                <text lang="jpn">くぼみとくぼみ</text>
+                <text lang="ara">الاغوار و المناطق المنخفضة</text>
+            </name>
+        </item>
+        <item id="86945697" nid="230" name="Горы">
+            <groups>
+                <group nid="3">rostur_nature</group>
+            </groups>
+            <name>
+                <text lang="rus">Горы</text>
+                <text lang="eng">Mountains</text>
+                <text lang="deu">Berge</text>
+                <text lang="fra">La montagne</text>
+                <text lang="spa">Montaña</text>
+                <text lang="zho">山</text>
+                <text lang="jpn">山地</text>
+                <text lang="ara">الجبال</text>
+            </name>
+        </item>
+        <item id="9b0f0a1e" nid="231" name="Холмы и сопки">
+            <groups>
+                <group nid="3">rostur_nature</group>
+            </groups>
+            <name>
+                <text lang="rus">Холмы и сопки</text>
+                <text lang="eng">The hills and fells</text>
+                <text lang="deu">Die Hügel und Kuppen</text>
+                <text lang="fra">Les collines et les montagnes</text>
+                <text lang="spa">Las colinas y frondosos</text>
+                <text lang="zho">山丘上</text>
+                <text lang="jpn">ヒルズと丘</text>
+                <text lang="ara">التلال فيلس</text>
+            </name>
+        </item>
+        <item id="6651fd6f" nid="234" name="Прибрежная зона">
+            <groups>
+                <group nid="3">rostur_nature</group>
+            </groups>
+            <name>
+                <text lang="rus">Прибрежная зона</text>
+                <text lang="eng">The coastal zone</text>
+                <text lang="deu">Küstenlage</text>
+                <text lang="fra">Zone côtière</text>
+                <text lang="spa">La zona costera</text>
+                <text lang="zho">沿海地区</text>
+                <text lang="jpn">沿岸地帯</text>
+                <text lang="ara">المنطقة الساحلية</text>
+            </name>
+        </item>
+        <item id="d55ed14a" nid="237" name="Православные храмы">
+            <groups>
+                <group nid="6">rostur_religions</group>
+            </groups>
+            <name>
+                <text lang="rus">Православные храмы</text>
+                <text lang="eng">Orthodox churches</text>
+                <text lang="deu">Orthodoxe Kirchen</text>
+                <text lang="fra">Les églises orthodoxes</text>
+                <text lang="spa">Muchos templos ortodoxos</text>
+                <text lang="zho">东正教教堂</text>
+                <text lang="jpn">正教会の教会</text>
+                <text lang="ara">الكنائس الأرثوذكسية</text>
+            </name>
+        </item>
+        <item id="421910d8" nid="239" name="Паломнические места">
+            <groups>
+                <group nid="6">rostur_religions</group>
+            </groups>
+            <name>
+                <text lang="rus">Паломнические места</text>
+                <text lang="eng">Pilgrimage places</text>
+                <text lang="deu">Pilger-Ort</text>
+                <text lang="fra">Lieux de pèlerinage</text>
+                <text lang="spa">Peregrinajes zona</text>
+                <text lang="zho">朝圣的地方</text>
+                <text lang="jpn">巡礼の場所</text>
+                <text lang="ara">الحج الأماكن</text>
+            </name>
+        </item>
+        <item id="0e7c4574" nid="242" name="Заброшеные святыни">
+            <groups>
+                <group nid="6">rostur_religions</group>
+            </groups>
+            <name>
+                <text lang="rus">Заброшеные святыни</text>
+                <text lang="eng">Abandoned Shrine</text>
+                <text lang="deu">Заброшеные Schreine</text>
+                <text lang="fra">Заброшеные sanctuaires</text>
+                <text lang="spa">Заброшеные de santidad</text>
+                <text lang="zho">被遗弃的神龛</text>
+                <text lang="jpn">放棄された神社</text>
+                <text lang="ara">التخلي عن مزار</text>
+            </name>
+        </item>
+        <item id="31395db0" nid="245" name="Шаманизм">
+            <groups>
+                <group nid="6">rostur_religions</group>
+            </groups>
+            <name>
+                <text lang="rus">Шаманизм</text>
+                <text lang="eng">Shamanism</text>
+                <text lang="deu">Schamanismus</text>
+                <text lang="fra">Le chamanisme</text>
+                <text lang="spa">El chamanismo</text>
+                <text lang="zho">萨满教</text>
+                <text lang="jpn">シャーマニズム</text>
+                <text lang="ara">الشامانية</text>
+            </name>
+        </item>
+        <item id="0cadae1e" nid="246" name="Буддийские храмы">
+            <groups>
+                <group nid="6">rostur_religions</group>
+            </groups>
+            <name>
+                <text lang="rus">Буддийские храмы</text>
+                <text lang="eng">Buddhist temples</text>
+                <text lang="deu">Buddhistische Tempel</text>
+                <text lang="fra">Temples bouddhistes</text>
+                <text lang="spa">Templos budistas</text>
+                <text lang="zho">佛教的寺庙</text>
+                <text lang="jpn">仏教寺院</text>
+                <text lang="ara">المعابد البوذية</text>
+            </name>
+        </item>
+        <item id="b87a2074" nid="249" name="Кладбища и погосты">
+            <groups>
+                <group nid="6">rostur_religions</group>
+            </groups>
+            <name>
+                <text lang="rus">Кладбища и погосты</text>
+                <text lang="eng">Cemeteries and churchyards</text>
+                <text lang="deu">Friedhof und Friedhöfen</text>
+                <text lang="fra">Les cimetières et les cimetières</text>
+                <text lang="spa">Cementerio y погосты</text>
+                <text lang="zho">坟地和教堂墓地</text>
+                <text lang="jpn">墓地と墓地</text>
+                <text lang="ara">المقابر churchyards</text>
+            </name>
+        </item>
+        <item id="b310f741" nid="251" name="Национальные праздники">
+            <groups>
+                <group nid="4">rostur_traditions</group>
+            </groups>
+            <name>
+                <text lang="rus">Национальные праздники</text>
+                <text lang="eng">National holidays</text>
+                <text lang="deu">Feiertage</text>
+                <text lang="fra">Fêtes nationales</text>
+                <text lang="spa">Fiestas nacionales</text>
+                <text lang="zho">国家节假日</text>
+                <text lang="jpn">祝日</text>
+                <text lang="ara">الأعياد الوطنية</text>
+            </name>
+        </item>
+        <item id="27e83efb" nid="254" name="Народные промыслы">
+            <groups>
+                <group nid="4">rostur_traditions</group>
+            </groups>
+            <name>
+                <text lang="rus">Народные промыслы</text>
+                <text lang="eng">Crafts</text>
+                <text lang="deu">Handwerk</text>
+                <text lang="fra">Le secteur de l'artisanat</text>
+                <text lang="spa">Artesanías</text>
+                <text lang="zho">手工艺品</text>
+                <text lang="jpn">フォークアート</text>
+                <text lang="ara">الحرف</text>
+            </name>
+        </item>
+        <item id="8d72b98b" nid="256" name="Музыкальные инструменты">
+            <groups>
+                <group nid="4">rostur_traditions</group>
+            </groups>
+            <name>
+                <text lang="rus">Музыкальные инструменты</text>
+                <text lang="eng">Musical instruments</text>
+                <text lang="deu">Musikinstrumente</text>
+                <text lang="fra">Instruments de musique</text>
+                <text lang="spa">Instrumentos musicales</text>
+                <text lang="zho">乐器</text>
+                <text lang="jpn">楽器</text>
+                <text lang="ara">الآلات الموسيقية</text>
+            </name>
+        </item>
+        <item id="101284c7" nid="258" name="Традиционное зодчество">
+            <groups>
+                <group nid="4">rostur_traditions</group>
+            </groups>
+            <name>
+                <text lang="rus">Традиционное зодчество</text>
+                <text lang="eng">Traditional architecture</text>
+                <text lang="deu">Die traditionelle Architektur</text>
+                <text lang="fra">Architecture traditionnelle</text>
+                <text lang="spa">La tradicional arquitectura</text>
+                <text lang="zho">传统的结构</text>
+                <text lang="jpn">伝統建築</text>
+                <text lang="ara">العمارة التقليدية</text>
+            </name>
+        </item>
+        <item id="304b7596" nid="260" name="Региональные особенности">
+            <groups>
+                <group nid="4">rostur_traditions</group>
+            </groups>
+            <name>
+                <text lang="rus">Региональные особенности</text>
+                <text lang="eng">Regional features</text>
+                <text lang="deu">Regionale Besonderheiten</text>
+                <text lang="fra">Les caractéristiques régionales</text>
+                <text lang="spa">Características regionales</text>
+                <text lang="zho">区域特点</text>
+                <text lang="jpn">地域の特徴</text>
+                <text lang="ara">ملامح الإقليمية</text>
+            </name>
+        </item>
+        <item id="1e3e6f3b" nid="263" name="Дельтаплан">
+            <groups>
+                <group nid="5">rostur_active</group>
+            </groups>
+            <name>
+                <text lang="rus">Дельтаплан</text>
+                <text lang="eng">The glider</text>
+                <text lang="deu">Deltaplan</text>
+                <text lang="fra">Le deltaplane</text>
+                <text lang="spa">El ala delta</text>
+                <text lang="zho">滑翔机</text>
+                <text lang="jpn">ハンググライダー</text>
+                <text lang="ara">طائرة شراعية</text>
+            </name>
+        </item>
+        <item id="e8dd8b86" nid="265" name="Офф-роад">
+            <groups>
+                <group nid="5">rostur_active</group>
+            </groups>
+            <name>
+                <text lang="rus">Офф-роад</text>
+                <text lang="eng">Off-road</text>
+                <text lang="deu">Off-Road</text>
+                <text lang="fra">Off-road</text>
+                <text lang="spa">Off-road</text>
+                <text lang="zho">离开马路</text>
+                <text lang="jpn">未舗装道路</text>
+                <text lang="ara">Off-road</text>
+            </name>
+        </item>
+        <item id="d8d61938" nid="267" name="Байдарки и каноэ">
+            <groups>
+                <group nid="5">rostur_active</group>
+            </groups>
+            <name>
+                <text lang="rus">Байдарки и каноэ</text>
+                <text lang="eng">Kayaks and canoes</text>
+                <text lang="deu">Kajaks und Kanus</text>
+                <text lang="fra">Kayaks et canoës</text>
+                <text lang="spa">Kayaks y canoas</text>
+                <text lang="zho">橡皮船和独木舟</text>
+                <text lang="jpn">カヤックとカヌー</text>
+                <text lang="ara">الزوارق و الزوارق</text>
+            </name>
+        </item>
+        <item id="3348f14b" nid="269" name="Хайкинг">
+            <groups>
+                <group nid="5">rostur_active</group>
+            </groups>
+            <name>
+                <text lang="rus">Хайкинг</text>
+                <text lang="eng">Hiking</text>
+                <text lang="deu">Wandern</text>
+                <text lang="fra">Randonnées</text>
+                <text lang="spa">Хайкинг</text>
+                <text lang="zho">徒步旅行</text>
+                <text lang="jpn">ハイキング</text>
+                <text lang="ara">المشي لمسافات طويلة</text>
+            </name>
+        </item>
+        <item id="51e4f78e" nid="271" name="Веревочный городок">
+            <groups>
+                <group nid="5">rostur_active</group>
+            </groups>
+            <name>
+                <text lang="rus">Веревочный городок</text>
+                <text lang="eng">Rope town</text>
+                <text lang="deu">Hochseilgarten Stadt</text>
+                <text lang="fra">Accrobranche ville</text>
+                <text lang="spa">Circuito de cuerdas ciudad</text>
+                <text lang="zho">绳子镇的</text>
+                <text lang="jpn">ロープ町</text>
+                <text lang="ara">حبل المدينة</text>
+            </name>
+        </item>
+        <item id="a984ea91" nid="275" name="Снегоход">
+            <groups>
+                <group nid="5">rostur_active</group>
+            </groups>
+            <name>
+                <text lang="rus">Снегоход</text>
+                <text lang="eng">Snowmobile</text>
+                <text lang="deu">Motorschlitten</text>
+                <text lang="fra">Motoneige</text>
+                <text lang="spa">Una moto de nieve</text>
+                <text lang="zho">雪地车</text>
+                <text lang="jpn">スノーモービル</text>
+                <text lang="ara">الثلج</text>
+            </name>
+        </item>
+        <item id="2d6a4b79" nid="277" name="Собачьи упряжки">
+            <groups>
+                <group nid="5">rostur_active</group>
+            </groups>
+            <name>
+                <text lang="rus">Собачьи упряжки</text>
+                <text lang="eng">Dog sledding</text>
+                <text lang="deu">Hundeschlitten</text>
+                <text lang="fra">Chiens de traîneau</text>
+                <text lang="spa">Perro arneses</text>
+                <text lang="zho">狗雪橇</text>
+                <text lang="jpn">犬そり</text>
+                <text lang="ara">الكلب التزلج</text>
+            </name>
+        </item>
+        <item id="b5db65b9" nid="278" name="Наблюдение за животными">
+            <groups>
+                <group nid="5">rostur_active</group>
+            </groups>
+            <name>
+                <text lang="rus">Наблюдение за животными</text>
+                <text lang="eng">Animal watching</text>
+                <text lang="deu">Die Beobachtung der Tiere</text>
+                <text lang="fra">L'observation des animaux</text>
+                <text lang="spa">La observación de los animales</text>
+                <text lang="zho">动物看</text>
+                <text lang="jpn">アニマルウォッチング</text>
+                <text lang="ara">الحيوان مشاهدة</text>
+            </name>
+        </item>
+        <item id="1387bb02" nid="281" name="Рафтинг">
+            <groups>
+                <group nid="5">rostur_active</group>
+            </groups>
+            <name>
+                <text lang="rus">Рафтинг</text>
+                <text lang="eng">Rafting</text>
+                <text lang="deu">Rafting</text>
+                <text lang="fra">Rafting</text>
+                <text lang="spa">Rafting</text>
+                <text lang="zho">漂流</text>
+                <text lang="jpn">ラフティング</text>
+                <text lang="ara">تجمع</text>
+            </name>
+        </item>
+        <item id="1024133a" nid="284" name="Конные походы">
+            <groups>
+                <group nid="5">rostur_active</group>
+            </groups>
+            <name>
+                <text lang="rus">Конные походы</text>
+                <text lang="eng">Horse riding</text>
+                <text lang="deu">Ausritte</text>
+                <text lang="fra">Des randonnées à cheval</text>
+                <text lang="spa">Paseos a caballo</text>
+                <text lang="zho">骑马</text>
+                <text lang="jpn">乗馬</text>
+                <text lang="ara">ركوب الخيل</text>
+            </name>
+        </item>
+        <item id="f64f72c7" nid="285" name="Активный отдых">
+            <groups>
+                <group nid="5">rostur_active</group>
+            </groups>
+            <name>
+                <text lang="rus">Активный отдых</text>
+                <text lang="eng">Active rest</text>
+                <text lang="deu">Aktive Erholung</text>
+                <text lang="fra">Activités</text>
+                <text lang="spa">El descanso activo</text>
+                <text lang="zho">积极的休息</text>
+                <text lang="jpn">活動的な生活</text>
+                <text lang="ara">الراحة النشطة</text>
+            </name>
+        </item>
+    </items>
+    <responseCode>200</responseCode>
+    <responseMessage>Запрос успешен</responseMessage>
+</response>
