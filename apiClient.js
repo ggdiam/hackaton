@@ -34,14 +34,14 @@ const apiClient = {
     }),
 
     //Справочник районов географической привязки
-    getRegionGeo: (region, page) => new Promise((resolve, reject)=> {
-        getRequest(buildXmlRequest('get-library', 'addressRegion', `page="${page}" region="${region}"`)).then((data)=> {
-            resolve(createItemsWithFields(data, ['id','code','name']));
+    getArea: (region, page) => new Promise((resolve, reject)=> {
+        getRequest(buildXmlRequest('get-library', 'addressArea', `page="${page}" region="${region}"`)).then((data)=> {
+            resolve(createItemsWithFields(data, ['id','code','name','type','region']));
         }).catch(reject);
     }),
 
     //Справочник объектов регионов географической привязки (города, поселки и др.)
-    getRegionGeoLocal: (region, area, page) => new Promise((resolve, reject)=> {
+    getAddressLocality: (region, area, page) => new Promise((resolve, reject)=> {
         getRequest(buildXmlRequest('get-library', 'addressLocality', `page="${page}" region="${region}" area="${area}"`)).then((data)=> {
             resolve(createItemsWithFields(data, ['id','code','name','type','region','area']));
         }).catch(reject);
@@ -86,9 +86,7 @@ function getRequest(xml) {
             }
             else {
                 if (res && res.text) {
-                    fs.writeFile('getServices.xml', res.text, (err)=>{
-
-                    });
+                    //fs.writeFile('getAddressLocality_9972_278151_1.xml', res.text, (err)=>{});
 
                     let json = parser.toJson(res.text);
                     let data = JSON.parse(json);

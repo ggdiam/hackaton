@@ -8,16 +8,17 @@ import { createItemsWithFields, createItemWithPageInfo } from './apiObjectsFacto
 //let xml = fs.readFileSync('getGroupObjectTypes.xml', 'utf8');
 //let xml = fs.readFileSync('getObjectTypes.xml', 'utf8');
 //let xml = fs.readFileSync('getRegion.xml', 'utf8');
-//let xml = fs.readFileSync('getRegionGeo_9972_1.xml', 'utf8');
+let xml = fs.readFileSync('getArea_9972_1.xml', 'utf8');
 //let xml = fs.readFileSync('getRegionGeoLocal_9972_278151_1.xml', 'utf8');
-let xml = fs.readFileSync('getServices.xml', 'utf8');
+//let xml = fs.readFileSync('getServices.xml', 'utf8');
 
 let data = parser.toJson(xml);
 data = JSON.parse(data);
 
 var items = data.response.items.item;
 
-var res = createItemsWithFields(data, ['id','code','name']);
+//var res = createItemsWithFields(data, ['id','code','name']);
+var res = createItemsWithFields(data, ['id','code','name','type','region']);
 console.log(inspect(res, { colors: true, depth: Infinity }));
 console.log('res.items.length', res.items.length);
 
