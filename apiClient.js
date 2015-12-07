@@ -101,8 +101,9 @@ ${objectTypesString}
 </attributes>
 </request>`
         )).then((data)=> {
-            //resolve(data);
-            resolve(createItemsWithFields(data, ['id','name','types','image','photos','url']));
+            resolve(data);
+            //resolve(createItemsWithFields(data, ['id','name','types','image','photos','url']));
+            //resolve(createItemsWithFields(data, ['id','name','types','image','photos','url','addressCountry','addressRegion','streetAddress']));
             //resolve(createItemsWithFields(data, ['id','name','types','geo','image','telephone','addressCountry','addressRegion','streetAddress','photos','published']));
         }).catch(reject);
     })

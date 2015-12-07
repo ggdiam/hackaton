@@ -8,6 +8,48 @@ import apiClient from './apiClient';
 //deleteTagsWithoutInnaLocationsItems();
 //concatTypesWithLocations();
 //locationNames();
+//findDoubled();
+//createLocationsJSON();
+
+
+function createLocationsJSON() {
+    var data = JSON.parse(fs.readFileSync('1_search_result_wo_empty_items.json', 'utf8'));
+    console.log(data[0]);
+
+    data = data.map((item)=>{
+        return {
+            id: item.id,
+            name: item.name,
+            price: item.price,
+            items: item.items.map((i)=>i.id)
+        }
+    });
+
+    fs.writeFileSync('3_locations.json', JSON.stringify(data), 'utf8');
+}
+
+function findDoubled() {
+    var data = JSON.parse(fs.readFileSync('2_suggest_tags_plus_locations_no_doubles.json', 'utf8'));
+    data = data.filter((item)=>{
+        //console.log(item.label);
+
+        var double = data.filter((i)=>i.label == item.label);
+        if (double && double.length > 1) {
+            console.log('дубли', item.label);
+            double.forEach((d)=>{
+                console.log(JSON.stringify(d.value));
+            });
+            console.log('');
+            return false;
+        }
+        else {
+            return true;
+        }
+    });
+
+
+    fs.writeFileSync('2_suggest_tags_plus_locations_no_doubles.json', JSON.stringify(data), 'utf8');
+}
 
 function deleteInnaLocationsWithOutRosTurizmItems() {
     var innaLocations = JSON.parse(fs.readFileSync('1_search_result.json', 'utf8'));
