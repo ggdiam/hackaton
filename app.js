@@ -14,9 +14,9 @@ import fs from 'fs';
 //apiClient.getAddressLocality(10518, 277198, 1).then((data)=>{
 //apiClient.getServices().then((data)=>{
 //apiClient.findObjects(132123, [234234], [43.58682600000,39.72014300000]).then((data)=>{
-//apiClient.findObjects(null, null, [43.58682600000,39.72014300000]).then((data)=>{
+apiClient.findObjects(null, null, [43.58682600000,39.72014300000]).then((data)=>{
 //apiClient.findObjects([290276,289907]).then((data)=>{
-apiClient.findObjects([289907]).then((data)=>{
+//apiClient.findObjects([289907]).then((data)=>{
     console.log(inspect(data, { colors: true, depth: Infinity }));
     //fs.writeFileSync('3_regions.json', JSON.stringify(data.items), 'utf8');
 

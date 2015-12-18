@@ -1,2 +1,1155 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<response><items page="1" totalPages="1"><item id="290876" published="Y" date="11.11.2015 19:24:01" image="http://api.russia.travel/upload/iblock/a82/a825d31c2d6a737d9cfa2928a4d83f47.jpg" geo="45.038891,38.982392"><types><type><![CDATA[c7940300]]></type></types><name><text lang="rus"><![CDATA[Храм Георгия Победоносца в Краснодаре ]]></text></name><geo>45.038891,38.982392</geo><addressLocality>10025</addressLocality><addressRegion>9973</addressRegion><photos><photo order="0" id="57953" preview="Y"><file><![CDATA[http://api.russia.travel/upload/uf/923/923ffc08d74d1a6c2395f5e9ed1ce5f4.jpg]]></file></photo><photo order="1" id="57954"><file><![CDATA[http://api.russia.travel/upload/uf/44f/44f2ba51ad93ff138cf40bd7c60c9b68.jpg]]></file></photo></photos></item><item id="291541" published="Y" date="11.11.2015 19:24:00" image="http://api.russia.travel/upload/iblock/b6a/b6aea34d0bfea71a5ebc000b9bdb03fa.jpg" geo="45.030203,38.962857"><types><type><![CDATA[c7940300]]></type></types><name><text lang="rus"><![CDATA[Собор Троицы Живоначальной в Краснодаре (Святотроицкий собор)]]></text></name><geo>45.030203,38.962857</geo><addressLocality>10025</addressLocality><addressRegion>9973</addressRegion><photos><photo order="0" id="58547" preview="Y"><file name="Собор Троицы Живоначальной в Краснодаре (Святотроицкий собор)"><![CDATA[http://api.russia.travel/upload/uf/41a/41a98b16c0ef50a112cf95e8871072e7.jpg]]></file><text lang="rus"><![CDATA[Собор Троицы Живоначальной в Краснодаре (Святотроицкий собор)]]></text></photo></photos></item><item id="293868" published="Y" date="27.08.2015 12:00:19" image="http://api.russia.travel/upload/iblock/f4a/f4a640e3d399a2a07794ba6fda137464.jpg" geo="45.028306284654,38.9697525"><types><type><![CDATA[e5fbe058]]></type><type><![CDATA[museum_otrasclev]]></type></types><name><text lang="rus"><![CDATA[Музей почтовой связи на Кубани]]></text></name><geo>45.028306284654,38.9697525</geo><url>http://www.russianpost.ru/rp/company/ru/home/museum/fgup/kuban</url><addressLocality>10025</addressLocality><addressRegion>9973</addressRegion><streetAddress><text lang="rus"><![CDATA[ул. Карасунская, 68]]></text></streetAddress><photos><photo order="0" id="68025" preview="Y"><file><![CDATA[http://api.russia.travel/upload/uf/e0c/e0c9ada22dc1329ce6552d4ba2f53664.jpg]]></file></photo><photo order="1" id="68026"><file><![CDATA[http://api.russia.travel/upload/uf/752/752f5a4c38c5eb5e77656bb8dd90eae0.jpg]]></file></photo><photo order="2" id="68027"><file><![CDATA[http://api.russia.travel/upload/uf/0a8/0a8daffe932db1c3e7638916fc6158b7.jpg]]></file></photo><photo order="3" id="68028"><file><![CDATA[http://api.russia.travel/upload/uf/3ae/3aef5572a468016fbda6bcbd5dabcc69.jpg]]></file></photo><photo order="4" id="68029"><file><![CDATA[http://api.russia.travel/upload/uf/16b/16bd4b9fa2203fa9a14a67d13a008464.jpg]]></file></photo></photos></item><item id="288316" published="Y" date="17.06.2015 16:46:35" image="http://api.russia.travel/upload/iblock/b51/b51cb0fc6447c9ac5c313150aec3aca6.jpg" geo="44.466691743686,38.164310363121"><types><type><![CDATA[e5fbe058]]></type><type><![CDATA[museum_literaturnie]]></type><type><![CDATA[museum_personal_memorial]]></type></types><name><text lang="rus"><![CDATA[Дом-музей В.Г. Короленко]]></text></name><geo>44.466691743686,38.164310363121</geo><addressLocality>59057</addressLocality><addressRegion>9973</addressRegion><streetAddress><text lang="rus"><![CDATA[хут. Джанхот]]></text></streetAddress><photos><photo order="0" id="50908" preview="Y"><file><![CDATA[http://api.russia.travel/upload/uf/a1b/a1b9f688edd777470cb32c0b1d6eea8a.jpg]]></file></photo><photo order="1" id="50909"><file><![CDATA[http://api.russia.travel/upload/uf/c82/c82171b6dac011c7b51dc64513eb75b1.jpg]]></file></photo></photos></item><item id="288971" published="Y" date="17.06.2015 16:45:26" image="http://api.russia.travel/upload/iblock/aee/aeefb5994a637283635d304f22ed2572.jpg" geo="45.281663,37.365236"><types><type><![CDATA[e5fbe058]]></type><type><![CDATA[museum_history]]></type><type><![CDATA[museum_kraevedcheskie]]></type></types><name><text lang="rus"><![CDATA[Отдел истории казачества ст. Старотитаровской ]]></text></name><geo>45.281663,37.365236</geo><url>http://www.museum-felicina.ru</url><addressLocality>59058</addressLocality><addressRegion>9973</addressRegion><streetAddress><text lang="rus"><![CDATA[ул. Ленина, 201]]></text></streetAddress><photos><photo order="0" id="52217" preview="Y"><file><![CDATA[http://api.russia.travel/upload/uf/c76/c76cc57920fad2216a1eb868f3bcbe21.jpg]]></file></photo></photos></item><item id="288267" published="Y" date="17.06.2015 16:45:02" image="http://api.russia.travel/upload/iblock/4bf/4bf89cddb0c8df34f3faef579befcdf5.jpg" geo="45.260313,38.131858"><types><type><![CDATA[e5fbe058]]></type><type><![CDATA[museum_history]]></type><type><![CDATA[museum_kraevedcheskie]]></type></types><name><text lang="rus"><![CDATA[Славянский историко-краеведческий музей]]></text></name><geo>45.260313,38.131858</geo><addressLocality>59059</addressLocality><addressRegion>9973</addressRegion><streetAddress><text lang="rus"><![CDATA[ул. Дзержинского, 255]]></text></streetAddress><photos><photo order="0" id="50835" preview="Y"><file><![CDATA[http://api.russia.travel/upload/uf/2b5/2b5dd5872b77a4acb1454afc524ea5d2.jpg]]></file></photo><photo order="1" id="50836"><file><![CDATA[http://api.russia.travel/upload/uf/9d3/9d351b23c282253c3d47cbde5ab6d067.jpg]]></file></photo><photo order="2" id="50837"><file><![CDATA[http://api.russia.travel/upload/uf/c76/c76392f8275f0fbe2313c52d18f664f3.jpg]]></file></photo><photo order="3" id="50838"><file><![CDATA[http://api.russia.travel/upload/uf/bfc/bfcc60d44f39f8adccd4477dd4c50cee.jpg]]></file></photo><photo order="4" id="50839"><file><![CDATA[http://api.russia.travel/upload/uf/c9b/c9bcca84d2c0bd5537c53731b682d66a.jpg]]></file></photo><photo order="5" id="50840"><file><![CDATA[http://api.russia.travel/upload/uf/8a7/8a78ed4ed7d97d8ac14f646d96ae2354.jpg]]></file></photo><photo order="6" id="50841"><file><![CDATA[http://api.russia.travel/upload/uf/1a1/1a1d0d8d4b7186e5f92e165a499c79e7.jpg]]></file></photo><photo order="7" id="50842"><file><![CDATA[http://api.russia.travel/upload/uf/965/96533b4fa40216af1d61e76bfa7e53c3.jpg]]></file></photo><photo order="8" id="50843"><file><![CDATA[http://api.russia.travel/upload/uf/34e/34ea418da611070d8ab3f5b6950277d0.jpg]]></file></photo></photos></item><item id="289518" published="Y" date="17.06.2015 16:41:05" image="http://api.russia.travel/upload/iblock/648/648b2f0838c7cd26318eb9677de32d49.jpg" geo="45.021749,38.970399"><types><type><![CDATA[70b475c1]]></type><type><![CDATA[museum_musicalnie]]></type></types><name><text lang="rus"><![CDATA[Музыкальный театр Краснодарского муниципального театрально-концертного учреждения «Творческое объединение «Премьера»]]></text></name><geo>45.021749,38.970399</geo><url>http://www.to-premiera.com</url><addressLocality>10025</addressLocality><addressRegion>9973</addressRegion><streetAddress><text lang="rus"><![CDATA[350000 Краснодарский край, г. Краснодар, улица Красная, дом 44]]></text></streetAddress><photos><photo order="0" id="53994" preview="Y"><file><![CDATA[http://api.russia.travel/upload/uf/047/0474e190da7db13c66a2aa79ce5ead46.jpg]]></file></photo></photos></item><item id="288841" published="Y" date="17.06.2015 16:40:57" image="http://api.russia.travel/upload/iblock/bd8/bd8ec0665264b2856c0aee1980377eee.jpg" geo="45.36827,38.209059"><types><type><![CDATA[e5fbe058]]></type><type><![CDATA[museum_history]]></type><type><![CDATA[museum_kraevedcheskie]]></type></types><name><text lang="rus"><![CDATA[Музей истории станицы Полтавской]]></text></name><geo>45.36827,38.209059</geo><addressLocality>59059</addressLocality><addressRegion>9973</addressRegion><streetAddress><text lang="rus"><![CDATA[ул. Красная, 104]]></text></streetAddress><photos><photo order="0" id="51882" preview="Y"><file><![CDATA[http://api.russia.travel/upload/uf/947/94748f27fb21e25fe8d99697a7bec83b.jpg]]></file></photo><photo order="1" id="51883"><file><![CDATA[http://api.russia.travel/upload/uf/bcf/bcf44d0a6b4be57664564b5db5f11014.jpg]]></file></photo><photo order="2" id="51884"><file><![CDATA[http://api.russia.travel/upload/uf/512/512d12a5021910112c2984af9f475d79.jpg]]></file></photo></photos></item><item id="288150" published="Y" date="17.06.2015 16:40:34" geo="44.560614,38.080277"><types><type><![CDATA[e5fbe058]]></type><type><![CDATA[museum_hudozhestv]]></type></types><name><text lang="rus"><![CDATA[Центральный выставочный зал Геленджинского историко-краеведческого музея]]></text></name><geo>44.560614,38.080277</geo><url>http://maugvz.ru</url><addressLocality>59057</addressLocality><addressRegion>9973</addressRegion><streetAddress><text lang="rus"><![CDATA[ул. Островского, 16]]></text></streetAddress></item><item id="288783" published="Y" date="17.06.2015 16:39:24" image="http://api.russia.travel/upload/iblock/60d/60dd138eaeac0571b9a0c225ddcd7751.jpg" geo="45.25162,38.110999"><types><type><![CDATA[e5fbe058]]></type><type><![CDATA[museum_kraevedcheskie]]></type></types><name><text lang="rus"><![CDATA[Трудобеликовский историко-краеведческий музей]]></text></name><geo>45.25162,38.110999</geo><addressLocality>59059</addressLocality><addressRegion>9973</addressRegion><streetAddress><text lang="rus"><![CDATA[х. Трудобеликовский, ул. Ленина, 102]]></text></streetAddress></item><item id="289335" published="Y" date="17.06.2015 16:34:01" geo="44.627414262365,39.110104492729"><types><type><![CDATA[e5fbe058]]></type><type><![CDATA[museum_history]]></type><type><![CDATA[museum_kraevedcheskie]]></type></types><name><text lang="rus"><![CDATA[Городской исторический музей города Горячий Ключ]]></text></name><geo>44.627414262365,39.110104492729</geo><addressLocality>59041</addressLocality><addressRegion>9973</addressRegion><streetAddress><text lang="rus"><![CDATA[ул. Ленина, 34-а]]></text></streetAddress></item><item id="290878" published="Y" date="17.06.2015 16:33:03" image="http://api.russia.travel/upload/iblock/074/074f857a2d72aaa17c6dfef879fda5c2.jpg" geo="45.289426,39.26315"><types><type><![CDATA[c7940300]]></type></types><name><text lang="rus"><![CDATA[Храм Вознесения Господня в станице Пластуновской Краснодарского края (Вознесенский храм)]]></text></name><geo>45.289426,39.26315</geo><addressLocality>182165</addressLocality><addressRegion>9973</addressRegion><photos><photo order="0" id="57957" preview="Y"><file name="Храм Вознесения Господня в станице Пластуновской Краснодарского края (Вознесенский храм)"><![CDATA[http://api.russia.travel/upload/uf/605/605aaf3086c02f036c0461493d782ea4.jpg]]></file><text lang="rus"><![CDATA[Храм Вознесения Господня в станице Пластуновской Краснодарского края (Вознесенский храм)]]></text></photo><photo order="1" id="57958"><file><![CDATA[http://api.russia.travel/upload/uf/3bc/3bc9d5d2f500af94f79fd9280c9f05d9.jpg]]></file></photo><photo order="2" id="57959"><file><![CDATA[http://api.russia.travel/upload/uf/c4a/c4af2fe58b0848ce8a20471508cdc4b9.jpg]]></file></photo></photos></item><item id="290877" published="Y" date="17.06.2015 16:33:03" geo="44.895244,37.309506"><types><type><![CDATA[c7940300]]></type></types><name><text lang="rus"><![CDATA[Собор Онуфрия Великого в Анапе (Онуфриевский собор)]]></text></name><geo>44.895244,37.309506</geo><addressLocality>59044</addressLocality><addressRegion>9973</addressRegion><photos><photo order="0" id="57955" preview="Y"><file><![CDATA[http://api.russia.travel/upload/uf/ed7/ed763a76fb4fe75af31b4c689993a051.jpg]]></file></photo><photo order="1" id="57956"><file><![CDATA[http://api.russia.travel/upload/uf/2ed/2ed2fe4d41e425b02515c6d993589395.jpg]]></file></photo></photos></item><item id="290729" published="Y" date="17.06.2015 16:29:38" image="http://api.russia.travel/upload/iblock/dcc/dccb5f116f8b1ea6dfd7e473604cc9d1.jpg" geo="45.025227,38.971756"><types><type><![CDATA[e5fbe058]]></type><type><![CDATA[museum_history]]></type></types><name><text lang="rus"><![CDATA[Историко-археологический музей-заповедник им. Фелицына]]></text></name><geo>45.025227,38.971756</geo><url>http://museum-felicina.ru</url><addressLocality>10025</addressLocality><addressRegion>9973</addressRegion><streetAddress><text lang="rus"><![CDATA[ул. Гимназическая, 67]]></text></streetAddress><photos><photo order="0" id="57334" preview="Y"><file name="Краснодарский государственный историко-археологический музей-заповедник им. Фелицына (2)"><![CDATA[http://api.russia.travel/upload/uf/017/0178c4c8ce0427ad7391020f1cc2db5b.jpg]]></file><text lang="rus"><![CDATA[Краснодарский государственный историко-археологический музей-заповедник им. Фелицына (2)]]></text></photo><photo order="1" id="57335"><file name="Краснодарский государственный историко-археологический музей-заповедник им. Фелицына (3)"><![CDATA[http://api.russia.travel/upload/uf/184/18492f3bf9cec163602fa59bcafc66a1.jpg]]></file><text lang="rus"><![CDATA[Краснодарский государственный историко-археологический музей-заповедник им. Фелицына (3)]]></text></photo><photo order="2" id="57336"><file name="Краснодарский государственный историко-археологический музей-заповедник им. Фелицына (5)"><![CDATA[http://api.russia.travel/upload/uf/b37/b376b75829d768dbe694d3b18c209700.jpg]]></file><text lang="rus"><![CDATA[Краснодарский государственный историко-археологический музей-заповедник им. Фелицына (5)]]></text></photo><photo order="3" id="57337"><file><![CDATA[http://api.russia.travel/upload/uf/f26/f26dffc9e7fe58c4bdcb734a34435aab.jpg]]></file></photo></photos></item><item id="289124" published="Y" date="17.06.2015 16:28:55" image="http://api.russia.travel/upload/iblock/60b/60bbf6c18c09570ca2ef9cc1f888cb6c.jpg" geo="45.027075,38.971019"><types><type><![CDATA[museum_musicalnie]]></type><type><![CDATA[70b475c1]]></type></types><name><text lang="rus"><![CDATA[Молодой балет Кубани]]></text></name><geo>45.027075,38.971019</geo><addressLocality>10025</addressLocality><addressRegion>9973</addressRegion><streetAddress><text lang="rus"><![CDATA[улица Красная, дом 55]]></text></streetAddress><photos><photo order="0" id="52668" preview="Y"><file name="Молодой балет Кубани1.jpg"><![CDATA[http://api.russia.travel/upload/uf/826/8269fcbba01089168995de4c3c5cb8c4.jpg]]></file><text lang="rus"><![CDATA[Молодой балет Кубани1.jpg]]></text></photo></photos></item><item id="287749" published="Y" date="17.06.2015 16:28:18" image="http://api.russia.travel/upload/iblock/26e/26ee2a8c9096458a189cbd1f4f21a91d.jpg" geo="44.935828,37.983052"><types><type><![CDATA[e5fbe058]]></type><type><![CDATA[museum_kraevedcheskie]]></type></types><name><text lang="rus"><![CDATA[Крымский краеведческий музей]]></text></name><geo>44.935828,37.983052</geo><url> </url><addressLocality>59036</addressLocality><addressRegion>9973</addressRegion><streetAddress><text lang="rus"><![CDATA[ул. Пролетарская, 61]]></text></streetAddress><photos><photo order="0" id="50174" preview="Y"><file><![CDATA[http://api.russia.travel/upload/uf/1d0/1d0ff95a52e91c7142e37ae589247392.jpg]]></file></photo><photo order="1" id="50175"><file><![CDATA[http://api.russia.travel/upload/uf/50b/50bf8a69729aa4ac4bcee4d51398929a.jpg]]></file></photo><photo order="2" id="50176"><file><![CDATA[http://api.russia.travel/upload/uf/c3b/c3ba4f2c10a3c55e937ddc87795df74b.jpg]]></file></photo><photo order="3" id="50177"><file><![CDATA[http://api.russia.travel/upload/uf/891/8919efd974d9617cd098b4e21b027eb0.jpg]]></file></photo><photo order="4" id="50178"><file><![CDATA[http://api.russia.travel/upload/uf/4a1/4a14dea2e5b364288135534c3bf766d3.jpg]]></file></photo></photos></item><item id="288546" published="Y" date="17.06.2015 16:21:10" image="http://api.russia.travel/upload/iblock/a25/a25a96f243fe61a0e0e4dc03ae94b1e3.jpg" geo="44.564904,38.080016"><types><type><![CDATA[e5fbe058]]></type><type><![CDATA[museum_kraevedcheskie]]></type></types><name><text lang="rus"><![CDATA[Геленджикский историко-краеведческий музей]]></text></name><geo>44.564904,38.080016</geo><addressLocality>59057</addressLocality><addressRegion>9973</addressRegion><streetAddress><text lang="rus"><![CDATA[ул. Ленина, 23]]></text></streetAddress></item><item id="289029" published="Y" date="17.06.2015 16:21:05" image="http://api.russia.travel/upload/iblock/a67/a67a11d26eb4d9ee39b07c23df7fb838.jpg" geo="45.019666,39.002945"><types><type><![CDATA[theatre_kukol]]></type><type><![CDATA[70b475c1]]></type></types><name><text lang="rus"><![CDATA[Краснодарское творческое объединение «Премьера»: Новый театр кукол]]></text></name><geo>45.019666,39.002945</geo><url>http://www.to-premiera.com</url><addressLocality>10025</addressLocality><addressRegion>9973</addressRegion><streetAddress><text lang="rus"><![CDATA[улица Ставропольская, дом 130]]></text></streetAddress><photos><photo order="0" id="52385" preview="Y"><file name="Краснодарское творческое объединение Премьера Новый театр кукол1.jpg"><![CDATA[http://api.russia.travel/upload/uf/f10/f10c4fb58f103c0db8cd151a3db69fbb.jpg]]></file><text lang="rus"><![CDATA[Краснодарское творческое объединение Премьера Новый театр кукол1.jpg]]></text></photo></photos></item><item id="288274" published="Y" date="17.06.2015 16:20:34" image="http://api.russia.travel/upload/iblock/834/83491007d26bffad9042d65ab106e29e.jpg" geo="44.716623,37.77891"><types><type><![CDATA[e5fbe058]]></type><type><![CDATA[museum_history]]></type><type><![CDATA[museum_kraevedcheskie]]></type></types><name><text lang="rus"><![CDATA[Новороссийский исторический музей-заповедник]]></text></name><geo>44.716623,37.77891</geo><url>http://novomuseum.ru/</url><addressLocality>59038</addressLocality><addressRegion>9973</addressRegion><streetAddress><text lang="rus"><![CDATA[ул. Советов, 58]]></text></streetAddress><photos><photo order="0" id="50850" preview="Y"><file><![CDATA[http://api.russia.travel/upload/uf/b90/b90c27b76c864096b627d72d82cb497f.jpg]]></file></photo></photos></item><item id="290518" published="Y" date="17.06.2015 16:15:28" image="http://api.russia.travel/upload/iblock/6b8/6b8e3e976f077afa38b95a114c0d9d01.jpg" geo="45.282494,37.365513"><types><type><![CDATA[e5fbe058]]></type><type><![CDATA[museum_history]]></type></types><name><text lang="rus"><![CDATA[Темрюкский историко-археологический музей]]></text></name><geo>45.282494,37.365513</geo><url>http://www.museum-felicina.ru/</url><addressLocality>59058</addressLocality><addressRegion>9973</addressRegion><streetAddress><text lang="rus"><![CDATA[ул. Ленина, 28]]></text></streetAddress><photos><photo order="0" id="56375" preview="Y"><file name="Темрюкский историко-археологический музей3"><![CDATA[http://api.russia.travel/upload/uf/79e/79ee5ad07287e381d2934d4754134f4d.jpg]]></file><text lang="rus"><![CDATA[Темрюкский историко-археологический музей3]]></text></photo><photo order="1" id="56376"><file name="Темрюкский историко-археологический музей4"><![CDATA[http://api.russia.travel/upload/uf/a0a/a0a9ab5d51e1f6e834f6e1db722a0c85.jpg]]></file><text lang="rus"><![CDATA[Темрюкский историко-археологический музей4]]></text></photo></photos></item><item id="290114" published="Y" date="17.06.2015 16:13:14" image="http://api.russia.travel/upload/iblock/359/359f66adcce48786e63efef05dd2db65.jpg" geo="45.2037,39.228898"><types><type><![CDATA[e5fbe058]]></type><type><![CDATA[museum_kraevedcheskie]]></type></types><name><text lang="rus"><![CDATA[Динской районный историко-краеведческий музей]]></text></name><geo>45.2037,39.228898</geo><addressLocality>182164</addressLocality><addressRegion>9973</addressRegion><streetAddress><text lang="rus"><![CDATA[ул. Революционная, 105]]></text></streetAddress><photos><photo order="0" id="55853" preview="Y"><file name="Динской районный историко-краеведческий музей (1)"><![CDATA[http://api.russia.travel/upload/uf/308/308fb8d3a266627768775347b262b261.jpg]]></file><text lang="rus"><![CDATA[Динской районный историко-краеведческий музей (1)]]></text></photo><photo order="1" id="55854"><file name="Динской районный историко-краеведческий музей (10)"><![CDATA[http://api.russia.travel/upload/uf/a99/a99ea8dd3dd9d2aad7b4ce3a36e36cf4.jpg]]></file><text lang="rus"><![CDATA[Динской районный историко-краеведческий музей (10)]]></text></photo><photo order="2" id="55855"><file name="Динской районный историко-краеведческий музей (2)"><![CDATA[http://api.russia.travel/upload/uf/bbe/bbec78f0decc8b49f5c3d88c0b98678a.jpg]]></file><text lang="rus"><![CDATA[Динской районный историко-краеведческий музей (2)]]></text></photo><photo order="3" id="55856"><file name="Динской районный историко-краеведческий музей (3)"><![CDATA[http://api.russia.travel/upload/uf/6ac/6ac159800b3f1919e28122ba107c27b8.jpg]]></file><text lang="rus"><![CDATA[Динской районный историко-краеведческий музей (3)]]></text></photo><photo order="4" id="55857"><file name="Динской районный историко-краеведческий музей (4)"><![CDATA[http://api.russia.travel/upload/uf/ebe/ebed165313a661bae3f83a5407b39c0e.jpg]]></file><text lang="rus"><![CDATA[Динской районный историко-краеведческий музей (4)]]></text></photo><photo order="5" id="55858"><file name="Динской районный историко-краеведческий музей (7)"><![CDATA[http://api.russia.travel/upload/uf/fb3/fb3ec3824dc9df722cfccedcde9f491e.jpg]]></file><text lang="rus"><![CDATA[Динской районный историко-краеведческий музей (7)]]></text></photo><photo order="6" id="55859"><file name="Динской районный историко-краеведческий музей (9)"><![CDATA[http://api.russia.travel/upload/uf/b0b/b0bf94dc79f3dbc87c0d58b7fe757ec5.jpg]]></file><text lang="rus"><![CDATA[Динской районный историко-краеведческий музей (9)]]></text></photo></photos></item><item id="289514" published="Y" date="17.06.2015 16:12:37" image="http://api.russia.travel/upload/iblock/809/8099515dcc0657244181a678e8c2d522.jpg" geo="45.021749,38.970399"><types><type><![CDATA[theatre_musical]]></type><type><![CDATA[museum_musicalnie]]></type><type><![CDATA[70b475c1]]></type></types><name><text lang="rus"><![CDATA[Краснодарский театр балета]]></text></name><geo>45.021749,38.970399</geo><url>http://www.to-premiera.com/collectiv/grigorovich</url><addressLocality>10025</addressLocality><addressRegion>9973</addressRegion><streetAddress><text lang="rus"><![CDATA[улица Красная, дом 44]]></text></streetAddress><photos><photo order="0" id="53988" preview="Y"><file><![CDATA[http://api.russia.travel/upload/uf/98a/98a83814f468ddb8c583eea4e5323c65.jpg]]></file></photo><photo order="1" id="53989"><file><![CDATA[http://api.russia.travel/upload/uf/2d3/2d3c868c31c5a822ebfe451c39f0fe8c.jpg]]></file></photo><photo order="2" id="53990"><file><![CDATA[http://api.russia.travel/upload/uf/094/0941a4d43f7ba174d2b6de34940e7222.jpg]]></file></photo></photos></item><item id="289984" published="Y" date="17.06.2015 16:11:14" image="http://api.russia.travel/upload/iblock/44d/44dd5c2f74da23832ed2407550be6e7d.jpg" geo="44.467513818748,38.165452984161"><types><type><![CDATA[e5fbe058]]></type></types><name><text lang="rus"><![CDATA[Дом-музей В.Г. Короленко под Геленджиком]]></text></name><geo>44.467513818748,38.165452984161</geo><addressLocality>59057</addressLocality><addressRegion>9973</addressRegion><streetAddress><text lang="rus"><![CDATA[ул. Короленко. Часы работы: с мая - по сентябрь, с 10.00 до 18.00, выходной день - понедельник. ]]></text></streetAddress><photos><photo order="0" id="55523" preview="Y"><file><![CDATA[http://api.russia.travel/upload/uf/65d/65d9b95adc01e38c85a66ff94c607c84.jpg]]></file></photo><photo order="1" id="55524"><file><![CDATA[http://api.russia.travel/upload/uf/28c/28cbe1d9c72c5945f4711bfef29b7933.jpg]]></file></photo><photo order="2" id="55525"><file><![CDATA[http://api.russia.travel/upload/uf/334/33485762428488532211e5f687bd7669.jpg]]></file></photo></photos></item><item id="289373" published="Y" date="17.06.2015 16:10:55" image="http://api.russia.travel/upload/iblock/117/117b9dc1846726dab1b4a5cd23b8df6e.jpg" geo="45.017722,38.967875"><types><type><![CDATA[museum_hudozhestv]]></type><type><![CDATA[e5fbe058]]></type></types><name><text lang="rus"><![CDATA[Краснодарский краевой художественный музей им. Ф.А. Коваленко]]></text></name><geo>45.017722,38.967875</geo><url>http://kovalenkomuseum.ru</url><addressLocality>10025</addressLocality><addressRegion>9973</addressRegion><streetAddress><text lang="rus"><![CDATA[ул. Красная, 13]]></text></streetAddress><photos><photo order="0" id="53456" preview="Y"><file name="Краснодарский краевой художественный музей им. Ф.А. Коваленко (4)"><![CDATA[http://api.russia.travel/upload/uf/e3c/e3cfbfd5d24f0bdc3c2ee4f611cc0ffd.jpg]]></file><text lang="rus"><![CDATA[Краснодарский краевой художественный музей им. Ф.А. Коваленко (4)]]></text></photo><photo order="1" id="53457"><file name="Краснодарский краевой художественный музей им. Ф.А. Коваленко (5)"><![CDATA[http://api.russia.travel/upload/uf/59c/59c18d0ad05b0bd1d163a8374e63e4dc.jpg]]></file><text lang="rus"><![CDATA[Краснодарский краевой художественный музей им. Ф.А. Коваленко (5)]]></text></photo></photos></item><item id="289778" published="Y" date="17.06.2015 16:10:10" image="http://api.russia.travel/upload/iblock/a2e/a2e7da00aec0e3c499dc6f5fd3571d82.jpg" geo="45.067124,38.929831"><types><type><![CDATA[e5fbe058]]></type><type><![CDATA[museum_history]]></type></types><name><text lang="rus"><![CDATA[Музей казачества хуторского казачьего общества «Северо-западный курень» ]]></text></name><geo>45.067124,38.929831</geo><url>http://cossacksmuseum.org/</url><addressLocality>10025</addressLocality><addressRegion>9973</addressRegion><streetAddress><text lang="rus"><![CDATA[ул. Виноградная, 58]]></text></streetAddress><photos><photo order="0" id="54809" preview="Y"><file name="Музей казачества хуторского казачьего общества Северо-запад"><![CDATA[http://api.russia.travel/upload/uf/a2d/a2dc3e6cc5cc5933dce385dcf934035e.jpg]]></file><text lang="rus"><![CDATA[Музей казачества хуторского казачьего общества Северо-запад]]></text></photo></photos></item><item id="289288" published="Y" date="17.06.2015 16:09:28" image="http://api.russia.travel/upload/iblock/74c/74cc74d0a1ae8ac52f86b88e50072008.jpg" geo="44.89621,37.310609"><types><type><![CDATA[e5fbe058]]></type><type><![CDATA[museum_history]]></type><type><![CDATA[museum_zapovendniki]]></type></types><name><text lang="rus"><![CDATA[Анапский археологический музей-заповедник «Античный город Горгиппия»]]></text></name><geo>44.89621,37.310609</geo><url>http://gorgippia.info </url><addressLocality>59044</addressLocality><addressRegion>9973</addressRegion><streetAddress><text lang="rus"><![CDATA[ул.Набережная, 4]]></text></streetAddress><photos><photo order="0" id="53211" preview="Y"><file name="Анапский археологический музей-заповедник «Античный город Горгиппия»-1"><![CDATA[http://api.russia.travel/upload/uf/a00/a00a1eeb17758bbf25c65ade36a79017.jpg]]></file><text lang="rus"><![CDATA[Анапский археологический музей-заповедник «Античный город Горгиппия»-1]]></text></photo><photo order="1" id="53212"><file name="Анапский археологический музей-заповедник «Античный город Горгиппия»-10"><![CDATA[http://api.russia.travel/upload/uf/704/704112d0ab456ca8b6b960541687aa08.jpg]]></file><text lang="rus"><![CDATA[Анапский археологический музей-заповедник «Античный город Горгиппия»-10]]></text></photo><photo order="2" id="53213"><file name="Анапский археологический музей-заповедник «Античный город Горгиппия»-11"><![CDATA[http://api.russia.travel/upload/uf/d09/d0963f6f17bf49c9200fc7ccf9d3ad31.jpg]]></file><text lang="rus"><![CDATA[Анапский археологический музей-заповедник «Античный город Горгиппия»-11]]></text></photo><photo order="3" id="53214"><file name="Анапский археологический музей-заповедник «Античный город Горгиппия»-2"><![CDATA[http://api.russia.travel/upload/uf/ee3/ee32c2d1122961da97e1768c2ac0e7c2.jpg]]></file><text lang="rus"><![CDATA[Анапский археологический музей-заповедник «Античный город Горгиппия»-2]]></text></photo><photo order="4" id="53215"><file name="Анапский археологический музей-заповедник «Античный город Горгиппия»-4"><![CDATA[http://api.russia.travel/upload/uf/ea9/ea9813d231f39c18db020c6b5070042e.jpg]]></file><text lang="rus"><![CDATA[Анапский археологический музей-заповедник «Античный город Горгиппия»-4]]></text></photo><photo order="5" id="53216"><file name="Анапский археологический музей-заповедник «Античный город Горгиппия»-9"><![CDATA[http://api.russia.travel/upload/uf/fb6/fb6e7698a1ef0b70711e1ab9a4751666.jpg]]></file><text lang="rus"><![CDATA[Анапский археологический музей-заповедник «Античный город Горгиппия»-9]]></text></photo></photos></item><item id="291542" published="Y" date="17.06.2015 16:08:57" image="http://api.russia.travel/upload/iblock/9ac/9ac622a07e6c2af5adb35a022036301a.jpg" geo="44.559777,38.078525"><types><type><![CDATA[c7940300]]></type></types><name><text lang="rus"><![CDATA[Храм Вознесения Господня в Геленджике (Вознесенский храм)]]></text></name><geo>44.559777,38.078525</geo><addressLocality>59057</addressLocality><addressRegion>9973</addressRegion><photos><photo order="0" id="58548" preview="Y"><file name="Храм Вознесения Господня в Геленджике"><![CDATA[http://api.russia.travel/upload/uf/55b/55b7abaf3d5addc874e652b39f1fdf56.jpg]]></file><text lang="rus"><![CDATA[Храм Вознесения Господня в Геленджике]]></text></photo></photos></item><item id="279396" published="Y" date="04.06.2015 18:40:07" geo="45.098739844412,38.841296872987"><types><type><![CDATA[3d02fa45]]></type></types><name><text lang="rus"><![CDATA[Южный федеральный округ]]></text></name><geo>45.098739844412,38.841296872987</geo><addressCountry>255003</addressCountry><streetAddress/></item></items><responseCode>200</responseCode><responseMessage>Запрос успешен</responseMessage></response>
+<response>
+    <items page="1" totalPages="1">
+        <item id="295812" published="Y" date="08.12.2015 14:38:33"
+              image="http://api.russia.travel/upload/iblock/831/8314765bb237d141034dec1bb2c34dd1.jpg"
+              geo="53.89698,92.682137">
+            <types>
+                <type><![CDATA[7897e6a3]]></type>
+            </types>
+            <name>
+                <text lang="rus"><![CDATA[Сибирский трофи-рейд «Грязные игры»]]></text>
+            </name>
+            <geo>53.89698,92.682137</geo>
+            <url>http://sosedovevent.ru/sibtrophy/</url>
+            <addressCountry>255003</addressCountry>
+            <addressRegion>9974</addressRegion>
+            <streetAddress>
+                <text lang="rus"><![CDATA[поселок Курагино]]></text>
+            </streetAddress>
+            <photos>
+                <photo order="0" id="78496" preview="Y">
+                    <file name="Красноярский край. Курагино. &quot;Грязные игры&quot;"
+                          authorCopyright="Александр Куприянов">
+                        <![CDATA[http://api.russia.travel/upload/uf/534/534fd5251755a4d90b0404cc058500a2.jpg]]></file>
+                </photo>
+                <photo order="1" id="78498">
+                    <file name="Красноярский край. Курагино. &quot;Грязные игры&quot;"
+                          authorCopyright="Александр Куприянов">
+                        <![CDATA[http://api.russia.travel/upload/uf/096/096d3d4f354c38315daeae05e22c136c.jpg]]></file>
+                </photo>
+                <photo order="2" id="78497">
+                    <file name="Красноярский край. Курагино. &quot;Грязные игры&quot;"
+                          authorCopyright="Александр Куприянов">
+                        <![CDATA[http://api.russia.travel/upload/uf/07a/07a5299a77cf06ef0a34bacf62ee5db7.jpg]]></file>
+                </photo>
+            </photos>
+        </item>
+        <item id="297626" published="Y" date="08.12.2015 14:36:49"
+              image="http://api.russia.travel/upload/iblock/faf/fafa9a8e6daabc6cd08a385c1aecdb40.jpg"
+              geo="53.709896,91.688305">
+            <types>
+                <type><![CDATA[museum_and_etc]]></type>
+            </types>
+            <name>
+                <text lang="rus"><![CDATA[Минусинский краеведческий Музей им. Н. М. Мартьянова]]></text>
+            </name>
+            <geo>53.709896,91.688305</geo>
+            <url>http://xn----8sbahmlpvellw0ag7lzb.xn--p1ai/</url>
+            <addressCountry>255003</addressCountry>
+            <addressLocality>59130</addressLocality>
+            <addressRegion>9974</addressRegion>
+            <streetAddress>
+                <text lang="rus"><![CDATA[ул.Мартьянова 6]]></text>
+            </streetAddress>
+            <photos>
+                <photo order="0" id="78288" preview="Y">
+                    <file name="Красноярский край. Минусинск. Минусинский краеведческий Музей им. Н.М. Мартьянова"
+                          authorCopyright="Ирина Якунина">
+                        <![CDATA[http://api.russia.travel/upload/uf/dc5/dc517800d0eaf35dde88d4b9cc9178c4.jpg]]></file>
+                </photo>
+                <photo order="1" id="78286">
+                    <file name="Красноярский край. Минусинск. Минусинский краеведческий Музей им. Н.М. Мартьянова"
+                          authorCopyright="Ирина Якунина">
+                        <![CDATA[http://api.russia.travel/upload/uf/7e1/7e111e7347a21a71cf2808b921a8f96f.jpg]]></file>
+                </photo>
+                <photo order="2" id="78287">
+                    <file name="Красноярский край. Минусинск. Минусинский краеведческий Музей им. Н.М. Мартьянова"
+                          authorCopyright="Ирина Якунина">
+                        <![CDATA[http://api.russia.travel/upload/uf/b4c/b4c8372786dddf66ac32a2b5ad09458c.jpg]]></file>
+                </photo>
+            </photos>
+        </item>
+        <item id="295817" published="Y" date="08.12.2015 14:36:12"
+              image="http://api.russia.travel/upload/iblock/c2c/c2c4b85046a6dd1f3befadcfcd306a60.jpg"
+              geo="53.337299,91.936408">
+            <types>
+                <type><![CDATA[095dd086]]></type>
+            </types>
+            <name>
+                <text lang="rus"><![CDATA[Международный фестиваль этнической музыки и ремесел «Мир Сибири»]]></text>
+            </name>
+            <geo>53.337299,91.936408</geo>
+            <url>www.festmir.ru</url>
+            <addressCountry>255003</addressCountry>
+            <addressRegion>9974</addressRegion>
+            <streetAddress>
+                <text lang="rus"><![CDATA[Красноярский край, п. Шушенское]]></text>
+            </streetAddress>
+            <photos>
+                <photo order="0" id="75012" preview="Y">
+                    <file name="Красноярский край. Международный фестиваль этнической музыки и ремесел «Мир Сибири»">
+                        <![CDATA[http://api.russia.travel/upload/uf/f1b/f1b857517ca8ac7bdebd1b0bace36976.jpg]]></file>
+                </photo>
+                <photo order="1" id="75011">
+                    <file name="Красноярский край. Международный фестиваль этнической музыки и ремесел «Мир Сибири»">
+                        <![CDATA[http://api.russia.travel/upload/uf/52f/52f9b3d3eb876da3006d1b7bba9ebb43.jpg]]></file>
+                </photo>
+            </photos>
+        </item>
+        <item id="295824" published="Y" date="08.12.2015 14:36:07"
+              image="http://api.russia.travel/upload/iblock/6bc/6bca4c1a85800391b53e1fa3533d7453.jpg"
+              geo="53.710882,91.68777">
+            <types>
+                <type><![CDATA[095dd086]]></type>
+            </types>
+            <name>
+                <text lang="rus"><![CDATA[Всероссийский фестиваль народной культуры «Сибирская Масленица»]]></text>
+            </name>
+            <geo>53.710882,91.68777</geo>
+            <url>www.suhobuzimo.ru</url>
+            <addressCountry>255003</addressCountry>
+            <addressRegion>9974</addressRegion>
+            <streetAddress>
+                <text lang="rus"><![CDATA[Красноярский край, Сухобузимский район, с. Сухобузимское]]></text>
+            </streetAddress>
+            <photos>
+                <photo order="0" id="75034" preview="Y">
+                    <file name="Красноярский край. Всероссийский фестиваль народной культуры «Сибирская Масленица»">
+                        <![CDATA[http://api.russia.travel/upload/uf/f10/f10b52673793a2ab3493f250a8c4b089.jpg]]></file>
+                </photo>
+                <photo order="1" id="75033">
+                    <file name="Красноярский край. Всероссийский фестиваль народной культуры «Сибирская Масленица»">
+                        <![CDATA[http://api.russia.travel/upload/uf/d1b/d1ba11ed9676b247fcd2a77f4bd10be1.jpg]]></file>
+                </photo>
+                <photo order="2" id="75031">
+                    <file name="Красноярский край. Всероссийский фестиваль народной культуры «Сибирская Масленица»">
+                        <![CDATA[http://api.russia.travel/upload/uf/761/761044e4163bebe4e47f29198409faa6.jpg]]></file>
+                </photo>
+                <photo order="3" id="75032">
+                    <file name="Красноярский край. Всероссийский фестиваль народной культуры «Сибирская Масленица»">
+                        <![CDATA[http://api.russia.travel/upload/uf/cfa/cfa57045596587b9e4d220fbf8ac758d.jpg]]></file>
+                </photo>
+            </photos>
+        </item>
+        <item id="297609" published="Y" date="08.12.2015 14:18:21"
+              image="http://api.russia.travel/upload/iblock/f95/f95020b12acf836b3295919737e52a4f.JPG"
+              geo="53.709896,91.688305">
+            <types>
+                <type><![CDATA[a6e9d0bb]]></type>
+            </types>
+            <name>
+                <text lang="rus"><![CDATA[Государственная универсальная научная библиотека]]></text>
+            </name>
+            <geo>53.709896,91.688305</geo>
+            <url>www.kraslib.ru</url>
+            <addressCountry>255003</addressCountry>
+            <addressRegion>9974</addressRegion>
+            <streetAddress>
+                <text lang="rus"><![CDATA[Карла Маркса 114]]></text>
+            </streetAddress>
+            <photos>
+                <photo order="0" id="78301" preview="Y">
+                    <file name="Красноярский край. Красноярск. Государственная универсальная научная библиотека"
+                          authorCopyright="Семенова Дарья">
+                        <![CDATA[http://api.russia.travel/upload/uf/849/84955cb3e4f54995885c2feaef38560d.JPG]]></file>
+                </photo>
+                <photo order="1" id="78302">
+                    <file name="Красноярский край. Красноярск. Государственная универсальная научная библиотека"
+                          authorCopyright="Семенова Дарья">
+                        <![CDATA[http://api.russia.travel/upload/uf/2d8/2d8b416d61cb760818939b39c5ddd872.JPG]]></file>
+                </photo>
+            </photos>
+        </item>
+        <item id="295744" published="Y" date="08.12.2015 14:14:08"
+              image="http://api.russia.travel/upload/iblock/49b/49b4b93f338a0661e28cfa44bf6fd909.jpg"
+              geo="53.326846,91.930203">
+            <types>
+                <type><![CDATA[museum_zapovendniki]]></type>
+            </types>
+            <name>
+                <text lang="rus"><![CDATA[Историко-этнографический музей-заповедник «Шушенское»]]></text>
+            </name>
+            <geo>53.326846,91.930203</geo>
+            <url>www.shush.ru</url>
+            <addressCountry>255003</addressCountry>
+            <addressLocality>209930</addressLocality>
+            <addressArea>278345</addressArea>
+            <addressRegion>9974</addressRegion>
+            <streetAddress>
+                <text lang="rus"><![CDATA[ул. Новая №1]]></text>
+            </streetAddress>
+            <photos>
+                <photo order="0" id="73484" preview="Y">
+                    <file name="Красноярский край. п.Шушенское. Историко-этнографический музей-заповедник «Шушенское»"
+                          authorCopyright="Виталий Иванов">
+                        <![CDATA[http://api.russia.travel/upload/uf/516/5164e8ea67e876501dc5f81f7366006f.jpg]]></file>
+                </photo>
+            </photos>
+        </item>
+        <item id="295724" published="Y" date="08.12.2015 14:13:06"
+              image="http://api.russia.travel/upload/iblock/281/281ec4d2e8637ace88a33a3e3b3efde4.jpg"
+              geo="52.825697,91.37063">
+            <types>
+                <type><![CDATA[d965e6c1]]></type>
+            </types>
+            <name>
+                <text lang="rus"><![CDATA[Саяно-Шушенский биосферный заповедник]]></text>
+            </name>
+            <geo>52.825697,91.37063</geo>
+            <url>www.sayanzapoved.ru</url>
+            <addressCountry>255003</addressCountry>
+            <addressLocality>209930</addressLocality>
+            <addressArea>278345</addressArea>
+            <addressRegion>9974</addressRegion>
+            <streetAddress>
+                <text lang="rus"><![CDATA[Красноярский край, п. Шушенское, ул. Заповедная, 7]]></text>
+            </streetAddress>
+            <photos>
+                <photo order="0" id="73480" preview="Y">
+                    <file name="Красноярский край. Шушенское. Саяно-Шушенский биосферный заповедник"
+                          authorCopyright="Александр Куприянов">
+                        <![CDATA[http://api.russia.travel/upload/uf/bd5/bd54294d9cc983e7ec5e12be7fb2c546.jpg]]></file>
+                </photo>
+            </photos>
+        </item>
+        <item id="262340" published="Y" date="03.11.2015 11:44:57"
+              image="http://api.russia.travel/upload/iblock/239/23933482cac85435a2ee9dbe98c38732.jpg"
+              geo="53.7166667,91.45">
+            <types>
+                <type><![CDATA[c7940300]]></type>
+            </types>
+            <name>
+                <text lang=""><![CDATA[Собор Николая Чудотворца в городе Абакане]]></text>
+            </name>
+            <geo>53.7166667,91.45</geo>
+            <addressCountry>255003</addressCountry>
+            <addressLocality>10005</addressLocality>
+            <addressRegion>9997</addressRegion>
+            <streetAddress>
+                <text lang=""><![CDATA[г. Абакан, ул. Мостовая, дом 9]]></text>
+            </streetAddress>
+            <photos>
+                <photo order="0" id="17846" preview="Y">
+                    <file name="Собор Николая Чудотворца в городе Абакане">
+                        <![CDATA[http://api.russia.travel/upload/uf/c06/c0607125faa258f20af83226b4835ab4.jpg]]></file>
+                    <text lang="rus"><![CDATA[Собор Николая Чудотворца в городе Абакане]]></text>
+                </photo>
+                <photo order="1" id="17847">
+                    <file name="Собор Николая Чудотворца в городе Абакане">
+                        <![CDATA[http://api.russia.travel/upload/uf/b02/b02b71dd8e09895cfeff1322371d2176.jpg]]></file>
+                    <text lang="rus"><![CDATA[Собор Николая Чудотворца в городе Абакане]]></text>
+                </photo>
+                <photo order="2" id="17848">
+                    <file name="Собор Николая Чудотворца в городе Абакане">
+                        <![CDATA[http://api.russia.travel/upload/uf/2a1/2a1ba0984219f7ce80d337dad10bd5ab.jpg]]></file>
+                    <text lang="rus"><![CDATA[Собор Николая Чудотворца в городе Абакане]]></text>
+                </photo>
+                <photo order="3" id="17849">
+                    <file name="Собор Николая Чудотворца в городе Абакане">
+                        <![CDATA[http://api.russia.travel/upload/uf/7fa/7fa267bc9393a41a2e88e36dcbe445d8.jpg]]></file>
+                    <text lang="rus"><![CDATA[Собор Николая Чудотворца в городе Абакане]]></text>
+                </photo>
+            </photos>
+        </item>
+        <item id="280082" published="Y" date="20.10.2015 07:18:32" geo="53.129262,90.538384">
+            <types>
+                <type><![CDATA[e5fbe058]]></type>
+            </types>
+            <name>
+                <text lang="rus"><![CDATA[Аскизский районный краеведческий музей им. Н.Ф. Катанова]]></text>
+            </name>
+            <geo>53.129262,90.538384</geo>
+            <addressCountry>255003</addressCountry>
+            <addressArea>276558</addressArea>
+            <addressRegion>9997</addressRegion>
+            <streetAddress>
+                <text lang="rus">
+                    <![CDATA[Россия, Республика Хакасия, Аскизский район, с. Аскиз, ул. Советская, д. 19]]></text>
+            </streetAddress>
+            <photos>
+                <photo order="0" id="71868">
+                    <file name="Республика Хакасия. Аскизский районный краеведческий музей им. Н.Ф. Катанова">
+                        <![CDATA[http://api.russia.travel/upload/uf/30c/30c01ac3534a2c506330b43728c849e1.JPG]]></file>
+                </photo>
+            </photos>
+        </item>
+        <item id="294532" published="Y" date="20.10.2015 07:17:28"
+              image="http://api.russia.travel/upload/iblock/0c8/0c8057383cf46e531c78ac531e0e02cd.jpg"
+              geo="53.751336,91.400248">
+            <types>
+                <type><![CDATA[ae617c8d]]></type>
+            </types>
+            <name>
+                <text lang="rus"><![CDATA[Международный аэропорт Абакан]]></text>
+            </name>
+            <geo>53.751336,91.400248</geo>
+            <addressCountry>255003</addressCountry>
+            <addressLocality>10005</addressLocality>
+            <addressRegion>9997</addressRegion>
+            <streetAddress/>
+            <photos>
+                <photo order="0" id="70626" preview="Y">
+                    <file name="Республика Хакасия. Абакан. Международный аэропорт">
+                        <![CDATA[http://api.russia.travel/upload/uf/5d3/5d3d046be624de5ef3dd43039740463b.jpg]]></file>
+                </photo>
+                <photo order="1" id="70609">
+                    <file name="Республика Хакасия. Абакан. Международный аэропорт">
+                        <![CDATA[http://api.russia.travel/upload/uf/674/674d18b95063934d7036cf4862cf76c0.jpg]]></file>
+                </photo>
+            </photos>
+        </item>
+        <item id="261789" published="Y" date="16.10.2015 15:29:52"
+              image="http://api.russia.travel/upload/iblock/e88/e883a4e336590a712b0bd125da289f95.jpg"
+              geo="53.7166667,91.45">
+            <types>
+                <type><![CDATA[2082e45a]]></type>
+            </types>
+            <name>
+                <text lang=""><![CDATA[Железнодорожный вокзал города Абакана]]></text>
+            </name>
+            <geo>53.7166667,91.45</geo>
+            <addressCountry>255003</addressCountry>
+            <addressRegion>9997</addressRegion>
+            <streetAddress/>
+            <photos>
+                <photo order="0" id="18955" preview="Y">
+                    <file name="Республика Хакасия. Железнодорожный вокзал города Абакана">
+                        <![CDATA[http://api.russia.travel/upload/uf/a33/a332aed4c0922c4ebd94cd49d5696f8a.jpg]]></file>
+                    <text lang="rus"><![CDATA[Железнодорожный вокзал города Абакана]]></text>
+                </photo>
+            </photos>
+        </item>
+        <item id="270624" published="Y" date="16.10.2015 15:29:19"
+              image="http://api.russia.travel/upload/iblock/959/9592a9cb604d518ab345204d98ad7201.jpg"
+              geo="53.7166667,91.45">
+            <types>
+                <type><![CDATA[70b475c1]]></type>
+            </types>
+            <name>
+                <text lang=""><![CDATA[Хакасский национальный театр кукол «Сказка»]]></text>
+            </name>
+            <geo>53.7166667,91.45</geo>
+            <addressCountry>255003</addressCountry>
+            <addressRegion>9997</addressRegion>
+            <streetAddress>
+                <text lang=""><![CDATA[г. Абакан ул. К. Маркса 5]]></text>
+            </streetAddress>
+            <photos>
+                <photo order="0" id="8759" preview="Y">
+                    <file name="Хакасский национальный театр кукол «Сказка»">
+                        <![CDATA[http://api.russia.travel/upload/uf/794/794ba5e3e9e6edfbbba50870531d5e7a.jpg]]></file>
+                    <text lang="rus"><![CDATA[Хакасский национальный театр кукол «Сказка»]]></text>
+                </photo>
+                <photo order="1" id="8760">
+                    <file name="Хакасский национальный театр кукол «Сказка»">
+                        <![CDATA[http://api.russia.travel/upload/uf/d77/d770f93dd82360015b1780f4d04dd332.jpg]]></file>
+                    <text lang="rus"><![CDATA[Хакасский национальный театр кукол «Сказка»]]></text>
+                </photo>
+                <photo order="2" id="8761">
+                    <file name="Хакасский национальный театр кукол «Сказка»">
+                        <![CDATA[http://api.russia.travel/upload/uf/ea1/ea1f6a773b26374539153166b182a992.jpg]]></file>
+                    <text lang="rus"><![CDATA[Хакасский национальный театр кукол «Сказка»]]></text>
+                </photo>
+                <photo order="3" id="8762">
+                    <file name="Хакасский национальный театр кукол «Сказка»">
+                        <![CDATA[http://api.russia.travel/upload/uf/7dc/7dcca74b208ff4f9c588bd9aabab1c14.jpg]]></file>
+                    <text lang="rus"><![CDATA[Хакасский национальный театр кукол «Сказка»]]></text>
+                </photo>
+            </photos>
+        </item>
+        <item id="270621" published="Y" date="16.10.2015 15:29:04"
+              image="http://api.russia.travel/upload/iblock/f35/f354593168268d2d7e0a53a58636e761.jpg"
+              geo="53.7166667,91.45">
+            <types>
+                <type><![CDATA[70b475c1]]></type>
+            </types>
+            <name>
+                <text lang=""><![CDATA[Хакасский государственный театр малых форм «Читиген»]]></text>
+            </name>
+            <geo>53.7166667,91.45</geo>
+            <url>http://chitigen.ru/</url>
+            <addressCountry>255003</addressCountry>
+            <addressRegion>9997</addressRegion>
+            <streetAddress>
+                <text lang=""><![CDATA[г. Абакан, ул. Хакасская, 56/1]]></text>
+            </streetAddress>
+            <photos>
+                <photo order="0" id="8771" preview="Y">
+                    <file name="Хакасский государственный театр малых форм «Читиген»">
+                        <![CDATA[http://api.russia.travel/upload/uf/14f/14f3f3a85689ed31af7a5d1f89d6a6ee.jpg]]></file>
+                    <text lang="rus"><![CDATA[Хакасский государственный театр малых форм «Читиген»]]></text>
+                </photo>
+                <photo order="1" id="8772">
+                    <file name="Хакасский государственный театр малых форм «Читиген»">
+                        <![CDATA[http://api.russia.travel/upload/uf/065/0657da757129241176b6ad6bd97e3bed.jpg]]></file>
+                    <text lang="rus"><![CDATA[Хакасский государственный театр малых форм «Читиген»]]></text>
+                </photo>
+                <photo order="2" id="8773">
+                    <file name="Хакасский государственный театр малых форм «Читиген»">
+                        <![CDATA[http://api.russia.travel/upload/uf/ed1/ed1920a6e408be1342f0aa1328b0ddb5.jpg]]></file>
+                    <text lang="rus"><![CDATA[Хакасский государственный театр малых форм «Читиген»]]></text>
+                </photo>
+                <photo order="3" id="8774">
+                    <file name="Хакасский государственный театр малых форм «Читиген»">
+                        <![CDATA[http://api.russia.travel/upload/uf/092/0927468fa3b37a3ad8c2aed93509e7ac.jpg]]></file>
+                    <text lang="rus"><![CDATA[Хакасский государственный театр малых форм «Читиген»]]></text>
+                </photo>
+            </photos>
+        </item>
+        <item id="262442" published="Y" date="16.10.2015 15:28:49"
+              image="http://api.russia.travel/upload/iblock/108/10873e9f9aaf2cdc996aad24d5583971.jpg"
+              geo="53.7166667,91.45">
+            <types>
+                <type><![CDATA[70b475c1]]></type>
+            </types>
+            <name>
+                <text lang=""><![CDATA[Хакасский национальный драматический театр имени А. М. Топанова]]></text>
+            </name>
+            <geo>53.7166667,91.45</geo>
+            <url>http://hndt.ru/</url>
+            <addressCountry>255003</addressCountry>
+            <addressRegion>9997</addressRegion>
+            <streetAddress>
+                <text lang=""><![CDATA[г. Абакан, ул. Щетинкина, 12]]></text>
+            </streetAddress>
+            <photos>
+                <photo order="0" id="17678" preview="Y">
+                    <file name="Хакасский национальный драматический театр имени А. М. Топанова">
+                        <![CDATA[http://api.russia.travel/upload/uf/79f/79f5a7ff26b4d7443093e69f2a8c1c59.jpg]]></file>
+                    <text lang="rus"><![CDATA[Хакасский национальный драматический театр имени А. М. Топанова]]></text>
+                </photo>
+                <photo order="1" id="17679">
+                    <file name="Хакасский национальный драматический театр имени А. М. Топанова">
+                        <![CDATA[http://api.russia.travel/upload/uf/2c6/2c693b31aab6b171eefc62c3615131f0.jpg]]></file>
+                    <text lang="rus"><![CDATA[Хакасский национальный драматический театр имени А. М. Топанова]]></text>
+                </photo>
+                <photo order="2" id="17680">
+                    <file name="Хакасский национальный драматический театр имени А. М. Топанова">
+                        <![CDATA[http://api.russia.travel/upload/uf/5bb/5bb9e83b848002f7c277d0128a56562b.jpg]]></file>
+                    <text lang="rus"><![CDATA[Хакасский национальный драматический театр имени А. М. Топанова]]></text>
+                </photo>
+                <photo order="3" id="17681">
+                    <file name="Хакасский национальный драматический театр имени А. М. Топанова">
+                        <![CDATA[http://api.russia.travel/upload/uf/4c5/4c5a8bbcb5c72ae9e4caabfbde305bac.jpg]]></file>
+                    <text lang="rus"><![CDATA[Хакасский национальный драматический театр имени А. М. Топанова]]></text>
+                </photo>
+            </photos>
+        </item>
+        <item id="262482" published="Y" date="16.10.2015 15:26:46"
+              image="http://api.russia.travel/upload/iblock/426/42627ced9da235fb32476918bf49dde1.jpg"
+              geo="53.7166667,91.45">
+            <types>
+                <type><![CDATA[70b475c1]]></type>
+            </types>
+            <name>
+                <text lang=""><![CDATA[Русский республиканский драматический театр имени М.Ю. Лермонтова]]></text>
+            </name>
+            <geo>53.7166667,91.45</geo>
+            <url>http://lermontovtheatre.ru/</url>
+            <addressCountry>255003</addressCountry>
+            <addressRegion>9997</addressRegion>
+            <streetAddress>
+                <text lang=""><![CDATA[г.Абакан, улица Щетинкина, дом 12]]></text>
+            </streetAddress>
+            <photos>
+                <photo order="0" id="17569" preview="Y">
+                    <file name="Русский республиканский драматический театр имени М.Ю. Лермонтова">
+                        <![CDATA[http://api.russia.travel/upload/uf/96c/96c883ff1119a59a287757de8768cef4.jpg]]></file>
+                    <text lang="rus">
+                        <![CDATA[Русский республиканский драматический театр имени М.Ю. Лермонтова]]></text>
+                </photo>
+                <photo order="1" id="17570">
+                    <file name="Русский республиканский драматический театр имени М.Ю. Лермонтова">
+                        <![CDATA[http://api.russia.travel/upload/uf/0bd/0bdd10855509aafe8f2a6ca031f9e2d9.jpg]]></file>
+                    <text lang="rus">
+                        <![CDATA[Русский республиканский драматический театр имени М.Ю. Лермонтова]]></text>
+                </photo>
+            </photos>
+        </item>
+        <item id="294237" published="Y" date="17.09.2015 11:51:57"
+              image="http://api.russia.travel/upload/iblock/5fc/5fc7c84395380081b141a20b6bf5e870.jpg"
+              geo="53.721021,91.43177">
+            <types>
+                <type><![CDATA[069c9cb1]]></type>
+                <type><![CDATA[7169c260]]></type>
+            </types>
+            <name>
+                <text lang="rus"><![CDATA[Абакан]]></text>
+            </name>
+            <geo>53.721021,91.43177</geo>
+            <addressCountry>255003</addressCountry>
+            <addressLocality>10005</addressLocality>
+            <addressRegion>9997</addressRegion>
+            <streetAddress>
+                <text lang="rus"><![CDATA[Республика Хакасия, Абакан]]></text>
+            </streetAddress>
+            <photos>
+                <photo order="1" id="69660">
+                    <file name="Республика Хакасия. Абакан">
+                        <![CDATA[http://api.russia.travel/upload/uf/28c/28c2f5b9f0e7ea44f06e798da2379aaa.jpg]]></file>
+                </photo>
+                <photo order="2" id="69681">
+                    <file name="Республика Хакасия. Абакан">
+                        <![CDATA[http://api.russia.travel/upload/uf/784/78422131dcf56fe037e4ee12a2823d92.jpg]]></file>
+                </photo>
+                <photo order="0" id="69682" preview="Y">
+                    <file name="Республика Хакасия. Абакан">
+                        <![CDATA[http://api.russia.travel/upload/uf/d31/d31cd0db01499e3b639ac3e7d825f850.jpg]]></file>
+                </photo>
+            </photos>
+        </item>
+        <item id="294236" published="Y" date="16.09.2015 12:55:56"
+              image="http://api.russia.travel/upload/iblock/f40/f4053cacd41aa8ece88d91ea7e74d239.JPG"
+              geo="53.695842,91.420433">
+            <types>
+                <type><![CDATA[6df5b7w4]]></type>
+                <type><![CDATA[d965e6c1]]></type>
+            </types>
+            <name>
+                <text lang="rus"><![CDATA[Заповедник &quot;Хакасский&quot;]]></text>
+            </name>
+            <geo>53.695842,91.420433</geo>
+            <url>http://zapovednik-khakassky.ru/</url>
+            <addressCountry>255003</addressCountry>
+            <addressRegion>9997</addressRegion>
+            <streetAddress>
+                <text lang="rus"><![CDATA[Республика Хакасия, Абакан, ул. Цукановой, 164]]></text>
+            </streetAddress>
+            <photos>
+                <photo order="1" id="69679">
+                    <file name="Республика Хакасия. Заповедник Хакасский">
+                        <![CDATA[http://api.russia.travel/upload/uf/36d/36dba1b1cfcdf17aed7448b58d39dfb4.JPG]]></file>
+                </photo>
+                <photo order="2" id="69680">
+                    <file name="Республика Хакасия. Заповедник Хакасский">
+                        <![CDATA[http://api.russia.travel/upload/uf/ad6/ad6f04b620b8696bf34276960e949fcf.JPG]]></file>
+                </photo>
+                <photo order="3" id="69658">
+                    <file name="Республика Хакасия. Заповедник Хакасский">
+                        <![CDATA[http://api.russia.travel/upload/uf/238/23869d3cbafb36ba1ee16f48bca0c204.JPG]]></file>
+                </photo>
+                <photo order="0" id="69659" preview="Y">
+                    <file name="Республика Хакасия. Заповедник Хакасский">
+                        <![CDATA[http://api.russia.travel/upload/uf/e6a/e6a34ba376e11a00e7bd09545a06ae5d.jpg]]></file>
+                </photo>
+            </photos>
+        </item>
+        <item id="294234" published="Y" date="16.09.2015 07:26:02"
+              image="http://api.russia.travel/upload/iblock/3a2/3a26be70e2182dca89d9148f5520b89c.jpg"
+              geo="53.736377,91.435996">
+            <types>
+                <type><![CDATA[ef4073fa]]></type>
+                <type><![CDATA[6df5b7d7]]></type>
+            </types>
+            <name>
+                <text lang="rus"><![CDATA[Туристский информационный центр Хакасии]]></text>
+            </name>
+            <geo>53.736377,91.435996</geo>
+            <url>http://khakassia.travel/</url>
+            <addressCountry>255003</addressCountry>
+            <addressLocality>10005</addressLocality>
+            <addressRegion>9997</addressRegion>
+            <streetAddress>
+                <text lang="rus"><![CDATA[Республика Хакасия, г. Абакан, пр.Дружбы народов, дом 3]]></text>
+            </streetAddress>
+            <photos>
+                <photo order="1" id="69655">
+                    <file name="Республика Хакасия. Абакан. Информационный центр">
+                        <![CDATA[http://api.russia.travel/upload/uf/7b0/7b0a415d5443b121f790961bafba4ca5.jpg]]></file>
+                </photo>
+                <photo order="0" id="69675" preview="Y">
+                    <file name="Республика Хакасия. Абакан. Информационный центр">
+                        <![CDATA[http://api.russia.travel/upload/uf/a19/a193351fe5df012c1bdf1d673e05e6d0.jpg]]></file>
+                </photo>
+            </photos>
+        </item>
+        <item id="292791" published="Y" date="30.07.2015 12:39:07"
+              image="http://api.russia.travel/upload/iblock/298/2981da968744e858cf52bd5b47065c3f.jpg"
+              geo="52.827082,91.370591">
+            <types>
+                <type><![CDATA[3318560b]]></type>
+                <type><![CDATA[6df5b7d7]]></type>
+            </types>
+            <name>
+                <text lang="rus"><![CDATA[Саяно-Шушенская ГЭС]]></text>
+            </name>
+            <geo>52.827082,91.370591</geo>
+            <addressCountry>255003</addressCountry>
+            <addressLocality>188663</addressLocality>
+            <addressRegion>9997</addressRegion>
+            <streetAddress>
+                <text lang="rus"><![CDATA[Россия, Республика Хакасия, Черемушки]]></text>
+            </streetAddress>
+            <photos>
+                <photo order="0" id="63166" preview="Y">
+                    <file name="Республика Хакасия. Саяно-Шушенская ГЭС">
+                        <![CDATA[http://api.russia.travel/upload/uf/63a/63aa97f28c0c79fc50c37221d6e69021.jpg]]></file>
+                </photo>
+            </photos>
+        </item>
+        <item id="292792" published="Y" date="30.07.2015 12:34:55" geo="53.314024,90.784095">
+            <types>
+                <type><![CDATA[86945697]]></type>
+                <type><![CDATA[92e731bf]]></type>
+                <type><![CDATA[31395db0]]></type>
+            </types>
+            <name>
+                <text lang="rus"><![CDATA[Гора Уйтак]]></text>
+            </name>
+            <geo>53.314024,90.784095</geo>
+            <addressCountry>255003</addressCountry>
+            <addressRegion>9997</addressRegion>
+            <streetAddress>
+                <text lang="rus"><![CDATA[Россия, Республика Хакасия, гора Уйтак]]></text>
+            </streetAddress>
+            <photos>
+                <photo order="0" id="63341" preview="Y">
+                    <file name="Республика Хакасия. Уйтак">
+                        <![CDATA[http://api.russia.travel/upload/uf/3f9/3f9e0df9a787ce3dfd9391d8a83cb6e5.jpg]]></file>
+                </photo>
+            </photos>
+        </item>
+        <item id="292681" published="Y" date="30.07.2015 12:34:00"
+              image="http://api.russia.travel/upload/iblock/944/9440c7cc43e13427702248d47d87e2a9.JPG"
+              geo="53.487629902615,90.889206324952">
+            <types>
+                <type><![CDATA[ba2e8299]]></type>
+            </types>
+            <name>
+                <text lang="rus"><![CDATA[Айран]]></text>
+            </name>
+            <geo>53.487629902615,90.889206324952</geo>
+            <addressCountry>255003</addressCountry>
+            <addressRegion>9997</addressRegion>
+            <streetAddress>
+                <text lang="rus"><![CDATA[Россия, Республика Хакасия]]></text>
+            </streetAddress>
+            <photos>
+                <photo order="0" id="62611" preview="Y">
+                    <file name="Республика Хакасия. Айран" authorCopyright="Юрий Кудряшов">
+                        <![CDATA[http://api.russia.travel/upload/uf/507/507fe49f6f45e2ae694c37b1de9ab0a1.JPG]]></file>
+                </photo>
+            </photos>
+        </item>
+        <item id="292682" published="Y" date="30.07.2015 12:32:47"
+              image="http://api.russia.travel/upload/iblock/052/052cf4896ecd0c1e6c5df49479ac3509.JPG"
+              geo="53.487629902615,90.889206324952">
+            <types>
+                <type><![CDATA[ba2e8299]]></type>
+            </types>
+            <name>
+                <text lang="rus"><![CDATA[Хыйма]]></text>
+            </name>
+            <geo>53.487629902615,90.889206324952</geo>
+            <addressCountry>255003</addressCountry>
+            <addressRegion>9997</addressRegion>
+            <streetAddress>
+                <text lang="rus"><![CDATA[Россия, Республика Хакасия]]></text>
+            </streetAddress>
+            <photos>
+                <photo order="0" id="62612" preview="Y">
+                    <file name="Республика Хакасия. Хыйма" authorCopyright="Юрий Кудряшов">
+                        <![CDATA[http://api.russia.travel/upload/uf/a9c/a9c4d60ca538239f2ad3240bfaa6b6e0.JPG]]></file>
+                </photo>
+            </photos>
+        </item>
+        <item id="292728" published="Y" date="20.07.2015 12:40:37"
+              image="http://api.russia.travel/upload/iblock/202/202c816a6e053e856aea2e7c93cb4a21.jpg"
+              geo="53.622894688752,91.368872084918">
+            <types>
+                <type><![CDATA[ba2e8299]]></type>
+            </types>
+            <name>
+                <text lang="rus"><![CDATA[Суп с тутпасом]]></text>
+            </name>
+            <geo>53.622894688752,91.368872084918</geo>
+            <addressCountry>255003</addressCountry>
+            <addressRegion>9997</addressRegion>
+            <streetAddress/>
+            <photos>
+                <photo order="0" id="62873" preview="Y">
+                    <file name="Республика Хакасия. Суп с тутпасом" authorCopyright="Юрий Кудряшов">
+                        <![CDATA[http://api.russia.travel/upload/uf/187/18741a30626fb16dd929ddf07a3f26d1.jpg]]></file>
+                </photo>
+            </photos>
+        </item>
+        <item id="292726" published="Y" date="20.07.2015 12:29:01"
+              image="http://api.russia.travel/upload/iblock/842/842b4e72f2e87b26aed35c9502b3414a.jpg"
+              geo="53.622894688752,91.368872084918">
+            <types>
+                <type><![CDATA[ba2e8299]]></type>
+            </types>
+            <name>
+                <text lang="rus"><![CDATA[Чай с душицей]]></text>
+            </name>
+            <geo>53.622894688752,91.368872084918</geo>
+            <addressCountry>255003</addressCountry>
+            <addressRegion>9997</addressRegion>
+            <streetAddress>
+                <text lang="rus"><![CDATA[Россия, Республика Хакасия]]></text>
+            </streetAddress>
+            <photos>
+                <photo order="0" id="62869" preview="Y">
+                    <file name="Республика Хакасия. Чай с душицей" authorCopyright="Юрий Кудряшов">
+                        <![CDATA[http://api.russia.travel/upload/uf/299/2992ec5a7799c267e877ea7549171273.jpg]]></file>
+                </photo>
+            </photos>
+        </item>
+        <item id="292723" published="Y" date="20.07.2015 12:00:21"
+              image="http://api.russia.travel/upload/iblock/11b/11bd797e1edfbfcba433427722ec9837.jpg"
+              geo="53.622894688752,91.368872084918">
+            <types>
+                <type><![CDATA[ba2e8299]]></type>
+            </types>
+            <name>
+                <text lang="rus"><![CDATA[Суп с ячневой крупой (чарба угрей)]]></text>
+            </name>
+            <geo>53.622894688752,91.368872084918</geo>
+            <addressCountry>255003</addressCountry>
+            <addressRegion>9997</addressRegion>
+            <streetAddress>
+                <text lang="rus"><![CDATA[Россия, Республика Хакасия]]></text>
+            </streetAddress>
+            <photos>
+                <photo order="0" id="62833" preview="Y">
+                    <file name="Республика Хакасия. Суп с ячневой крупой" authorCopyright="Юрий Кудряшов">
+                        <![CDATA[http://api.russia.travel/upload/uf/edd/edd216ba1dc00f721106bac1a2b9208f.jpg]]></file>
+                </photo>
+            </photos>
+        </item>
+        <item id="292684" published="Y" date="15.07.2015 19:09:08"
+              image="http://api.russia.travel/upload/iblock/a3d/a3d469adfd543df320ef10fbddf5a723.jpg"
+              geo="53.487629902615,90.889206324952">
+            <types>
+                <type><![CDATA[ba2e8299]]></type>
+            </types>
+            <name>
+                <text lang="rus"><![CDATA[Похты]]></text>
+            </name>
+            <geo>53.487629902615,90.889206324952</geo>
+            <addressCountry>255003</addressCountry>
+            <addressRegion>9997</addressRegion>
+            <streetAddress>
+                <text lang="rus"><![CDATA[Россия, Республика Хакасия]]></text>
+            </streetAddress>
+            <photos>
+                <photo order="0" id="62601" preview="Y">
+                    <file name="Республика Хакасия. Похты" authorCopyright="Юрий Кудряшов">
+                        <![CDATA[http://api.russia.travel/upload/uf/7dc/7dc8436de30be78c0f795e3bbb2ae4af.jpg]]></file>
+                </photo>
+            </photos>
+        </item>
+        <item id="292701" published="Y" date="15.07.2015 19:06:42" geo="53.487629902615,90.889206324952">
+            <types>
+                <type><![CDATA[ba2e8299]]></type>
+            </types>
+            <name>
+                <text lang="rus"><![CDATA[Талган]]></text>
+            </name>
+            <geo>53.487629902615,90.889206324952</geo>
+            <addressCountry>255003</addressCountry>
+            <addressRegion>9997</addressRegion>
+            <streetAddress>
+                <text lang="rus"><![CDATA[Россия, Республика Хакасия]]></text>
+            </streetAddress>
+        </item>
+        <item id="292683" published="Y" date="15.07.2015 19:01:42"
+              image="http://api.russia.travel/upload/iblock/7fb/7fba4ca7bdb48ecee7ca389345eee716.jpg"
+              geo="53.487629902615,90.889206324952">
+            <types>
+                <type><![CDATA[ba2e8299]]></type>
+            </types>
+            <name>
+                <text lang="rus"><![CDATA[Мюн]]></text>
+            </name>
+            <geo>53.487629902615,90.889206324952</geo>
+            <addressCountry>255003</addressCountry>
+            <addressRegion>9997</addressRegion>
+            <streetAddress>
+                <text lang="rus"><![CDATA[Россия, Республика Хакасия]]></text>
+            </streetAddress>
+            <photos>
+                <photo order="0" id="62613" preview="Y">
+                    <file name="Республика Хакасия. Мюн" authorCopyright="Юрий Кудряшов">
+                        <![CDATA[http://api.russia.travel/upload/uf/37e/37ee2bb74c8388d0a3a0c0ac3524a44f.jpg]]></file>
+                </photo>
+            </photos>
+        </item>
+        <item id="292615" published="Y" date="14.07.2015 10:42:19"
+              image="http://api.russia.travel/upload/iblock/b5d/b5dd3c186ba9efb14a0731e2b406ff61.jpg"
+              geo="53.421855483562,91.538925908341">
+            <types>
+                <type><![CDATA[ba2e8299]]></type>
+            </types>
+            <name>
+                <text lang="rus"><![CDATA[Кумыс]]></text>
+            </name>
+            <geo>53.421855483562,91.538925908341</geo>
+            <addressCountry>255003</addressCountry>
+            <addressRegion>9997</addressRegion>
+            <streetAddress>
+                <text lang="rus"><![CDATA[Россия, Республика Хакасия]]></text>
+            </streetAddress>
+            <photos>
+                <photo order="0" id="62424" preview="Y">
+                    <file name="Республика Хакасия. Кумыс" authorCopyright="Юрий Кудряшов">
+                        <![CDATA[http://api.russia.travel/upload/uf/94f/94f81cb5e9ab64068322fa8a4458cdd7.jpg]]></file>
+                </photo>
+            </photos>
+        </item>
+        <item id="292515" published="Y" date="08.07.2015 14:18:31"
+              image="http://api.russia.travel/upload/iblock/50f/50fa4b3c4ec102a767062ea64b92a895.jpg"
+              geo="53.555376,90.495142">
+            <types>
+                <type><![CDATA[5330425c]]></type>
+            </types>
+            <name>
+                <text lang="rus"><![CDATA[Ворота в Долину Царей]]></text>
+            </name>
+            <geo>53.555376,90.495142</geo>
+            <addressCountry>255003</addressCountry>
+            <addressLocality>166549</addressLocality>
+            <addressArea>166481</addressArea>
+            <addressRegion>9997</addressRegion>
+            <streetAddress>
+                <text lang="rus"><![CDATA[Россия, Республика Хакасия, Аскизский район, Камышта]]></text>
+            </streetAddress>
+            <photos>
+                <photo order="0" id="61859" preview="Y">
+                    <file name="Республика Хакасия. Ворота в Долину Царей">
+                        <![CDATA[http://api.russia.travel/upload/uf/1a7/1a7f578461fec6f80dae8c5f5ab607ea.jpg]]></file>
+                </photo>
+            </photos>
+        </item>
+        <item id="292508" published="Y" date="08.07.2015 13:07:37"
+              image="http://api.russia.travel/upload/iblock/119/119cf0b7f31ed036c7b0999641216ea5.jpg"
+              geo="54.291619,91.188777">
+            <types>
+                <type><![CDATA[5330425c]]></type>
+            </types>
+            <name>
+                <text lang="rus"><![CDATA[Боярская писаница]]></text>
+            </name>
+            <geo>54.291619,91.188777</geo>
+            <addressCountry>255003</addressCountry>
+            <addressLocality>166683</addressLocality>
+            <addressRegion>9997</addressRegion>
+            <streetAddress>
+                <text lang="rus"><![CDATA[Россия, Республика Хакасия, Боградский район]]></text>
+            </streetAddress>
+            <photos>
+                <photo order="0" id="61822" preview="Y">
+                    <file name="Республика Хакасия. Боградский район. Боярская писаница">
+                        <![CDATA[http://api.russia.travel/upload/uf/322/32244e95076cf07fa84c02af8fc23ec2.jpg]]></file>
+                </photo>
+            </photos>
+        </item>
+        <item id="292231" published="Y" date="08.07.2015 12:45:18"
+              image="http://api.russia.travel/upload/iblock/5ee/5ee108199b3b85ae23949eb4d3a205ad.jpg"
+              geo="53.732988,91.461869">
+            <types>
+                <type><![CDATA[89b45e33]]></type>
+                <type><![CDATA[92e731bf]]></type>
+            </types>
+            <name>
+                <text lang="rus"><![CDATA[Чыл пазы]]></text>
+            </name>
+            <geo>53.732988,91.461869</geo>
+            <addressCountry>255003</addressCountry>
+            <addressRegion>9997</addressRegion>
+            <streetAddress/>
+            <photos>
+                <photo order="0" id="60892" preview="Y">
+                    <file name="Республика Хакасия. Праздник Чыл пазы">
+                        <![CDATA[http://api.russia.travel/upload/uf/de2/de20c13e5434b3cb89a1b22e4d30ef0f.jpg]]></file>
+                </photo>
+            </photos>
+        </item>
+        <item id="292230" published="Y" date="08.07.2015 12:44:38"
+              image="http://api.russia.travel/upload/iblock/c33/c333909c5adead543f51cd6cc28c2886.jpg"
+              geo="53.212669,90.627629">
+            <types>
+                <type><![CDATA[89b45e33]]></type>
+                <type><![CDATA[92e731bf]]></type>
+            </types>
+            <name>
+                <text lang="rus"><![CDATA[Тун пайрам]]></text>
+            </name>
+            <geo>53.212669,90.627629</geo>
+            <addressCountry>255003</addressCountry>
+            <addressArea>276558</addressArea>
+            <addressRegion>9997</addressRegion>
+            <streetAddress/>
+            <photos>
+                <photo order="0" id="60890" preview="Y">
+                    <file name="Республика Хакасия. Праздник Тун пайрам" authorCopyright="Республика Хакасия"
+                          authorUrl="http://www.turism19.ru">
+                        <![CDATA[http://api.russia.travel/upload/uf/b4a/b4a2ec264b2fc8973da36a5428755851.jpg]]></file>
+                </photo>
+                <photo order="1" id="60891">
+                    <file name="Республика Хакасия. Праздник Тун пайрам" authorCopyright="Республика Хакасия"
+                          authorUrl="http://www.turism19.ru">
+                        <![CDATA[http://api.russia.travel/upload/uf/524/5245fc1b0843af94ee7b42d02e516a56.jpg]]></file>
+                </photo>
+            </photos>
+        </item>
+        <item id="292490" published="Y" date="08.07.2015 12:41:43"
+              image="http://api.russia.travel/upload/iblock/72e/72edf8033ee9ba7dec12988f5bda9c73.jpg"
+              geo="54.007949,91.197138">
+            <types>
+                <type><![CDATA[5330425c]]></type>
+            </types>
+            <name>
+                <text lang="rus"><![CDATA[Курган «Барсучий лог»]]></text>
+            </name>
+            <geo>54.007949,91.197138</geo>
+            <addressCountry>255003</addressCountry>
+            <addressLocality>166301</addressLocality>
+            <addressRegion>9997</addressRegion>
+            <streetAddress>
+                <text lang="rus"><![CDATA[Россия, Республика Хакасия, Вершино-Биджа]]></text>
+            </streetAddress>
+            <photos>
+                <photo order="0" id="61814" preview="Y">
+                    <file name="Республика Хакасия. Древние курганы Салбыкской степи. Барсучий лог">
+                        <![CDATA[http://api.russia.travel/upload/uf/545/54508c57db39c3eed33c586e8e24b8ba.jpg]]></file>
+                </photo>
+            </photos>
+        </item>
+        <item id="292501" published="Y" date="08.07.2015 11:53:56"
+              image="http://api.russia.travel/upload/iblock/9c5/9c5d2c4036eda64f7d04e00502cb81d1.jpg"
+              geo="53.894109,90.773209">
+            <types>
+                <type><![CDATA[5330425c]]></type>
+            </types>
+            <name>
+                <text lang="rus"><![CDATA[Древние курганы Салбыкской степи]]></text>
+            </name>
+            <geo>53.894109,90.773209</geo>
+            <addressCountry>255003</addressCountry>
+            <addressLocality>166301</addressLocality>
+            <addressRegion>9997</addressRegion>
+            <streetAddress>
+                <text lang="rus"><![CDATA[Россия, Республика Хакасия, Вершино-Биджа]]></text>
+            </streetAddress>
+            <photos>
+                <photo order="0" id="61829" preview="Y">
+                    <file name="Республика Хакасия. Салбыкский Курган.">
+                        <![CDATA[http://api.russia.travel/upload/uf/c6b/c6bdc7741cbb4f8ec10745ae1cb294af.jpg]]></file>
+                </photo>
+                <photo order="1" id="61828">
+                    <file name="Республика Хакасия. Салбыкский Курган.">
+                        <![CDATA[http://api.russia.travel/upload/uf/73b/73b3267dda6077bc6dff05bc3f05c74b.jpg]]></file>
+                </photo>
+            </photos>
+        </item>
+        <item id="292427" published="Y" date="06.07.2015 17:51:10" geo="53.596656076618,91.554568440268">
+            <types>
+                <type><![CDATA[92e731bf]]></type>
+            </types>
+            <name>
+                <text lang="rus"><![CDATA[Национальная кухня Хакасии]]></text>
+            </name>
+            <geo>53.596656076618,91.554568440268</geo>
+            <addressCountry>255003</addressCountry>
+            <addressRegion>9997</addressRegion>
+            <streetAddress>
+                <text lang="rus"><![CDATA[Россия, Республика Хакасия]]></text>
+            </streetAddress>
+        </item>
+        <item id="288402" published="Y" date="17.06.2015 16:49:29"
+              image="http://api.russia.travel/upload/iblock/10d/10d4b2e34b443a1bf2ed8d33fbd623fa.jpg"
+              geo="53.710201,91.688957">
+            <types>
+                <type><![CDATA[e5fbe058]]></type>
+                <type><![CDATA[museum_hudozhestv]]></type>
+            </types>
+            <name>
+                <text lang="rus"><![CDATA[Минусинская художественная картинная галерея]]></text>
+            </name>
+            <geo>53.710201,91.688957</geo>
+            <addressLocality>59130</addressLocality>
+            <addressRegion>9974</addressRegion>
+            <streetAddress>
+                <text lang="rus"><![CDATA[ул. Ленина, 77]]></text>
+            </streetAddress>
+            <photos>
+                <photo order="0" id="51073" preview="Y">
+                    <file><![CDATA[http://api.russia.travel/upload/uf/24b/24b007207ffc31dd2d1a01404205ed0a.jpg]]></file>
+                </photo>
+                <photo order="1" id="51074">
+                    <file><![CDATA[http://api.russia.travel/upload/uf/7dd/7dd81c487d96798d4a4341801949d145.jpg]]></file>
+                </photo>
+                <photo order="2" id="51075">
+                    <file><![CDATA[http://api.russia.travel/upload/uf/79e/79e90d1bf1e10274762fded999db3bc6.jpg]]></file>
+                </photo>
+            </photos>
+        </item>
+        <item id="291544" published="Y" date="17.06.2015 16:49:18"
+              image="http://api.russia.travel/upload/iblock/cf7/cf748ecac1eae01763c7b148d6b82134.jpg"
+              geo="53.709922,91.686628">
+            <types>
+                <type><![CDATA[c7940300]]></type>
+            </types>
+            <name>
+                <text lang="rus">
+                    <![CDATA[Собор Спаса Нерукотворного Образа в Минусинске Красноярской области (Спасский собор)]]></text>
+            </name>
+            <geo>53.709922,91.686628</geo>
+            <addressLocality>59130</addressLocality>
+            <addressRegion>9974</addressRegion>
+            <photos>
+                <photo order="0" id="58550" preview="Y">
+                    <file name="Собор Спаса Нерукотворного Образа в Минусинске Красноярской области (Спасский собор)">
+                        <![CDATA[http://api.russia.travel/upload/uf/619/6191c2b492e3dc083c3de1d1e77f16f7.jpg]]></file>
+                    <text lang="rus">
+                        <![CDATA[Собор Спаса Нерукотворного Образа в Минусинске Красноярской области (Спасский собор)]]></text>
+                </photo>
+            </photos>
+        </item>
+        <item id="290276" published="Y" date="17.06.2015 16:39:57"
+              image="http://api.russia.travel/upload/iblock/b25/b25c79a7b6e44e313c33f812ce2c8e39.jpg"
+              geo="53.709919,91.6884">
+            <types>
+                <type><![CDATA[e5fbe058]]></type>
+                <type><![CDATA[museum_kraevedcheskie]]></type>
+            </types>
+            <name>
+                <text lang="rus"><![CDATA[Минусинский музей им. Н. М. Мартьянова]]></text>
+            </name>
+            <geo>53.709919,91.6884</geo>
+            <url>музей-мартьянова.рф</url>
+            <addressLocality>59130</addressLocality>
+            <addressRegion>9974</addressRegion>
+            <streetAddress>
+                <text lang="rus"><![CDATA[ул. Ленина, 60]]></text>
+            </streetAddress>
+            <photos>
+                <photo order="0" id="56017" preview="Y">
+                    <file name="мемориальная комната Читаьный зал библиотеки музея">
+                        <![CDATA[http://api.russia.travel/upload/uf/58c/58cd7a5e68042f410a822b76533335ae.jpg]]></file>
+                    <text lang="rus"><![CDATA[мемориальная комната Читаьный зал библиотеки музея]]></text>
+                </photo>
+                <photo order="1" id="56018">
+                    <file name="Минусинский музей им. Н.М.Мартьянова">
+                        <![CDATA[http://api.russia.travel/upload/uf/0ae/0ae87a8c448fc5ca150bee34ed08f370.jpg]]></file>
+                    <text lang="rus"><![CDATA[Минусинский музей им. Н.М.Мартьянова]]></text>
+                </photo>
+                <photo order="2" id="56019">
+                    <file name="Читальный зал научной библиотеки Минусинского музея им. Н.М.Мартьянова">
+                        <![CDATA[http://api.russia.travel/upload/uf/431/431d0bb8596bf57aab8212aa596f3cb4.jpg]]></file>
+                    <text lang="rus">
+                        <![CDATA[Читальный зал научной библиотеки Минусинского музея им. Н.М.Мартьянова]]></text>
+                </photo>
+                <photo order="3" id="56020">
+                    <file name="Экспозиция Природа Минусинского края">
+                        <![CDATA[http://api.russia.travel/upload/uf/21f/21f1eecb98e97d7764637dc275e47b9b.jpg]]></file>
+                    <text lang="rus"><![CDATA[Экспозиция Природа Минусинского края]]></text>
+                </photo>
+                <photo order="4" id="56021">
+                    <file name="Экспозиция Древнейшие цивилизации и этносы 2 этаж Саяно-Алтая">
+                        <![CDATA[http://api.russia.travel/upload/uf/7ce/7ce8b34f58c36c3765750b4c5abbacf4.jpg]]></file>
+                    <text lang="rus"><![CDATA[Экспозиция Древнейшие цивилизации и этносы 2 этаж Саяно-Алтая]]></text>
+                </photo>
+            </photos>
+        </item>
+        <item id="290176" published="Y" date="17.06.2015 16:37:09" geo="53.709636,91.683522">
+            <types>
+                <type><![CDATA[theatre_drama]]></type>
+                <type><![CDATA[70b475c1]]></type>
+            </types>
+            <name>
+                <text lang="rus"><![CDATA[Минусинский драматический театр]]></text>
+            </name>
+            <geo>53.709636,91.683522</geo>
+            <addressLocality>59130</addressLocality>
+            <addressRegion>9974</addressRegion>
+            <streetAddress>
+                <text lang="rus"><![CDATA[улица Подсинская, дом 75]]></text>
+            </streetAddress>
+            <photos>
+                <photo order="0" id="55940" preview="Y">
+                    <file name="Минусинский драматический театр.jpg">
+                        <![CDATA[http://api.russia.travel/upload/uf/2f7/2f7d54967311c22ee690eb3c7a782655.jpg]]></file>
+                    <text lang="rus"><![CDATA[Минусинский драматический театр.jpg]]></text>
+                </photo>
+            </photos>
+        </item>
+        <item id="289907" published="Y" date="17.06.2015 16:30:23" geo="53.326767,91.930298">
+            <types>
+                <type><![CDATA[e5fbe058]]></type>
+                <type><![CDATA[museum_history]]></type>
+            </types>
+            <name>
+                <text lang="rus"><![CDATA[Историко-этнографический музей-заповедник «Шушенское»]]></text>
+            </name>
+            <geo>53.326767,91.930298</geo>
+            <url>http://shush.ru/</url>
+            <addressLocality>10535</addressLocality>
+            <addressRegion>9974</addressRegion>
+            <streetAddress>
+                <text lang="rus"><![CDATA[ул. Новая, 1]]></text>
+            </streetAddress>
+            <photos>
+                <photo order="0" id="55244" preview="Y">
+                    <file name="Историко-этнографический музей-заповедник Шушенское (2)">
+                        <![CDATA[http://api.russia.travel/upload/uf/3a5/3a5f1a806dba1e81d11e12abfb0c292b.jpg]]></file>
+                    <text lang="rus"><![CDATA[Историко-этнографический музей-заповедник Шушенское (2)]]></text>
+                </photo>
+                <photo order="1" id="55245">
+                    <file name="Историко-этнографический музей-заповедник Шушенское (5)">
+                        <![CDATA[http://api.russia.travel/upload/uf/946/9468caf7b843e7f42d7711be2b2b1caf.jpg]]></file>
+                    <text lang="rus"><![CDATA[Историко-этнографический музей-заповедник Шушенское (5)]]></text>
+                </photo>
+            </photos>
+        </item>
+        <item id="290733" published="Y" date="17.06.2015 16:29:39"
+              image="http://api.russia.travel/upload/iblock/b73/b73daac5cf7d48717c06e47aeaad19a8.jpg"
+              geo="53.709679,91.683163">
+            <types>
+                <type><![CDATA[70b475c1]]></type>
+            </types>
+            <name>
+                <text lang="rus"><![CDATA[Минусинский драматический театр]]></text>
+            </name>
+            <geo>53.709679,91.683163</geo>
+            <url>http://www.mdrama.ru/</url>
+            <addressLocality>59130</addressLocality>
+            <addressRegion>9974</addressRegion>
+            <streetAddress>
+                <text lang="rus"><![CDATA[улица Подсинская, дом 75]]></text>
+            </streetAddress>
+            <photos>
+                <photo order="0" id="57350" preview="Y">
+                    <file><![CDATA[http://api.russia.travel/upload/uf/86b/86bdd9440486d3f08a8aa5cb9eba0cdf.jpg]]></file>
+                </photo>
+            </photos>
+        </item>
+        <item id="287961" published="Y" date="17.06.2015 16:25:10"
+              image="http://api.russia.travel/upload/iblock/19c/19cd5957ec91e6254bc2df2625a4441d.jpg"
+              geo="53.715318299058,91.691021542992">
+            <types>
+                <type><![CDATA[e5fbe058]]></type>
+                <type><![CDATA[museum_history]]></type>
+            </types>
+            <name>
+                <text lang="rus"><![CDATA[Музей декабристов в г. Минусинске]]></text>
+            </name>
+            <geo>53.715318299058,91.691021542992</geo>
+            <url>музей-мартьянова.рф</url>
+            <addressLocality>59130</addressLocality>
+            <addressRegion>9974</addressRegion>
+            <streetAddress>
+                <text lang="rus"><![CDATA[ул.Обороны, 59а]]></text>
+            </streetAddress>
+            <photos>
+                <photo order="0" id="50346" preview="Y">
+                    <file><![CDATA[http://api.russia.travel/upload/uf/213/2137943f2bfea179611e05250695639e.jpg]]></file>
+                </photo>
+            </photos>
+        </item>
+    </items>
+    <responseCode>200</responseCode>
+    <responseMessage>Запрос успешен</responseMessage>
+</response>
