@@ -55,6 +55,8 @@ function deleteTagsWithoutInnaLocationsItems() {
     var all = JSON.parse(fs.readFileSync(SUGGEST_ALL_FILE, 'utf8'));
     //console.log(inspect(all, { colors: true, depth: 2 }));
 
+    var initTagsCount = all.length;
+
     all.forEach((i)=> {
         var tags = i.value;
 
@@ -80,7 +82,11 @@ function deleteTagsWithoutInnaLocationsItems() {
     });
 
     console.log('empty tags count:', all.filter((i)=>i.value.length == 0).length);
+    //берем теги с существующими категориями
+    all = all.filter((i)=>i.value.length > 0);
 
+    console.log('tags count', initTagsCount);
+    console.log('tags count after filtering', all.length);
 
     fs.writeFileSync(SUGGEST_ALL_FILTERED_FILE, JSON.stringify(all), 'utf8');
     console.log('done, saved to', SUGGEST_ALL_FILTERED_FILE);

@@ -110,7 +110,7 @@ function continueFromIndex() {
 function processLocationWithApi(loc, runNextCallback) {
     var time = +(new Date());
 
-    apiClient.findObjects(null, null, [loc.lat,loc.long]).then((data)=>{
+    apiClient.findObjectsAllPages(null, null, [loc.lat,loc.long]).then((data)=>{
         //console.log('success, data', data);
         //console.log(inspect(data, { colors: true, depth: Infinity }));
         //console.log(inspect(data.response.items.item[1], { colors: true, depth: Infinity }));

@@ -14,10 +14,10 @@ import fs from 'fs';
 //apiClient.getAddressLocality(10518, 277198, 1).then((data)=>{
 //apiClient.getServices().then((data)=>{
 //apiClient.findObjects(132123, [234234], [43.58682600000,39.72014300000]).then((data)=>{
-apiClient.findObjects(null, null, [43.28229300000,45.68698200000]).then((data)=>{//3 pages
-//apiClient.findObjects_withPages(null, null, [43.28229300000,45.68698200000], null, 3).then((data)=>{//3 pages
-//apiClient.findObjects(null, null, [44.67631000000,34.40778000000]).then((data)=>{//3 pages
-//apiClient.findObjects(null, null, [53.25304000000,50.49294900000]).then((data)=>{//2 pages
+apiClient.findObjectsAllPages(null, null, [43.28229300000,45.68698200000]).then((data)=>{//3 pages
+//apiClient.findObjectsAllPages(null, null, [43.28229300000,45.68698200000], null, 3).then((data)=>{//3 pages
+//apiClient.findObjectsAllPages(null, null, [44.67631000000,34.40778000000]).then((data)=>{//3 pages
+//apiClient.findObfindObjectsAllPagesjects(null, null, [53.25304000000,50.49294900000]).then((data)=>{//2 pages
 //apiClient.findObjects(null, null, [43.58682600000,39.72014300000]).then((data)=>{
 //apiClient.findObjects([290276,289907]).then((data)=>{
 //apiClient.findObjects([289907]).then((data)=>{

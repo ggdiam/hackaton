@@ -60,6 +60,11 @@ const apiClient = {
     findObjectsByItemIds: (itemIds) => apiClient.findObjects(itemIds),
 
     findObjects: (itemIds, regionIds, point, objectTypes) => new Promise((resolve, reject)=> {
+        apiClient.findObjects_withPages(itemIds, regionIds, point, objectTypes, 1)
+            .then(resolve).catch(reject)
+    }),
+
+    findObjectsAllPages: (itemIds, regionIds, point, objectTypes) => new Promise((resolve, reject)=> {
         apiClient.findObjects_withPages(itemIds, regionIds, point, objectTypes, 1).then((data)=> {
             //console.log('findObjects_withPages');
             //console.log(inspect(data, { colors: true, depth: 1 }));
@@ -77,7 +82,7 @@ const apiClient = {
 
 
             if (isMultiplePages && data && data.items) {
-                console.log('totalPages', totalPages);
+                console.log('isMultiplePages, totalPages', totalPages);
                 var outData = data;
                 delete outData.page;
                 delete outData.totalPages;
@@ -89,10 +94,6 @@ const apiClient = {
             }
             else {
                 resolve(data);
-                //resolve(createItemsWithFields(data, ['id','name','types','image','photos','url','addressCountry','addressRegion','streetAddress']));
-
-                //resolve(createItemsWithFields(data, ['id','name','types','image','photos','url']));
-                //resolve(createItemsWithFields(data, ['id','name','types','geo','image','telephone','addressCountry','addressRegion','streetAddress','photos','published']));
             }
         }).catch(reject)
     }),
