@@ -1,1 +1,0 @@
-{"id":"311","name":"Абакан","lat":"53.71339000000","long":"91.48276200000","price":71299,"hotelsCount":3,"ticketsCount":0}

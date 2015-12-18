@@ -1,0 +1,664 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+    <items page="2" totalPages="2">
+        <item id="14798" published="Y" date="16.10.2015 07:41:53"
+              image="http://api.russia.travel/upload/iblock/4ef/4efc8cd907a0b804e7d462c4d4851bfe.jpg"
+              geo="53.3936111,49.2677778">
+            <types>
+                <type><![CDATA[86945697]]></type>
+            </types>
+            <name>
+                <text lang="rus"><![CDATA[Усинский курган в Самарской области]]></text>
+                <text lang="eng"><![CDATA[Usinsk mound in the Samara region]]></text>
+                <text lang="deu"><![CDATA[Usinsk mound in the Samara region]]></text>
+                <text lang="fra"><![CDATA[Usinsk mound in the Samara region]]></text>
+                <text lang="spa"><![CDATA[Usinsk mound in the Samara region]]></text>
+                <text lang="zho"><![CDATA[Usinsk mound in the Samara region]]></text>
+                <text lang="jpn"><![CDATA[Usinsk mound in the Samara region]]></text>
+                <text lang="ara"><![CDATA[Usinsk mound in the Samara region]]></text>
+            </name>
+            <geo>53.3936111,49.2677778</geo>
+            <addressCountry>255003</addressCountry>
+            <addressRegion>9991</addressRegion>
+            <photos>
+                <photo order="0" id="22542" preview="Y">
+                    <file name="Усинский курган в Самарской области">
+                        <![CDATA[http://api.russia.travel/upload/uf/996/996388b0ecdf1e0beccbc51499fe694a.jpg]]></file>
+                    <text lang="rus"><![CDATA[Усинский курган в Самарской области]]></text>
+                </photo>
+                <photo order="1" id="22543">
+                    <file name="Усинский курган в Самарской области">
+                        <![CDATA[http://api.russia.travel/upload/uf/b1c/b1c5e99b10e80587c7b2e8e68a6413d0.jpg]]></file>
+                    <text lang="rus"><![CDATA[Усинский курган в Самарской области]]></text>
+                </photo>
+                <photo order="2" id="22544">
+                    <file name="Усинский курган в Самарской области">
+                        <![CDATA[http://api.russia.travel/upload/uf/383/3838bfd18837e9a5bfb97327afd1e02e.jpg]]></file>
+                    <text lang="rus"><![CDATA[Усинский курган в Самарской области]]></text>
+                </photo>
+                <photo order="3" id="22545">
+                    <file name="Усинский курган в Самарской области">
+                        <![CDATA[http://api.russia.travel/upload/uf/b76/b761b38a4ab2a5181be9e02fce8da587.jpg]]></file>
+                    <text lang="rus"><![CDATA[Усинский курган в Самарской области]]></text>
+                </photo>
+            </photos>
+        </item>
+        <item id="284644" published="Y" date="16.10.2015 07:41:13"
+              image="http://api.russia.travel/upload/iblock/dd6/dd6a86270b546b2bedaecf911ef2ea99.jpg"
+              geo="53.371467741491,49.061373714107">
+            <types>
+                <type><![CDATA[3318560b]]></type>
+            </types>
+            <name>
+                <text lang="rus"><![CDATA[Чувашский бугор]]></text>
+            </name>
+            <geo>53.371467741491,49.061373714107</geo>
+            <addressCountry>255003</addressCountry>
+            <addressLocality>213796</addressLocality>
+            <addressArea>278328</addressArea>
+            <addressRegion>9991</addressRegion>
+            <streetAddress>
+                <text lang="rus"><![CDATA[Самарская обл., Шигонский р-н, с. Усолье]]></text>
+            </streetAddress>
+            <photos>
+                <photo order="0" id="70208" preview="Y">
+                    <file name="Самарская область. Чувашский бугор">
+                        <![CDATA[http://api.russia.travel/upload/uf/37d/37d546b91781baf3618574311cd9c180.jpg]]></file>
+                </photo>
+            </photos>
+        </item>
+        <item id="294407" published="Y" date="16.10.2015 07:41:07"
+              image="http://api.russia.travel/upload/iblock/b76/b7617b114a4420c1c6259d58cfd69fe7.jpg"
+              geo="53.4684,49.3659">
+            <types>
+                <type><![CDATA[7897e6a3]]></type>
+            </types>
+            <name>
+                <text lang="rus"><![CDATA[Выставка яхт и катеров &quot;VOLGAboatshow&quot;]]></text>
+            </name>
+            <geo>53.4684,49.3659</geo>
+            <addressCountry>255003</addressCountry>
+            <addressLocality>59164</addressLocality>
+            <addressRegion>9991</addressRegion>
+            <streetAddress>
+                <text lang="rus"><![CDATA[Самарская обл., г. Тольятти, Комсомольское шоссе, 36]]></text>
+            </streetAddress>
+            <photos>
+                <photo order="1" id="70286">
+                    <file name="Самарская область. Тольятти. VOLGAboatshow">
+                        <![CDATA[http://api.russia.travel/upload/uf/030/03001369512cbafb2f1874284c6a3268.jpg]]></file>
+                </photo>
+                <photo order="2" id="70273">
+                    <file name="Самарская область. Тольятти. VOLGAboatshow">
+                        <![CDATA[http://api.russia.travel/upload/uf/bab/babc109896457b90e49101325d255699.jpg]]></file>
+                </photo>
+                <photo order="0" id="70272" preview="Y">
+                    <file name="Самарская область. Тольятти. VOLGAboatshow">
+                        <![CDATA[http://api.russia.travel/upload/uf/952/952a8e648efcdf42a1e36e1dd07413bb.jpg]]></file>
+                </photo>
+                <photo order="3" id="70271">
+                    <file name="Самарская область. Тольятти. VOLGAboatshow">
+                        <![CDATA[http://api.russia.travel/upload/uf/b55/b55e23a32f425ec740362b7c13ae8cc1.jpg]]></file>
+                </photo>
+            </photos>
+        </item>
+        <item id="284567" published="Y" date="30.09.2015 11:36:53" geo="53.383639965108,49.068874507942">
+            <types>
+                <type><![CDATA[e5fbe058]]></type>
+            </types>
+            <name>
+                <text lang="rus"><![CDATA[Музей Истории Усольского края им. И.Н. Ульянова]]></text>
+            </name>
+            <geo>53.383639965108,49.068874507942</geo>
+            <addressCountry>255003</addressCountry>
+            <addressLocality>213796</addressLocality>
+            <addressArea>278328</addressArea>
+            <addressRegion>9991</addressRegion>
+            <streetAddress>
+                <text lang="rus"><![CDATA[Самарская обл., Шигонский р-н, с. Усолье]]></text>
+            </streetAddress>
+        </item>
+        <item id="284635" published="Y" date="30.09.2015 11:36:53" geo="53.559675701804,51.732329844658">
+            <types>
+                <type><![CDATA[e5fbe058]]></type>
+                <type><![CDATA[fe71e792]]></type>
+            </types>
+            <name>
+                <text lang="rus"><![CDATA[Музей-усадьба &quot;Берегиня&quot;]]></text>
+            </name>
+            <geo>53.559675701804,51.732329844658</geo>
+            <addressCountry>255003</addressCountry>
+            <addressLocality>214753</addressLocality>
+            <addressArea>277746</addressArea>
+            <addressRegion>9991</addressRegion>
+            <streetAddress>
+                <text lang="rus"><![CDATA[Самарская обл., Похвистневский р-н, с. Камышевка]]></text>
+            </streetAddress>
+        </item>
+        <item id="294327" published="Y" date="30.09.2015 11:36:52"
+              image="http://api.russia.travel/upload/iblock/262/2621629a078da52734a68f934c30761a.jpg"
+              geo="53.5219,49.2729">
+            <types>
+                <type><![CDATA[4ed88af2]]></type>
+            </types>
+            <name>
+                <text lang="rus"><![CDATA[Всероссийский фестиваль фэнтези и фантастики &quot;Толкон&quot;]]></text>
+            </name>
+            <geo>53.5219,49.2729</geo>
+            <url>http://www.tolkon.ru</url>
+            <addressCountry>255003</addressCountry>
+            <addressLocality>59164</addressLocality>
+            <addressRegion>9991</addressRegion>
+            <streetAddress>
+                <text lang="rus"><![CDATA[Самарская обл. г. Тольятти, ул. Революционная д. 50 - 126]]></text>
+            </streetAddress>
+            <photos>
+                <photo order="3" id="69913">
+                    <file name="Самарская область. Тольятти. Всероссийский фестиваль фэнтези и фантастики &quot;Толкон&quot;">
+                        <![CDATA[http://api.russia.travel/upload/uf/009/009d267f95202fda923010ab42a93ace.jpg]]></file>
+                </photo>
+                <photo order="1" id="69916">
+                    <file name="Самарская область. Тольятти. Всероссийский фестиваль фэнтези и фантастики &quot;Толкон&quot;">
+                        <![CDATA[http://api.russia.travel/upload/uf/97d/97dbeb2aaa1d5b4f01f572900797ff0c.jpg]]></file>
+                </photo>
+                <photo order="2" id="69915">
+                    <file name="Самарская область. Тольятти. Всероссийский фестиваль фэнтези и фантастики &quot;Толкон&quot;">
+                        <![CDATA[http://api.russia.travel/upload/uf/75a/75a3230c8fb51ef3446516d74f62f7fa.jpg]]></file>
+                </photo>
+                <photo order="0" id="69914" preview="Y">
+                    <file name="Самарская область. Тольятти. Всероссийский фестиваль фэнтези и фантастики &quot;Толкон&quot;">
+                        <![CDATA[http://api.russia.travel/upload/uf/ccb/ccbeef3542a21317d3787047047bef00.jpg]]></file>
+                </photo>
+            </photos>
+        </item>
+        <item id="294314" published="Y" date="30.09.2015 11:36:50"
+              image="http://api.russia.travel/upload/iblock/2e8/2e8555e90a56016aaf1c76ce75a65283.JPG"
+              geo="53.4776,49.3651">
+            <types>
+                <type><![CDATA[bd23fcdb]]></type>
+            </types>
+            <name>
+                <text lang="rus"><![CDATA[Памятник  В.Н. Татищеву]]></text>
+                <text lang="eng"><![CDATA[Monument to Tatischev]]></text>
+            </name>
+            <geo>53.4776,49.3651</geo>
+            <addressCountry>255003</addressCountry>
+            <addressRegion>9991</addressRegion>
+            <streetAddress/>
+            <photos>
+                <photo order="1" id="69921">
+                    <file name="Самарская область. Тольятти. Памятник Татищеву">
+                        <![CDATA[http://api.russia.travel/upload/uf/82f/82fb030cecb94a3b79bcdd8783e0e9fa.JPG]]></file>
+                </photo>
+                <photo order="0" id="69922" preview="Y">
+                    <file name="Самарская область. Тольятти. Памятник Татищеву">
+                        <![CDATA[http://api.russia.travel/upload/uf/057/0579a9d6f685359dc6325d0873f68db3.JPG]]></file>
+                </photo>
+            </photos>
+        </item>
+        <item id="294315" published="Y" date="30.09.2015 11:36:49"
+              image="http://api.russia.travel/upload/iblock/ff2/ff208f45a5863855a70a411919d9927a.JPG"
+              geo="53.45,49.166667">
+            <types>
+                <type><![CDATA[6a35be55]]></type>
+            </types>
+            <name>
+                <text lang="rus"><![CDATA[Жигулевское море]]></text>
+                <text lang="eng"><![CDATA[Zhigulevskoe Sea]]></text>
+            </name>
+            <geo>53.45,49.166667</geo>
+            <addressCountry>255003</addressCountry>
+            <addressLocality>59164</addressLocality>
+            <addressRegion>9991</addressRegion>
+            <streetAddress/>
+            <photos>
+                <photo order="1" id="69966">
+                    <file name="Самарская область. Тольятти. Жигулевское море">
+                        <![CDATA[http://api.russia.travel/upload/uf/b37/b37c238c9203a03bb9d4097d51aabce2.JPG]]></file>
+                </photo>
+                <photo order="0" id="69965" preview="Y">
+                    <file name="Самарская область. Тольятти. Жигулевское море">
+                        <![CDATA[http://api.russia.travel/upload/uf/f37/f3797968c515d8faf4921fd2d43cb87c.JPG]]></file>
+                </photo>
+            </photos>
+        </item>
+        <item id="294316" published="Y" date="30.09.2015 11:36:46"
+              image="http://api.russia.travel/upload/iblock/c56/c563651525c80257e2e6ec6cd7fd059e.JPG"
+              geo="53.912331,51.488036">
+            <types>
+                <type><![CDATA[d0dd40a5]]></type>
+            </types>
+            <name>
+                <text lang="rus"><![CDATA[Голубое озеро]]></text>
+                <text lang="eng"><![CDATA[Blue Lake]]></text>
+            </name>
+            <geo>53.912331,51.488036</geo>
+            <addressCountry>255003</addressCountry>
+            <addressRegion>9991</addressRegion>
+            <streetAddress/>
+            <photos>
+                <photo order="1" id="70003">
+                    <file name="Самарская область. Голубое озеро">
+                        <![CDATA[http://api.russia.travel/upload/uf/1d9/1d972560ef60a78529adcfd7343c92bf.JPG]]></file>
+                </photo>
+                <photo order="0" id="70002" preview="Y">
+                    <file name="Самарская область. Голубое озеро">
+                        <![CDATA[http://api.russia.travel/upload/uf/920/920dbf80a25461c511d00bad1ae25cfa.JPG]]></file>
+                </photo>
+                <photo order="2" id="70001">
+                    <file name="Самарская область. Голубое озеро">
+                        <![CDATA[http://api.russia.travel/upload/uf/fa1/fa1477f50511e64c7b03462359e529bf.JPG]]></file>
+                </photo>
+                <photo order="3" id="70000">
+                    <file name="Самарская область. Голубое озеро">
+                        <![CDATA[http://api.russia.travel/upload/uf/6f3/6f3aa4b67c7f7bca31d13f6243e637c7.JPG]]></file>
+                </photo>
+            </photos>
+        </item>
+        <item id="294333" published="Y" date="30.09.2015 11:36:38"
+              image="http://api.russia.travel/upload/iblock/b9a/b9a52b203fa138e8f32d0a5f0c18b7e8.jpg"
+              geo="53.5088,49.4192">
+            <types>
+                <type><![CDATA[7897e6a3]]></type>
+            </types>
+            <name>
+                <text lang="rus"><![CDATA[Жигулёвская вишня – зимой]]></text>
+            </name>
+            <geo>53.5088,49.4192</geo>
+            <addressCountry>255003</addressCountry>
+            <addressLocality>59164</addressLocality>
+            <addressRegion>9991</addressRegion>
+            <streetAddress/>
+            <photos>
+                <photo order="1" id="70031">
+                    <file name="Самарская область. Тольятти. Фестиваль &quot;Жигулевская вишня-зимой&quot;">
+                        <![CDATA[http://api.russia.travel/upload/uf/550/550fdc790a8f1581ce17781ee2f6b384.jpg]]></file>
+                </photo>
+                <photo order="0" id="70032" preview="Y">
+                    <file name="Самарская область. Тольятти. Фестиваль &quot;Жигулевская вишня-зимой&quot;">
+                        <![CDATA[http://api.russia.travel/upload/uf/62f/62fc4c6227ea29a39f47864481c5eab0.jpg]]></file>
+                </photo>
+                <photo order="2" id="70029">
+                    <file name="Самарская область. Тольятти. Фестиваль &quot;Жигулевская вишня-зимой&quot;">
+                        <![CDATA[http://api.russia.travel/upload/uf/379/3799fad80447b4968d6eda6210903074.jpg]]></file>
+                </photo>
+                <photo order="3" id="70030">
+                    <file name="Самарская область. Тольятти. Фестиваль &quot;Жигулевская вишня-зимой&quot;">
+                        <![CDATA[http://api.russia.travel/upload/uf/ee3/ee33c8dd5def46a9a9e0308f3c2d74b6.jpg]]></file>
+                </photo>
+            </photos>
+        </item>
+        <item id="294285" published="Y" date="22.09.2015 11:16:17"
+              image="http://api.russia.travel/upload/iblock/0a8/0a81852549563857c6f831a76dae6b3b.jpg"
+              geo="53.3556,49.3033">
+            <types>
+                <type><![CDATA[1024133a]]></type>
+            </types>
+            <name>
+                <text lang="rus"><![CDATA[Конные туры]]></text>
+            </name>
+            <geo>53.3556,49.3033</geo>
+            <url>vk.com/stepnoepole</url>
+            <addressCountry>255003</addressCountry>
+            <addressLocality>214240</addressLocality>
+            <addressArea>277956</addressArea>
+            <addressRegion>9991</addressRegion>
+            <streetAddress>
+                <text lang="rus">
+                    <![CDATA[Самарская область, Ставропольский район,  село Жигули, западная граница села,]]></text>
+            </streetAddress>
+            <photos>
+                <photo order="1" id="69788">
+                    <file name="Самарская область. Конные походы вместе с конным клубом &quot;Степное поле&quot;">
+                        <![CDATA[http://api.russia.travel/upload/uf/201/2012736c88fd1c5f5c766e2e977d11cd.JPG]]></file>
+                </photo>
+                <photo order="0" id="69773" preview="Y">
+                    <file name="Самарская область. Конные походы вместе с конным клубом &quot;Степное поле&quot;">
+                        <![CDATA[http://api.russia.travel/upload/uf/557/557f76989838ad9a7bc9b0a220804c53.jpg]]></file>
+                </photo>
+            </photos>
+        </item>
+        <item id="294272" published="Y" date="22.09.2015 11:15:56"
+              image="http://api.russia.travel/upload/iblock/ffc/ffc508a9ca1a424f993e0166b741aed1.JPG"
+              geo="53.4684,49.3659">
+            <types>
+                <type><![CDATA[3e63f301]]></type>
+            </types>
+            <name>
+                <text lang="rus"><![CDATA[Яхтинг]]></text>
+            </name>
+            <geo>53.4684,49.3659</geo>
+            <addressCountry>255003</addressCountry>
+            <addressLocality>59164</addressLocality>
+            <addressRegion>9991</addressRegion>
+            <streetAddress/>
+            <photos>
+                <photo order="1" id="69776">
+                    <file name="Самарская область. Тольятти. Яхт-клуб &quot;Дружба&quot;">
+                        <![CDATA[http://api.russia.travel/upload/uf/ae6/ae62a813acdd8307cc91e504056f807d.JPG]]></file>
+                </photo>
+                <photo order="0" id="69794" preview="Y">
+                    <file name="Самарская область. Тольятти. Яхт-клуб &quot;Дружба&quot;">
+                        <![CDATA[http://api.russia.travel/upload/uf/7d9/7d950cd05fd29bc827e8d4dc4bc240f1.JPG]]></file>
+                </photo>
+            </photos>
+        </item>
+        <item id="294288" published="Y" date="22.09.2015 11:15:47"
+              image="http://api.russia.travel/upload/iblock/39a/39a12cdbe37048984585112dedeb8e98.jpg"
+              geo="53.4776,49.3651">
+            <types>
+                <type><![CDATA[ad416725]]></type>
+            </types>
+            <name>
+                <text lang="rus"><![CDATA[Кайтинг]]></text>
+            </name>
+            <geo>53.4776,49.3651</geo>
+            <addressCountry>255003</addressCountry>
+            <addressLocality>59164</addressLocality>
+            <addressRegion>9991</addressRegion>
+            <streetAddress/>
+            <photos>
+                <photo order="0" id="69778" preview="Y">
+                    <file name="Кайтинг в Самарской области">
+                        <![CDATA[http://api.russia.travel/upload/uf/ca2/ca2545b8bad22d38a115a6147136b89b.jpg]]></file>
+                </photo>
+                <photo order="1" id="69777">
+                    <file name="Кайтинг в Самарской области">
+                        <![CDATA[http://api.russia.travel/upload/uf/0c7/0c7b4b315232f33701935f9054914139.jpg]]></file>
+                </photo>
+            </photos>
+        </item>
+        <item id="294276" published="Y" date="22.09.2015 11:15:23"
+              image="http://api.russia.travel/upload/iblock/00e/00eddd15f3f758db6ef48fe325a1ce24.jpg"
+              geo="53.5045,49.2449">
+            <types>
+                <type><![CDATA[9b44142e]]></type>
+            </types>
+            <name>
+                <text lang="rus"><![CDATA[Дайвинг]]></text>
+            </name>
+            <geo>53.5045,49.2449</geo>
+            <addressCountry>255003</addressCountry>
+            <addressLocality>59164</addressLocality>
+            <addressRegion>9991</addressRegion>
+            <streetAddress/>
+            <photos>
+                <photo order="0" id="69779" preview="Y">
+                    <file name="Самарская область. Дайвинг в &quot;Волжской атлантиде&quot;">
+                        <![CDATA[http://api.russia.travel/upload/uf/cb1/cb1d17ef3978546ee23ec0d7914c24e7.jpg]]></file>
+                </photo>
+                <photo order="1" id="69798">
+                    <file name="Самарская область. Дайвинг в &quot;Волжской атлантиде&quot;">
+                        <![CDATA[http://api.russia.travel/upload/uf/722/722c4704d5c6e3667ce46e903fe99fcb.jpg]]></file>
+                </photo>
+            </photos>
+        </item>
+        <item id="14715" published="Y" date="22.09.2015 11:14:47"
+              image="http://api.russia.travel/upload/iblock/550/5504ca5e56192d380082cd6f11924660.JPG"
+              geo="53.5314575,49.2767209">
+            <types>
+                <type><![CDATA[c7940300]]></type>
+            </types>
+            <name>
+                <text lang="rus"><![CDATA[Спасо-Преображенский собор в городе Тольятти]]></text>
+                <text lang="eng"><![CDATA[Spaso-Preobrazhensky Cathedral in the city of Togliatti]]></text>
+                <text lang="deu"><![CDATA[Spaso-Preobrazhensky Cathedral in the city of Togliatti]]></text>
+                <text lang="fra"><![CDATA[Spaso-Preobrazhensky Cathedral in the city of Togliatti]]></text>
+                <text lang="spa"><![CDATA[Spaso-Preobrazhensky Cathedral in the city of Togliatti]]></text>
+                <text lang="zho"><![CDATA[Spaso-Preobrazhensky Cathedral in the city of Togliatti]]></text>
+                <text lang="jpn"><![CDATA[Spaso-Preobrazhensky Cathedral in the city of Togliatti]]></text>
+                <text lang="ara"><![CDATA[Spaso-Preobrazhensky Cathedral in the city of Togliatti]]></text>
+            </name>
+            <geo>53.5314575,49.2767209</geo>
+            <addressCountry>255003</addressCountry>
+            <addressRegion>9991</addressRegion>
+            <photos>
+                <photo order="0" id="69806" preview="Y">
+                    <file name="Самарская область. Тольятти. Спасо-Преображенский собор">
+                        <![CDATA[http://api.russia.travel/upload/uf/562/562a563c938d28714d31b7d992601cee.JPG]]></file>
+                </photo>
+                <photo order="1" id="69809">
+                    <file name="Самарская область. Тольятти. Спасо-Преображенский собор">
+                        <![CDATA[http://api.russia.travel/upload/uf/f41/f41fda6032e24c0b64d51c5c7c10990e.jpg]]></file>
+                </photo>
+                <photo order="2" id="69808">
+                    <file name="Самарская область. Тольятти. Спасо-Преображенский собор">
+                        <![CDATA[http://api.russia.travel/upload/uf/77d/77d4d7fafb59d005c04f528a3996fa65.JPG]]></file>
+                </photo>
+                <photo order="3" id="69807">
+                    <file name="Самарская область. Тольятти. Спасо-Преображенский собор">
+                        <![CDATA[http://api.russia.travel/upload/uf/108/10863decb12acec747b3b0e35460f254.JPG]]></file>
+                </photo>
+            </photos>
+        </item>
+        <item id="284729" published="Y" date="17.09.2015 10:31:43"
+              image="http://api.russia.travel/upload/iblock/3a6/3a6897f1626fe81bced0d47d96cababa.jpg"
+              geo="53.498395845835,49.337313207969">
+            <types>
+                <type><![CDATA[89b45e33]]></type>
+            </types>
+            <name>
+                <text lang="rus"><![CDATA[Международный музыкальный фестиваль «Барабаны мира»]]></text>
+            </name>
+            <geo>53.498395845835,49.337313207969</geo>
+            <url>https://barabanymira.ru</url>
+            <addressCountry>255003</addressCountry>
+            <addressLocality>59164</addressLocality>
+            <addressRegion>9991</addressRegion>
+            <streetAddress>
+                <text lang="rus"><![CDATA[Самарская обл., г. Тольятти]]></text>
+            </streetAddress>
+            <photos>
+                <photo order="0" id="68236" preview="Y">
+                    <file name="Самарская область. Тольятти. Международный музыкальный фестиваль «Барабаны мира»."
+                          description="Самарская область. Тольятти. Международный музыкальный фестиваль &quot;Барабаны мира&quot;"
+                          authorCopyright="Самарская область">
+                        <![CDATA[http://api.russia.travel/upload/uf/edf/edf8e8a031bab2362fa34fc1e02f7385.jpg]]></file>
+                </photo>
+            </photos>
+        </item>
+        <item id="284730" published="Y" date="17.09.2015 10:31:29"
+              image="http://api.russia.travel/upload/iblock/0e8/0e8f451b0c01ac8ee64fb5ef3b6d2419.jpg"
+              geo="53.484340294579,49.325471841127">
+            <types>
+                <type><![CDATA[89b45e33]]></type>
+            </types>
+            <name>
+                <text lang="rus">
+                    <![CDATA[Международный фестиваль электронной музыки и экстремального спорта «GES FEST» (ГЭС Фест)]]></text>
+            </name>
+            <geo>53.484340294579,49.325471841127</geo>
+            <url>https://gesfest.ru</url>
+            <addressCountry>255003</addressCountry>
+            <addressLocality>59164</addressLocality>
+            <addressRegion>9991</addressRegion>
+            <streetAddress>
+                <text lang="rus"><![CDATA[Самарская обл., Тольятти, восточная часть полуострова Копылово]]></text>
+            </streetAddress>
+            <photos>
+                <photo order="0" id="68237" preview="Y">
+                    <file name="Самарская область. Тольятти. Международный фестиваль электронной музыки и экстремального спорта «GES FEST» (ГЭС Фест)."
+                          description="Самарская область. Тольятти. Международный фестиваль электронной музыки и экстремального спорта &quot;ГЭС Фест&quot;"
+                          authorCopyright="Самарская область">
+                        <![CDATA[http://api.russia.travel/upload/uf/3fc/3fc8b0e4d2260dcf0cc4ed0227e88dbb.jpg]]></file>
+                </photo>
+            </photos>
+        </item>
+        <item id="284692" published="Y" date="17.09.2015 10:24:31"
+              image="http://api.russia.travel/upload/iblock/7c5/7c5d9fecece6070099af2ebbff252600.jpg"
+              geo="53.412047654649,49.346825319067">
+            <types>
+                <type><![CDATA[89b45e33]]></type>
+            </types>
+            <name>
+                <text lang="rus"><![CDATA[Экспедиция на собачьих упряжках]]></text>
+            </name>
+            <geo>53.412047654649,49.346825319067</geo>
+            <addressCountry>255003</addressCountry>
+            <addressLocality>59165</addressLocality>
+            <addressRegion>9991</addressRegion>
+            <streetAddress>
+                <text lang="rus">
+                    <![CDATA[Самарская обл., Жигулевский р-н,  территория национального парка «Самарская Лука», Жигулёвское водохранилище, Жигулевский заповедник, река Волга]]></text>
+            </streetAddress>
+            <photos>
+                <photo order="0" id="69101" preview="Y">
+                    <file name="Самарская область. Тольятти. Гонка &quot;Волга квест&quot;">
+                        <![CDATA[http://api.russia.travel/upload/uf/fd7/fd7694afbd3f0ad316b4e7d6c5562ae8.jpg]]></file>
+                </photo>
+                <photo order="1" id="69103">
+                    <file name="Самарская область. Тольятти. Гонка &quot;Волга квест&quot;">
+                        <![CDATA[http://api.russia.travel/upload/uf/9cd/9cde3bf529a50083fd0eef4807a9da1f.jpg]]></file>
+                </photo>
+                <photo order="2" id="69102">
+                    <file name="Самарская область. Тольятти. Гонка &quot;Волга квест&quot;">
+                        <![CDATA[http://api.russia.travel/upload/uf/866/866e75c3e832fe9bb82112e6915eaecc.jpg]]></file>
+                </photo>
+                <photo order="3" id="69135">
+                    <file name="Самарская область. Тольятти. Гонка &quot;Волга квест&quot;">
+                        <![CDATA[http://api.russia.travel/upload/uf/7c6/7c6db6a385b2ee3780f232a4b26f54e2.jpg]]></file>
+                </photo>
+            </photos>
+        </item>
+        <item id="263451" published="Y" date="17.09.2015 10:20:38"
+              image="http://api.russia.travel/upload/iblock/80f/80f0529750801b2be70a6a850e169828.JPG"
+              geo="53.5527642,49.2972141">
+            <types>
+                <type><![CDATA[63fb7e1f]]></type>
+            </types>
+            <name>
+                <text lang=""><![CDATA[Технический музей им. К. Г. Сахарова  (Технический музей АвтоВАЗа)]]></text>
+            </name>
+            <geo>53.5527642,49.2972141</geo>
+            <url>museum.vaz.ru vk.com/tehmuseum</url>
+            <addressCountry>255003</addressCountry>
+            <addressLocality>59164</addressLocality>
+            <addressRegion>9991</addressRegion>
+            <streetAddress>
+                <text lang=""><![CDATA[Россия, г.Тольятти, Южное шоссе, 137]]></text>
+            </streetAddress>
+            <photos>
+                <photo order="0" id="69184" preview="Y">
+                    <file name="Самарская область. Тольятти. Музей истории техники им. Сахарова">
+                        <![CDATA[http://api.russia.travel/upload/uf/0a6/0a68f6733f57cf9cdf45ec15c46a9ac6.JPG]]></file>
+                </photo>
+                <photo order="1" id="69143">
+                    <file name="Самарская область. Тольятти. Музей истории техники им. Сахарова">
+                        <![CDATA[http://api.russia.travel/upload/uf/efa/efac49a2e8b0f31c03239f09e293e33f.JPG]]></file>
+                </photo>
+                <photo order="2" id="69171">
+                    <file name="Самарская область. Тольятти. Музей истории техники им. Сахарова">
+                        <![CDATA[http://api.russia.travel/upload/uf/813/81337e9da4e5978d190bb4a10c8b7b32.JPG]]></file>
+                </photo>
+            </photos>
+        </item>
+        <item id="294166" published="Y" date="17.09.2015 10:20:00"
+              image="http://api.russia.travel/upload/iblock/64d/64d3b946d14d1555355424b6b538e77f.jpg"
+              geo="53.469248,49.366035">
+            <types>
+                <type><![CDATA[7897e6a3]]></type>
+            </types>
+            <name>
+                <text lang="rus"><![CDATA[Выставка яхт и катеров «VOLGA boat show»]]></text>
+                <text lang="eng"><![CDATA[Boat Show «VOLGA boat show»]]></text>
+            </name>
+            <geo>53.469248,49.366035</geo>
+            <url>volga2014.ru</url>
+            <addressCountry>255003</addressCountry>
+            <addressLocality>59164</addressLocality>
+            <addressRegion>9991</addressRegion>
+            <streetAddress>
+                <text lang="rus">
+                    <![CDATA[Россия, г. Тольятти, Комсомольское шоссе, 36, яхтенный порт &quot;Дружба&quot;]]></text>
+                <text lang="eng"><![CDATA[Russia, Тolyatti, Komsomolskoye Shosse, 36, marina “Druzhba”.]]></text>
+            </streetAddress>
+            <photos>
+                <photo order="0" id="69185" preview="Y">
+                    <file name="Самарская область. Тольятти. Boat Show «VOLGA boat show»">
+                        <![CDATA[http://api.russia.travel/upload/uf/a37/a37ad711547c11479defa0c210ab7a40.jpg]]></file>
+                </photo>
+            </photos>
+        </item>
+        <item id="284545" published="Y" date="01.09.2015 14:52:23" geo="53.551890277521,49.251116494783">
+            <types>
+                <type><![CDATA[e5fbe058]]></type>
+            </types>
+            <name>
+                <text lang="rus"><![CDATA[Технический музей ОАО &quot;Автоваз&quot;]]></text>
+            </name>
+            <geo>53.551890277521,49.251116494783</geo>
+            <addressCountry>255003</addressCountry>
+            <addressLocality>59164</addressLocality>
+            <addressRegion>9991</addressRegion>
+            <streetAddress>
+                <text lang="rus"><![CDATA[Самарская обл., г. Тольятти]]></text>
+            </streetAddress>
+        </item>
+        <item id="288432" published="Y" date="17.06.2015 16:28:41"
+              image="http://api.russia.travel/upload/iblock/a58/a586872fa39c5d435409be09069230c1.jpg"
+              geo="53.517597,49.404304">
+            <types>
+                <type><![CDATA[e5fbe058]]></type>
+                <type><![CDATA[museum_history]]></type>
+            </types>
+            <name>
+                <text lang="rus"><![CDATA[Музей историко-культурного наследия г.Тольятти]]></text>
+            </name>
+            <geo>53.517597,49.404304</geo>
+            <addressLocality>59164</addressLocality>
+            <addressRegion>9991</addressRegion>
+            <streetAddress>
+                <text lang="rus"><![CDATA[ул. Карла Маркса, 27а]]></text>
+            </streetAddress>
+            <photos>
+                <photo order="0" id="51113" preview="Y">
+                    <file><![CDATA[http://api.russia.travel/upload/uf/cbd/cbdaf173a22f944b9207f16db8f89ed7.jpg]]></file>
+                </photo>
+            </photos>
+        </item>
+        <item id="290190" published="Y" date="17.06.2015 16:13:35"
+              image="http://api.russia.travel/upload/iblock/c3b/c3b0b0876e0548402651cf62151c2847.jpg"
+              geo="53.503761,49.402184">
+            <types>
+                <type><![CDATA[theatre_drama]]></type>
+                <type><![CDATA[70b475c1]]></type>
+            </types>
+            <name>
+                <text lang="rus"><![CDATA[Драматический театр «Колесо» имени Г. Б. Дроздова]]></text>
+            </name>
+            <geo>53.503761,49.402184</geo>
+            <addressLocality>59164</addressLocality>
+            <addressRegion>9991</addressRegion>
+            <streetAddress>
+                <text lang="rus"><![CDATA[улица Ленинградская, дом 31]]></text>
+            </streetAddress>
+        </item>
+        <item id="290065" published="Y" date="17.06.2015 16:13:06"
+              image="http://api.russia.travel/upload/iblock/f2a/f2a1c7fc5b667cb937410343db6a930e.jpg"
+              geo="53.511617,49.236131">
+            <types>
+                <type><![CDATA[theatre_drama]]></type>
+                <type><![CDATA[70b475c1]]></type>
+            </types>
+            <name>
+                <text lang="rus"><![CDATA[Театр «Дилижанс»]]></text>
+            </name>
+            <geo>53.511617,49.236131</geo>
+            <url>http://teatrdiligence.ru/</url>
+            <addressLocality>59164</addressLocality>
+            <addressRegion>9991</addressRegion>
+            <streetAddress>
+                <text lang="rus"><![CDATA[улица Степана Разина, дом 8]]></text>
+            </streetAddress>
+            <photos>
+                <photo order="0" id="55780" preview="Y">
+                    <file name="Театр Дилижанс.jpg">
+                        <![CDATA[http://api.russia.travel/upload/uf/04d/04da1e8cd72cf12f580738de634bbb1c.jpg]]></file>
+                    <text lang="rus"><![CDATA[Театр Дилижанс.jpg]]></text>
+                </photo>
+            </photos>
+        </item>
+    </items>
+    <responseCode>200</responseCode>
+    <responseMessage>Запрос успешен</responseMessage>
+</response>

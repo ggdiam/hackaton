@@ -1,0 +1,505 @@
+{"id":"311","name":"Абакан","lat":"53.71339000000","long":"91.48276200000","price":71299,"hotelsCount":3,"ticketsCount":0}
+{"id":"101161","name":"Абзаково","lat":"53.83615800000","long":"58.59528100000","price":45904,"hotelsCount":0,"ticketsCount":83}
+{"id":"101066","name":"Абинск","lat":"44.85510400000","long":"38.15541800000","price":24098,"hotelsCount":37,"ticketsCount":367}
+{"id":"101070","name":"Абрау-Дюрсо","lat":"44.70221900000","long":"37.65513500000","price":24098,"hotelsCount":37,"ticketsCount":367}
+{"id":"101002","name":"Агой","lat":"44.14333200000","long":"39.03061500000","price":30117,"hotelsCount":25,"ticketsCount":187}
+{"id":"102140","name":"Агрыз","lat":"56.54160900000","long":"53.02028100000","price":33590,"hotelsCount":9,"ticketsCount":183}
+{"id":"100751","name":"Адлер","lat":"43.44435500000","long":"39.93934900000","price":25693,"hotelsCount":22,"ticketsCount":187}
+{"id":"7486","name":"Азов","lat":"47.09501200000","long":"39.41653300000","price":29490,"hotelsCount":1,"ticketsCount":168}
+{"id":"101715","name":"Аксай","lat":"47.27447200000","long":"39.86361400000","price":40139,"hotelsCount":0,"ticketsCount":168}
+{"id":"101303","name":"Аксарайская","lat":"46.79503500000","long":"48.00619500000","price":21821,"hotelsCount":2,"ticketsCount":4}
+{"id":"101804","name":"Алапаевск","lat":"57.84468100000","long":"61.70825200000","price":38442,"hotelsCount":11,"ticketsCount":131}
+{"id":"101693","name":"Алекка","lat":"61.86555800000","long":"33.26057100000","price":26356,"hotelsCount":1,"ticketsCount":18}
+{"id":"102091","name":"Александровск-Сахалинский","lat":"50.90194200000","long":"142.15979400000","price":75748,"hotelsCount":0,"ticketsCount":112}
+{"id":"101765","name":"Алексеевка (Самарская область)","lat":"53.25304000000","long":"50.49294900000","price":22960,"hotelsCount":4,"ticketsCount":180}
+{"id":"100920","name":"Алтайский край","lat":"1.00000000000","long":"1.00000000000","price":58349,"hotelsCount":4,"ticketsCount":3}
+{"id":"101231","name":"Алтынжар","lat":"46.26981700000","long":"48.51193100000","price":21821,"hotelsCount":2,"ticketsCount":4}
+{"id":"73514","name":"Алупка","lat":"44.41670000000","long":"34.05000000000","price":25230,"hotelsCount":1,"ticketsCount":521}
+{"id":"69263","name":"Алушта","lat":"44.67631000000","long":"34.40778000000","price":30818,"hotelsCount":3,"ticketsCount":347}
+{"id":"7688","name":"Альметьевск","lat":"54.90067900000","long":"52.30224200000","price":33590,"hotelsCount":9,"ticketsCount":183}
+{"id":"253","name":"Анапа","lat":"44.91764000000","long":"37.32079800000","price":24332,"hotelsCount":20,"ticketsCount":7}
+{"id":"7726","name":"Ангарск","lat":"52.55674300000","long":"103.91303700000","price":76510,"hotelsCount":3,"ticketsCount":145}
+{"id":"7794","name":"Апатиты","lat":"67.58686600000","long":"33.39672500000","price":46941,"hotelsCount":1,"ticketsCount":171}
+{"id":"101440","name":"Аргаяш","lat":"55.49160700000","long":"60.87647900000","price":35501,"hotelsCount":2,"ticketsCount":93}
+{"id":"7841","name":"Арзамас","lat":"55.39234800000","long":"43.83770300000","price":33736,"hotelsCount":1,"ticketsCount":36}
+{"id":"7856","name":"Армавир","lat":"44.97169600000","long":"41.15654800000","price":24098,"hotelsCount":40,"ticketsCount":216}
+{"id":"101132","name":"Арск","lat":"56.07729900000","long":"49.86707800000","price":33590,"hotelsCount":9,"ticketsCount":183}
+{"id":"101581","name":"Артем","lat":"43.35003800000","long":"132.15326600000","price":56405,"hotelsCount":1,"ticketsCount":28}
+{"id":"435","name":"Архангельск","lat":"64.51639100000","long":"40.70134700000","price":32603,"hotelsCount":3,"ticketsCount":154}
+{"id":"100923","name":"Архангельская область","lat":"1.00000000000","long":"1.00000000000","price":43525,"hotelsCount":2,"ticketsCount":8}
+{"id":"101005","name":"Архипо-Осиповка","lat":"44.37141000000","long":"38.53304000000","price":24098,"hotelsCount":37,"ticketsCount":216}
+{"id":"101048","name":"Асбест","lat":"57.01290700000","long":"61.48158900000","price":27125,"hotelsCount":13,"ticketsCount":128}
+{"id":"6619","name":"Астрахань","lat":"46.34320400000","long":"48.05466300000","price":14983,"hotelsCount":19,"ticketsCount":4}
+{"id":"101112","name":"Афанасьево","lat":"56.03181100000","long":"43.72105500000","price":33736,"hotelsCount":0,"ticketsCount":36}
+{"id":"101116","name":"Афонино","lat":"56.26256600000","long":"44.08819700000","price":33736,"hotelsCount":0,"ticketsCount":36}
+{"id":"7974","name":"Ахтубинск","lat":"48.29396600000","long":"46.17214200000","price":21821,"hotelsCount":2,"ticketsCount":4}
+{"id":"7985","name":"Ачинск","lat":"56.27340500000","long":"90.49655100000","price":139875,"hotelsCount":0,"ticketsCount":148}
+{"id":"101439","name":"Аша","lat":"54.99051900000","long":"57.29179300000","price":35501,"hotelsCount":2,"ticketsCount":93}
+{"id":"100998","name":"Аше","lat":"43.95499200000","long":"39.27292800000","price":30117,"hotelsCount":25,"ticketsCount":187}
+{"id":"101101","name":"Багратионовск","lat":"54.38857100000","long":"20.64753300000","price":35029,"hotelsCount":2,"ticketsCount":194}
+{"id":"101946","name":"Баевка","lat":"54.81118500000","long":"20.75916500000","price":35029,"hotelsCount":2,"ticketsCount":194}
+{"id":"101178","name":"Байкал","lat":"51.87046000000","long":"104.79002300000","price":81660,"hotelsCount":2,"ticketsCount":145}
+{"id":"8088","name":"Байкальск","lat":"51.52375800000","long":"104.16088400000","price":73400,"hotelsCount":3,"ticketsCount":145}
+{"id":"8164","name":"Балтийск","lat":"54.66985100000","long":"19.94083900000","price":35029,"hotelsCount":2,"ticketsCount":194}
+{"id":"102032","name":"Барабинск","lat":"55.35370600000","long":"78.36023400000","price":45309,"hotelsCount":4,"ticketsCount":132}
+{"id":"101535","name":"Барлак","lat":"55.21115500000","long":"83.22233300000","price":45309,"hotelsCount":4,"ticketsCount":132}
+{"id":"1582","name":"Барнаул","lat":"53.34437900000","long":"83.74113400000","price":54966,"hotelsCount":5,"ticketsCount":3}
+{"id":"101716","name":"Батайск","lat":"47.11254500000","long":"39.73898800000","price":40139,"hotelsCount":0,"ticketsCount":168}
+{"id":"101717","name":"Белая Калитва","lat":"48.18346300000","long":"40.78208400000","price":40139,"hotelsCount":0,"ticketsCount":168}
+{"id":"61092","name":"Белокуриха","lat":"51.98895300000","long":"84.98464600000","price":57685,"hotelsCount":5,"ticketsCount":4}
+{"id":"102010","name":"Беломорск","lat":"64.53630300000","long":"34.76711500000","price":34988,"hotelsCount":0,"ticketsCount":33}
+{"id":"8393","name":"Белореченск","lat":"44.76882900000","long":"39.85853200000","price":24098,"hotelsCount":37,"ticketsCount":367}
+{"id":"8432","name":"Бердск","lat":"54.78385100000","long":"83.10999600000","price":45309,"hotelsCount":6,"ticketsCount":132}
+{"id":"101911","name":"Береговое","lat":"54.92825200000","long":"20.36584000000","price":35029,"hotelsCount":2,"ticketsCount":194}
+{"id":"101960","name":"Бережковское","lat":"54.62629600000","long":"21.64529100000","price":35029,"hotelsCount":2,"ticketsCount":194}
+{"id":"101766","name":"Берёза","lat":"53.53265500000","long":"50.14105200000","price":22960,"hotelsCount":4,"ticketsCount":180}
+{"id":"101642","name":"Бесленеевская","lat":"44.23304800000","long":"40.72519400000","price":24098,"hotelsCount":36,"ticketsCount":367}
+{"id":"101006","name":"Бетта","lat":"44.37447400000","long":"38.39718200000","price":24098,"hotelsCount":36,"ticketsCount":367}
+{"id":"8565","name":"Биробиджан","lat":"48.78423500000","long":"132.97799200000","price":58738,"hotelsCount":0,"ticketsCount":11}
+{"id":"102159","name":"Благовещенская","lat":"45.05044200000","long":"37.12685800000","price":24098,"hotelsCount":37,"ticketsCount":367}
+{"id":"101951","name":"Богатово","lat":"54.84485800000","long":"21.35062000000","price":35029,"hotelsCount":2,"ticketsCount":194}
+{"id":"101106","name":"Богородск","lat":"56.09568100000","long":"43.52742800000","price":33736,"hotelsCount":0,"ticketsCount":36}
+{"id":"101820","name":"Богучар","lat":"49.93771300000","long":"40.55805100000","price":40778,"hotelsCount":1,"ticketsCount":7}
+{"id":"61131","name":"Болгар","lat":"54.98338200000","long":"49.03263900000","price":33590,"hotelsCount":9,"ticketsCount":183}
+{"id":"101961","name":"Большаково","lat":"54.87996600000","long":"21.65779800000","price":35029,"hotelsCount":2,"ticketsCount":194}
+{"id":"101177","name":"Большая Речка","lat":"51.95513700000","long":"104.72076100000","price":81660,"hotelsCount":2,"ticketsCount":145}
+{"id":"101143","name":"Большое Болдино","lat":"55.00170300000","long":"45.31824900000","price":33736,"hotelsCount":0,"ticketsCount":36}
+{"id":"101170","name":"Большое Голоустное","lat":"52.03809300000","long":"105.40627300000","price":81660,"hotelsCount":2,"ticketsCount":145}
+{"id":"101009","name":"Большой Кичмай","lat":"43.83399700000","long":"39.50935000000","price":30117,"hotelsCount":25,"ticketsCount":187}
+{"id":"101045","name":"Бор","lat":"56.35501800000","long":"44.07402200000","price":33736,"hotelsCount":1,"ticketsCount":36}
+{"id":"8762","name":"Борисоглебск","lat":"51.36661700000","long":"42.09748400000","price":40778,"hotelsCount":1,"ticketsCount":7}
+{"id":"100872","name":"Боровое","lat":"54.69357600000","long":"82.64525400000","price":45309,"hotelsCount":4,"ticketsCount":132}
+{"id":"4933","name":"Братск","lat":"56.24888700000","long":"101.71633700000","price":81660,"hotelsCount":2,"ticketsCount":145}
+{"id":"101430","name":"Бреды","lat":"52.41890200000","long":"60.34603300000","price":35501,"hotelsCount":2,"ticketsCount":93}
+{"id":"40811","name":"Бугульма","lat":"54.52810900000","long":"52.81149700000","price":33590,"hotelsCount":9,"ticketsCount":183}
+{"id":"101304","name":"Бузанский","lat":"46.73391200000","long":"48.03128100000","price":21821,"hotelsCount":2,"ticketsCount":4}
+{"id":"101136","name":"Буинск","lat":"54.97279100000","long":"48.28244900000","price":33590,"hotelsCount":9,"ticketsCount":183}
+{"id":"101176","name":"Бурдугуз","lat":"52.05885800000","long":"104.61259800000","price":81660,"hotelsCount":2,"ticketsCount":145}
+{"id":"102055","name":"Валаам","lat":"61.38744900000","long":"30.95448200000","price":34988,"hotelsCount":0,"ticketsCount":33}
+{"id":"9168","name":"Вардане","lat":"43.74210100000","long":"39.54811900000","price":30117,"hotelsCount":25,"ticketsCount":187}
+{"id":"101432","name":"Варна","lat":"53.38089500000","long":"60.97644300000","price":35501,"hotelsCount":2,"ticketsCount":93}
+{"id":"100905","name":"Вая","lat":"60.60200500000","long":"58.41647700000","price":53127,"hotelsCount":0,"ticketsCount":80}
+{"id":"102152","name":"Верхние Мандроги","lat":"60.93031400000","long":"34.04414900000","price":15091,"hotelsCount":141,"ticketsCount":156}
+{"id":"101301","name":"Верхний Баскунчак","lat":"48.23528500000","long":"46.71812400000","price":21821,"hotelsCount":2,"ticketsCount":4}
+{"id":"101442","name":"Верхний Уфалей","lat":"56.06175400000","long":"60.23051700000","price":35501,"hotelsCount":2,"ticketsCount":93}
+{"id":"101969","name":"Веселовка","lat":"54.58789300000","long":"22.01495700000","price":35029,"hotelsCount":2,"ticketsCount":194}
+{"id":"102039","name":"Вешенская","lat":"49.63671000000","long":"41.71585200000","price":40139,"hotelsCount":0,"ticketsCount":168}
+{"id":"101705","name":"Вилга","lat":"61.81948900000","long":"34.09039300000","price":34988,"hotelsCount":0,"ticketsCount":33}
+{"id":"61310","name":"Витязево","lat":"44.98975500000","long":"37.26646900000","price":21852,"hotelsCount":38,"ticketsCount":368}
+{"id":"101315","name":"Вихоревка","lat":"56.10277600000","long":"101.19228600000","price":81660,"hotelsCount":2,"ticketsCount":145}
+{"id":"5914","name":"Владивосток","lat":"43.16679900000","long":"132.03981700000","price":50571,"hotelsCount":13,"ticketsCount":28}
+{"id":"9494","name":"Владикавказ","lat":"43.02814800000","long":"44.65452800000","price":69137,"hotelsCount":0,"ticketsCount":0}
+{"id":"100768","name":"Владыкино","lat":"58.50538300000","long":"29.89281200000","price":15091,"hotelsCount":141,"ticketsCount":156}
+{"id":"101917","name":"Водстрой","lat":"48.84223300000","long":"44.56333600000","price":37381,"hotelsCount":0,"ticketsCount":19}
+{"id":"4819","name":"Волгоград","lat":"48.67632100000","long":"44.47184300000","price":17704,"hotelsCount":21,"ticketsCount":19}
+{"id":"100881","name":"Волгоград (и окрестности)","lat":"48.67632100000","long":"44.47184300000","price":37381,"hotelsCount":0,"ticketsCount":19}
+{"id":"42192","name":"Волгодонск","lat":"47.51438900000","long":"42.15566300000","price":40139,"hotelsCount":0,"ticketsCount":168}
+{"id":"9569","name":"Волжская область","lat":"55.87020000000","long":"48.35610000000","price":28979,"hotelsCount":16,"ticketsCount":183}
+{"id":"61083","name":"Волжский","lat":"48.79630500000","long":"44.76338000000","price":17432,"hotelsCount":3,"ticketsCount":19}
+{"id":"100806","name":"Волково","lat":"60.17232100000","long":"29.09059000000","price":15091,"hotelsCount":141,"ticketsCount":156}
+{"id":"101010","name":"Волконка","lat":"43.86760100000","long":"39.38987400000","price":30117,"hotelsCount":25,"ticketsCount":187}
+{"id":"101064","name":"Волочаевское","lat":"54.69904800000","long":"20.22151000000","price":35029,"hotelsCount":2,"ticketsCount":194}
+{"id":"2767","name":"Воронеж","lat":"51.67187000000","long":"39.19162400000","price":23653,"hotelsCount":27,"ticketsCount":7}
+{"id":"100801","name":"Всеволожск","lat":"60.01145200000","long":"30.65046000000","price":15091,"hotelsCount":141,"ticketsCount":156}
+{"id":"9731","name":"Выборг","lat":"60.70748700000","long":"28.75411600000","price":15091,"hotelsCount":147,"ticketsCount":156}
+{"id":"61278","name":"Выкса","lat":"55.31939800000","long":"42.18267300000","price":33736,"hotelsCount":0,"ticketsCount":36}
+{"id":"9765","name":"Высоцк","lat":"60.60479800000","long":"28.59948300000","price":15091,"hotelsCount":142,"ticketsCount":156}
+{"id":"101544","name":"Вяртсиля","lat":"62.18161900000","long":"30.69121300000","price":34988,"hotelsCount":0,"ticketsCount":33}
+{"id":"101114","name":"Гавриловка","lat":"56.22760200000","long":"43.72325900000","price":33736,"hotelsCount":0,"ticketsCount":36}
+{"id":"9903","name":"Гатчина","lat":"59.54866600000","long":"30.11966600000","price":15091,"hotelsCount":141,"ticketsCount":156}
+{"id":"101105","name":"Гвардейск","lat":"54.65082000000","long":"21.08481000000","price":35029,"hotelsCount":2,"ticketsCount":194}
+{"id":"5997","name":"Геленджик","lat":"44.55958800000","long":"38.08324500000","price":19675,"hotelsCount":8,"ticketsCount":400}
+{"id":"100917","name":"Головинка","lat":"43.79145600000","long":"39.46524500000","price":30117,"hotelsCount":25,"ticketsCount":187}
+{"id":"101976","name":"Голубево","lat":"54.61530400000","long":"20.41299500000","price":35029,"hotelsCount":2,"ticketsCount":194}
+{"id":"101072","name":"Голубицкая","lat":"45.32022100000","long":"37.28012400000","price":22396,"hotelsCount":38,"ticketsCount":209}
+{"id":"101115","name":"Горбатовка","lat":"56.25333200000","long":"43.74473900000","price":33736,"hotelsCount":0,"ticketsCount":36}
+{"id":"101107","name":"Городец","lat":"56.64184700000","long":"43.47374200000","price":33736,"hotelsCount":0,"ticketsCount":36}
+{"id":"101065","name":"Горячий Ключ","lat":"44.62451900000","long":"39.12673900000","price":24098,"hotelsCount":37,"ticketsCount":216}
+{"id":"101082","name":"Гостилицы","lat":"59.74620900000","long":"29.62476600000","price":15091,"hotelsCount":141,"ticketsCount":156}
+{"id":"100762","name":"Грозный","lat":"43.28229300000","long":"45.68698200000","price":81387,"hotelsCount":0,"ticketsCount":0}
+{"id":"101643","name":"Гуамка","lat":"44.23051600000","long":"39.90917500000","price":24098,"hotelsCount":37,"ticketsCount":216}
+{"id":"101945","name":"Гурьевск (Калининград)","lat":"54.78100600000","long":"20.62043300000","price":35029,"hotelsCount":2,"ticketsCount":194}
+{"id":"101968","name":"Гусев","lat":"54.59220000000","long":"22.20966200000","price":35029,"hotelsCount":2,"ticketsCount":194}
+{"id":"10387","name":"Дагомыс","lat":"43.65940400000","long":"39.66082600000","price":30117,"hotelsCount":25,"ticketsCount":187}
+{"id":"100823","name":"Дачное","lat":"46.73416500000","long":"142.73703300000","price":75748,"hotelsCount":0,"ticketsCount":112}
+{"id":"101000","name":"Дедеркой","lat":"44.06061500000","long":"39.13468800000","price":30117,"hotelsCount":25,"ticketsCount":187}
+{"id":"101067","name":"Джанхот","lat":"44.46632300000","long":"38.17189400000","price":24098,"hotelsCount":37,"ticketsCount":367}
+{"id":"101004","name":"Джубга","lat":"44.32486600000","long":"38.70006100000","price":24098,"hotelsCount":37,"ticketsCount":367}
+{"id":"10612","name":"Дзержинск","lat":"56.23382700000","long":"43.41510200000","price":33736,"hotelsCount":0,"ticketsCount":36}
+{"id":"101108","name":"Дивеево","lat":"55.04661700000","long":"43.24593000000","price":32638,"hotelsCount":1,"ticketsCount":30}
+{"id":"101117","name":"Дивногорск","lat":"55.96613100000","long":"92.35925300000","price":139875,"hotelsCount":0,"ticketsCount":148}
+{"id":"102060","name":"Дивногорье","lat":"50.95962000000","long":"39.28892000000","price":40778,"hotelsCount":1,"ticketsCount":7}
+{"id":"101068","name":"Дивноморское","lat":"44.50069300000","long":"38.12895400000","price":24098,"hotelsCount":37,"ticketsCount":216}
+{"id":"101947","name":"Добрино","lat":"54.81428800000","long":"20.87242800000","price":35029,"hotelsCount":2,"ticketsCount":194}
+{"id":"101324","name":"Домбай","lat":"43.29037800000","long":"41.64009600000","price":22468,"hotelsCount":0,"ticketsCount":232}
+{"id":"101980","name":"Дружное","lat":"54.78021200000","long":"20.35313500000","price":35029,"hotelsCount":2,"ticketsCount":194}
+{"id":"10916","name":"Евпатория","lat":"45.20650000000","long":"33.36450000000","price":36285,"hotelsCount":1,"ticketsCount":351}
+{"id":"10938","name":"Ейск","lat":"46.70257100000","long":"38.26398000000","price":24098,"hotelsCount":38,"ticketsCount":179}
+{"id":"4368","name":"Екатеринбург","lat":"56.82746400000","long":"60.57838200000","price":18823,"hotelsCount":64,"ticketsCount":131}
+{"id":"100840","name":"Екатеринбург (и окрестности)","lat":"56.82746400000","long":"60.57838200000","price":38442,"hotelsCount":11,"ticketsCount":131}
+{"id":"61094","name":"Елабуга","lat":"55.76136200000","long":"52.08161200000","price":33590,"hotelsCount":9,"ticketsCount":183}
+{"id":"101926","name":"Елань","lat":"50.95129500000","long":"43.78720900000","price":37381,"hotelsCount":0,"ticketsCount":19}
+{"id":"100752","name":"Енисейск","lat":"58.40647100000","long":"92.19561700000","price":139875,"hotelsCount":0,"ticketsCount":148}
+{"id":"101918","name":"Ерзовка","lat":"48.94015400000","long":"44.63344400000","price":37381,"hotelsCount":0,"ticketsCount":19}
+{"id":"11035","name":"Ессентуки","lat":"44.04808800000","long":"42.86520300000","price":14301,"hotelsCount":10,"ticketsCount":167}
+{"id":"11111","name":"Железноводск","lat":"44.13695800000","long":"43.01671600000","price":43532,"hotelsCount":0,"ticketsCount":503}
+{"id":"60985","name":"Железногорск","lat":"56.22356300000","long":"93.53231400000","price":139875,"hotelsCount":0,"ticketsCount":148}
+{"id":"101316","name":"Железногорск-Илимский","lat":"56.56866000000","long":"104.13293800000","price":81660,"hotelsCount":2,"ticketsCount":145}
+{"id":"101141","name":"Заинск","lat":"55.30848800000","long":"52.05698400000","price":33590,"hotelsCount":9,"ticketsCount":183}
+{"id":"101952","name":"Залесье","lat":"54.84352100000","long":"21.52463700000","price":35029,"hotelsCount":2,"ticketsCount":194}
+{"id":"101672","name":"Зама","lat":"53.46004600000","long":"107.51587200000","price":81660,"hotelsCount":2,"ticketsCount":145}
+{"id":"100804","name":"Заозерье","lat":"59.72634300000","long":"28.72332000000","price":15091,"hotelsCount":141,"ticketsCount":156}
+{"id":"101810","name":"Заречный","lat":"56.81941200000","long":"61.33996200000","price":38442,"hotelsCount":11,"ticketsCount":131}
+{"id":"12638","name":"Заречье","lat":"59.34746900000","long":"28.62656500000","price":15091,"hotelsCount":141,"ticketsCount":156}
+{"id":"101434","name":"Зауральский","lat":"54.78695200000","long":"61.24721800000","price":35501,"hotelsCount":2,"ticketsCount":93}
+{"id":"11520","name":"Зеленогорск","lat":"60.19732000000","long":"29.69342500000","price":15091,"hotelsCount":144,"ticketsCount":156}
+{"id":"11521","name":"Зеленоградск","lat":"54.97855600000","long":"20.52869000000","price":21176,"hotelsCount":6,"ticketsCount":194}
+{"id":"101133","name":"Зеленодольск","lat":"55.85827000000","long":"48.51458900000","price":33590,"hotelsCount":9,"ticketsCount":183}
+{"id":"11584","name":"Златоуст","lat":"55.18599100000","long":"59.67793800000","price":35501,"hotelsCount":2,"ticketsCount":93}
+{"id":"101919","name":"Знаменск","lat":"48.58620100000","long":"45.73738400000","price":21821,"hotelsCount":2,"ticketsCount":4}
+{"id":"101970","name":"Знаменск (Калининград)","lat":"54.61453600000","long":"21.22068400000","price":35029,"hotelsCount":2,"ticketsCount":194}
+{"id":"100802","name":"Зюзино","lat":"45.69496800000","long":"47.61591700000","price":21821,"hotelsCount":2,"ticketsCount":4}
+{"id":"101436","name":"Зюраткуль","lat":"54.93162700000","long":"59.23317300000","price":35501,"hotelsCount":2,"ticketsCount":93}
+{"id":"101055","name":"Ивангород","lat":"59.36957900000","long":"28.26254400000","price":15091,"hotelsCount":141,"ticketsCount":156}
+{"id":"100755","name":"Игарка","lat":"67.46875200000","long":"86.71634900000","price":139875,"hotelsCount":0,"ticketsCount":148}
+{"id":"100855","name":"Изумруд","lat":"57.07023000000","long":"61.40543600000","price":38442,"hotelsCount":11,"ticketsCount":131}
+{"id":"101921","name":"Иловля","lat":"49.30989200000","long":"44.00818500000","price":37381,"hotelsCount":0,"ticketsCount":19}
+{"id":"101087","name":"Ильичево","lat":"60.26033800000","long":"29.76404800000","price":46200,"hotelsCount":0,"ticketsCount":156}
+{"id":"101805","name":"Ирбит","lat":"57.68368300000","long":"63.07045900000","price":38442,"hotelsCount":11,"ticketsCount":131}
+{"id":"2500","name":"Иркутск","lat":"52.29497000000","long":"104.34881300000","price":63912,"hotelsCount":24,"ticketsCount":145}
+{"id":"102028","name":"Искитим","lat":"54.63478700000","long":"83.30714500000","price":45309,"hotelsCount":4,"ticketsCount":132}
+{"id":"102037","name":"Кабаклы","lat":"55.25880700000","long":"76.34060100000","price":45309,"hotelsCount":4,"ticketsCount":132}
+{"id":"100830","name":"Кабардинка","lat":"44.62724600000","long":"37.92935200000","price":24098,"hotelsCount":37,"ticketsCount":216}
+{"id":"2944","name":"Казань","lat":"55.78938700000","long":"49.09768200000","price":19640,"hotelsCount":56,"ticketsCount":183}
+{"id":"100756","name":"Казань (и окрестности)","lat":"55.78938700000","long":"49.09768200000","price":33590,"hotelsCount":9,"ticketsCount":183}
+{"id":"101007","name":"Казачий Брод","lat":"43.50808900000","long":"39.98459800000","price":30117,"hotelsCount":25,"ticketsCount":187}
+{"id":"2745","name":"Калининград","lat":"54.71027000000","long":"20.51091400000","price":15662,"hotelsCount":17,"ticketsCount":194}
+{"id":"100844","name":"Калининград (субъект РФ)","lat":"54.71027000000","long":"20.51091400000","price":35029,"hotelsCount":2,"ticketsCount":194}
+{"id":"100822","name":"Каменка (Ленинградская область)","lat":"59.59261700000","long":"28.20034700000","price":15091,"hotelsCount":141,"ticketsCount":156}
+{"id":"100829","name":"Каменогорск","lat":"60.98792900000","long":"29.11878600000","price":15091,"hotelsCount":141,"ticketsCount":156}
+{"id":"101728","name":"Каменоломни","lat":"47.66511300000","long":"40.19929500000","price":40139,"hotelsCount":0,"ticketsCount":168}
+{"id":"12156","name":"Каменск Уральский","lat":"56.42567200000","long":"61.96418300000","price":38442,"hotelsCount":11,"ticketsCount":131}
+{"id":"101230","name":"Камызяк","lat":"46.11220200000","long":"48.07090700000","price":21821,"hotelsCount":2,"ticketsCount":4}
+{"id":"12180","name":"Камышин","lat":"50.09676200000","long":"45.40763200000","price":37381,"hotelsCount":0,"ticketsCount":19}
+{"id":"101541","name":"Кандалакша","lat":"67.16637000000","long":"32.39727900000","price":46941,"hotelsCount":1,"ticketsCount":171}
+{"id":"101768","name":"Кануевка","lat":"53.15308000000","long":"49.27111800000","price":22960,"hotelsCount":4,"ticketsCount":180}
+{"id":"101300","name":"Капустин Яр","lat":"48.56096300000","long":"45.81199500000","price":21821,"hotelsCount":2,"ticketsCount":4}
+{"id":"101157","name":"Карагайский","lat":"54.12394400000","long":"59.51826200000","price":35501,"hotelsCount":2,"ticketsCount":93}
+{"id":"101135","name":"Каратун","lat":"55.23280300000","long":"48.39497100000","price":33590,"hotelsCount":9,"ticketsCount":183}
+{"id":"102030","name":"Каргат","lat":"55.21871700000","long":"80.29974400000","price":45309,"hotelsCount":4,"ticketsCount":132}
+{"id":"101431","name":"Карталы","lat":"53.05462200000","long":"60.64728500000","price":35501,"hotelsCount":2,"ticketsCount":93}
+{"id":"100876","name":"Каршевитое","lat":"48.46864000000","long":"45.25985100000","price":37381,"hotelsCount":0,"ticketsCount":19}
+{"id":"101722","name":"Каштановка","lat":"54.86928800000","long":"20.49342400000","price":35029,"hotelsCount":2,"ticketsCount":194}
+{"id":"5585","name":"Кемерово","lat":"55.34154300000","long":"86.12257000000","price":53974,"hotelsCount":4,"ticketsCount":1}
+{"id":"102011","name":"Кемь","lat":"64.95136700000","long":"34.58549800000","price":34988,"hotelsCount":0,"ticketsCount":33}
+{"id":"102029","name":"Керамкомбинат","lat":"54.44127100000","long":"83.35741500000","price":45309,"hotelsCount":4,"ticketsCount":132}
+{"id":"102056","name":"Киннерма","lat":"61.52959900000","long":"32.83337000000","price":34988,"hotelsCount":0,"ticketsCount":33}
+{"id":"102033","name":"Киржинское","lat":"55.34330900000","long":"77.96286000000","price":45309,"hotelsCount":4,"ticketsCount":132}
+{"id":"101769","name":"Кириллинский","lat":"53.56421900000","long":"50.31988500000","price":22960,"hotelsCount":4,"ticketsCount":180}
+{"id":"60879","name":"Кировск","lat":"67.60005300000","long":"33.74087100000","price":46941,"hotelsCount":1,"ticketsCount":183}
+{"id":"12700","name":"Кисловодск","lat":"43.91651900000","long":"42.76684600000","price":17022,"hotelsCount":9,"ticketsCount":422}
+{"id":"73499","name":"Коктебель","lat":"44.95000000000","long":"35.25000000000","price":27249,"hotelsCount":0,"ticketsCount":539}
+{"id":"101978","name":"Колосовка","lat":"54.80185700000","long":"20.30333000000","price":35029,"hotelsCount":2,"ticketsCount":194}
+{"id":"100836","name":"Колпино","lat":"59.76438200000","long":"30.57562300000","price":15091,"hotelsCount":141,"ticketsCount":156}
+{"id":"101955","name":"Комсомольск","lat":"54.62735000000","long":"20.75629300000","price":35029,"hotelsCount":2,"ticketsCount":194}
+{"id":"101932","name":"Короцко","lat":"57.94043300000","long":"33.25203200000","price":41649,"hotelsCount":0,"ticketsCount":7}
+{"id":"101763","name":"Корсаков","lat":"46.63160200000","long":"142.79851900000","price":75748,"hotelsCount":0,"ticketsCount":112}
+{"id":"102059","name":"Костёнки","lat":"51.39602800000","long":"39.04421500000","price":40778,"hotelsCount":1,"ticketsCount":7}
+{"id":"101047","name":"Косулино","lat":"56.73459100000","long":"60.98670500000","price":38442,"hotelsCount":11,"ticketsCount":131}
+{"id":"101920","name":"Котельниково","lat":"47.64438700000","long":"43.13375100000","price":37381,"hotelsCount":0,"ticketsCount":19}
+{"id":"60840","name":"Красная Поляна","lat":"43.67160900000","long":"40.19682500000","price":68166,"hotelsCount":9,"ticketsCount":178}
+{"id":"2874","name":"Краснодар","lat":"45.03463900000","long":"38.97319400000","price":18995,"hotelsCount":60,"ticketsCount":171}
+{"id":"13388","name":"Красноярск","lat":"55.98475600000","long":"92.91208400000","price":52807,"hotelsCount":19,"ticketsCount":148}
+{"id":"101111","name":"Красные Баки","lat":"57.12251000000","long":"45.16051900000","price":33736,"hotelsCount":0,"ticketsCount":36}
+{"id":"101732","name":"Красный Колос","lat":"47.40086100000","long":"39.94304800000","price":40139,"hotelsCount":0,"ticketsCount":168}
+{"id":"102158","name":"Красный курган","lat":"45.01467800000","long":"37.34574800000","price":24098,"hotelsCount":37,"ticketsCount":216}
+{"id":"101984","name":"Красный Сулин","lat":"47.88886300000","long":"40.07510500000","price":40139,"hotelsCount":0,"ticketsCount":168}
+{"id":"101053","name":"Кронштадт","lat":"59.99799300000","long":"29.74696600000","price":15091,"hotelsCount":141,"ticketsCount":156}
+{"id":"101438","name":"Кропачево","lat":"55.00904100000","long":"57.98755100000","price":35501,"hotelsCount":2,"ticketsCount":93}
+{"id":"13488","name":"Кропоткин","lat":"45.43330000000","long":"40.56660000000","price":31887,"hotelsCount":0,"ticketsCount":206}
+{"id":"101142","name":"Круглое Поле","lat":"55.63982100000","long":"52.17179100000","price":33590,"hotelsCount":9,"ticketsCount":169}
+{"id":"13522","name":"Крым","lat":"45.30780050000","long":"34.56300750000","price":25230,"hotelsCount":20,"ticketsCount":387}
+{"id":"101536","name":"Кудряшевский","lat":"55.09288000000","long":"82.76773400000","price":45309,"hotelsCount":4,"ticketsCount":132}
+{"id":"101130","name":"Кукмор","lat":"56.18583600000","long":"50.89281900000","price":33590,"hotelsCount":9,"ticketsCount":169}
+{"id":"101134","name":"Куланга","lat":"55.46171700000","long":"48.42673300000","price":33590,"hotelsCount":9,"ticketsCount":169}
+{"id":"101725","name":"Куликово","lat":"54.93092000000","long":"20.32586400000","price":35029,"hotelsCount":2,"ticketsCount":194}
+{"id":"101049","name":"Кунгурка","lat":"56.64576800000","long":"60.23874800000","price":38442,"hotelsCount":11,"ticketsCount":131}
+{"id":"100779","name":"Кунцево","lat":"58.83481500000","long":"34.77545800000","price":41649,"hotelsCount":0,"ticketsCount":7}
+{"id":"101139","name":"Курганинск","lat":"44.90103000000","long":"40.57482800000","price":24098,"hotelsCount":37,"ticketsCount":367}
+{"id":"101173","name":"Курма","lat":"53.18244300000","long":"106.96631600000","price":81660,"hotelsCount":2,"ticketsCount":145}
+{"id":"100877","name":"Курумоч","lat":"53.47805300000","long":"50.07373700000","price":22960,"hotelsCount":4,"ticketsCount":180}
+{"id":"13863","name":"Кыштым","lat":"55.71571800000","long":"60.53793000000","price":35501,"hotelsCount":2,"ticketsCount":93}
+{"id":"101077","name":"Лабинск","lat":"44.62875300000","long":"40.74659800000","price":24098,"hotelsCount":37,"ticketsCount":216}
+{"id":"101500","name":"Лабышка","lat":"55.46374300000","long":"49.00709700000","price":33590,"hotelsCount":9,"ticketsCount":169}
+{"id":"101975","name":"Ладушкин","lat":"54.57349500000","long":"20.16049300000","price":35029,"hotelsCount":2,"ticketsCount":194}
+{"id":"44016","name":"Лазаревское","lat":"43.90994300000","long":"39.33675900000","price":30117,"hotelsCount":29,"ticketsCount":187}
+{"id":"101308","name":"Лаишево","lat":"55.39898800000","long":"49.53246900000","price":33590,"hotelsCount":9,"ticketsCount":169}
+{"id":"101062","name":"Ласкино","lat":"54.64844000000","long":"20.44611200000","price":35029,"hotelsCount":2,"ticketsCount":194}
+{"id":"69554","name":"Лахденпохья","lat":"61.51666700000","long":"30.20000000000","price":17217,"hotelsCount":110,"ticketsCount":34}
+{"id":"100780","name":"Лахта","lat":"66.98281300000","long":"41.15371700000","price":46941,"hotelsCount":1,"ticketsCount":183}
+{"id":"101137","name":"Лениногорск","lat":"54.59061700000","long":"52.46903400000","price":33590,"hotelsCount":9,"ticketsCount":169}
+{"id":"101063","name":"Лесной","lat":"55.01611600000","long":"20.61002200000","price":35029,"hotelsCount":2,"ticketsCount":194}
+{"id":"101084","name":"Лесогорский","lat":"61.04005200000","long":"28.92382800000","price":15091,"hotelsCount":142,"ticketsCount":156}
+{"id":"101228","name":"Лиман","lat":"45.78158800000","long":"47.23032600000","price":21821,"hotelsCount":2,"ticketsCount":4}
+{"id":"100837","name":"Лисий Нос","lat":"60.01524800000","long":"30.00912100000","price":15091,"hotelsCount":141,"ticketsCount":156}
+{"id":"60325","name":"Листвянка","lat":"51.83390400000","long":"104.90602700000","price":81467,"hotelsCount":3,"ticketsCount":145}
+{"id":"101052","name":"Ломоносов","lat":"59.90330600000","long":"29.74435000000","price":15091,"hotelsCount":142,"ticketsCount":156}
+{"id":"14270","name":"Лоо","lat":"43.70856500000","long":"39.59489900000","price":30117,"hotelsCount":25,"ticketsCount":187}
+{"id":"102012","name":"Лоухи","lat":"66.07057500000","long":"33.03903200000","price":34988,"hotelsCount":0,"ticketsCount":33}
+{"id":"101088","name":"Лужки","lat":"60.27408400000","long":"28.99539700000","price":15091,"hotelsCount":141,"ticketsCount":156}
+{"id":"101543","name":"Лумиваара","lat":"61.43971100000","long":"30.14915700000","price":34988,"hotelsCount":0,"ticketsCount":33}
+{"id":"61270","name":"Лысково","lat":"56.07501300000","long":"45.07455500000","price":33736,"hotelsCount":0,"ticketsCount":36}
+{"id":"100784","name":"Люблино","lat":"57.36470900000","long":"31.36273700000","price":41649,"hotelsCount":0,"ticketsCount":7}
+{"id":"101979","name":"Люблино (Калининград)","lat":"54.73743300000","long":"20.29815800000","price":35029,"hotelsCount":2,"ticketsCount":194}
+{"id":"1571","name":"Магнитогорск","lat":"53.39991300000","long":"59.08521800000","price":35501,"hotelsCount":2,"ticketsCount":88}
+{"id":"100999","name":"Макопсе","lat":"43.99127500000","long":"39.21707800000","price":30117,"hotelsCount":25,"ticketsCount":187}
+{"id":"101912","name":"Малиновка (Калининград)","lat":"54.95003100000","long":"20.44002100000","price":35029,"hotelsCount":2,"ticketsCount":194}
+{"id":"101913","name":"Мамоново","lat":"54.46368400000","long":"19.94036800000","price":35029,"hotelsCount":2,"ticketsCount":194}
+{"id":"101718","name":"Матросы","lat":"61.78315300000","long":"33.81309100000","price":34988,"hotelsCount":0,"ticketsCount":33}
+{"id":"41263","name":"Махачкала","lat":"42.98613400000","long":"47.51211500000","price":23212,"hotelsCount":0,"ticketsCount":0}
+{"id":"102007","name":"Медведевка","lat":"54.80320700000","long":"20.52099400000","price":35029,"hotelsCount":2,"ticketsCount":194}
+{"id":"101074","name":"Медведовская","lat":"45.46122000000","long":"39.03132500000","price":24098,"hotelsCount":36,"ticketsCount":367}
+{"id":"101959","name":"Междуречье","lat":"54.62766900000","long":"21.52782700000","price":35029,"hotelsCount":2,"ticketsCount":194}
+{"id":"101931","name":"Мельница","lat":"58.25688300000","long":"33.27865600000","price":41649,"hotelsCount":0,"ticketsCount":7}
+{"id":"101310","name":"Менделеевск","lat":"55.89461400000","long":"52.31401200000","price":33590,"hotelsCount":9,"ticketsCount":169}
+{"id":"14887","name":"Миасс","lat":"55.05388800000","long":"60.11953700000","price":28004,"hotelsCount":4,"ticketsCount":73}
+{"id":"100838","name":"Миголоски","lat":"58.83289200000","long":"34.24560000000","price":41649,"hotelsCount":0,"ticketsCount":7}
+{"id":"100875","name":"Миллерово","lat":"48.93231700000","long":"40.39443400000","price":40139,"hotelsCount":0,"ticketsCount":168}
+{"id":"1320","name":"Минеральные Воды","lat":"44.20504200000","long":"43.17074500000","price":15662,"hotelsCount":2,"ticketsCount":167}
+{"id":"14935","name":"Минусинск","lat":"53.71061900000","long":"91.71888800000","price":139875,"hotelsCount":0,"ticketsCount":148}
+{"id":"101923","name":"Михайловка (Волгоградская область)","lat":"50.06522200000","long":"43.24511800000","price":37381,"hotelsCount":0,"ticketsCount":19}
+{"id":"15066","name":"Мончегорск","lat":"67.92854700000","long":"32.89442100000","price":46941,"hotelsCount":1,"ticketsCount":183}
+{"id":"101537","name":"Морозово","lat":"54.76823800000","long":"83.21592800000","price":45309,"hotelsCount":4,"ticketsCount":132}
+{"id":"101058","name":"Морское","lat":"55.22557700000","long":"20.89579700000","price":35029,"hotelsCount":2,"ticketsCount":194}
+{"id":"100789","name":"Мурино","lat":"51.47530100000","long":"104.37970300000","price":81660,"hotelsCount":2,"ticketsCount":145}
+{"id":"1249","name":"Мурманск","lat":"68.96720700000","long":"33.15900600000","price":46941,"hotelsCount":1,"ticketsCount":183}
+{"id":"101723","name":"Муромское","lat":"54.89539800000","long":"20.48815100000","price":35029,"hotelsCount":2,"ticketsCount":194}
+{"id":"101080","name":"Мяглово","lat":"59.89176200000","long":"30.68982600000","price":15091,"hotelsCount":141,"ticketsCount":156}
+{"id":"1453","name":"Набережные Челны","lat":"55.70686200000","long":"52.34992700000","price":29846,"hotelsCount":15,"ticketsCount":169}
+{"id":"101109","name":"Навашино","lat":"55.54157200000","long":"42.19580600000","price":33736,"hotelsCount":0,"ticketsCount":36}
+{"id":"2300","name":"Нальчик","lat":"43.44311200000","long":"43.55229900000","price":23828,"hotelsCount":2,"ticketsCount":140}
+{"id":"15390","name":"Находка","lat":"42.78648600000","long":"132.87843400000","price":59905,"hotelsCount":3,"ticketsCount":28}
+{"id":"101003","name":"Небуг","lat":"44.17302300000","long":"39.00331600000","price":30117,"hotelsCount":25,"ticketsCount":187}
+{"id":"15416","name":"Невьянск","lat":"57.49853000000","long":"60.21868100000","price":38442,"hotelsCount":11,"ticketsCount":131}
+{"id":"101993","name":"Негвидовка","lat":"47.27562400000","long":"39.36027500000","price":40139,"hotelsCount":0,"ticketsCount":168}
+{"id":"101104","name":"Некрасово","lat":"54.90318300000","long":"20.66844600000","price":35029,"hotelsCount":2,"ticketsCount":194}
+{"id":"100846","name":"Неман","lat":"55.01743500000","long":"21.97754200000","price":35029,"hotelsCount":2,"ticketsCount":194}
+{"id":"101967","name":"Нестеров","lat":"54.63007300000","long":"22.57636000000","price":35029,"hotelsCount":2,"ticketsCount":194}
+{"id":"1644","name":"Нефтеюганск","lat":"61.07817700000","long":"72.58942300000","price":54838,"hotelsCount":1,"ticketsCount":101}
+{"id":"101972","name":"Нивенское","lat":"54.58309200000","long":"20.56741000000","price":35029,"hotelsCount":2,"ticketsCount":194}
+{"id":"1496","name":"Нижневартовск","lat":"60.90212700000","long":"76.58984700000","price":35865,"hotelsCount":4,"ticketsCount":2}
+{"id":"101008","name":"Нижнее Орехово","lat":"43.70762500000","long":"39.77569200000","price":30117,"hotelsCount":24,"ticketsCount":187}
+{"id":"101770","name":"Нижнее Санчелеево","lat":"53.67795100000","long":"49.43237900000","price":22960,"hotelsCount":4,"ticketsCount":180}
+{"id":"15515","name":"Нижнекамск","lat":"55.63197800000","long":"51.80638400000","price":33590,"hotelsCount":9,"ticketsCount":169}
+{"id":"101313","name":"Нижнеудинск","lat":"54.89965200000","long":"99.03740500000","price":81660,"hotelsCount":2,"ticketsCount":145}
+{"id":"101050","name":"Нижние Серги","lat":"56.64948700000","long":"59.30046800000","price":38442,"hotelsCount":11,"ticketsCount":131}
+{"id":"2180","name":"Нижний Новгород","lat":"56.32653200000","long":"44.00530500000","price":15045,"hotelsCount":36,"ticketsCount":36}
+{"id":"100753","name":"Нижний Новгород (и окрестности)","lat":"56.32653200000","long":"44.00530500000","price":33736,"hotelsCount":0,"ticketsCount":36}
+{"id":"15526","name":"Нижний Тагил","lat":"57.93758200000","long":"60.04432000000","price":22906,"hotelsCount":13,"ticketsCount":131}
+{"id":"100854","name":"Никола (Иркутская область)","lat":"51.89332700000","long":"104.88869200000","price":81660,"hotelsCount":2,"ticketsCount":145}
+{"id":"101644","name":"Николаенко","lat":"44.41025800000","long":"39.67720400000","price":24098,"hotelsCount":36,"ticketsCount":367}
+{"id":"100820","name":"Никольское","lat":"59.51111800000","long":"34.92684800000","price":15091,"hotelsCount":141,"ticketsCount":156}
+{"id":"101046","name":"Новая Тура","lat":"55.86703900000","long":"48.84131800000","price":33590,"hotelsCount":9,"ticketsCount":169}
+{"id":"60893","name":"Новгород","lat":"58.52225300000","long":"31.29801200000","price":41649,"hotelsCount":0,"ticketsCount":7}
+{"id":"101764","name":"Новоалександровск","lat":"47.05598000000","long":"142.71997900000","price":75748,"hotelsCount":0,"ticketsCount":112}
+{"id":"101924","name":"Новоаннинский","lat":"50.52557200000","long":"42.67493300000","price":37381,"hotelsCount":0,"ticketsCount":19}
+{"id":"6196","name":"Новокузнецк","lat":"53.81302700000","long":"87.16702800000","price":60390,"hotelsCount":5,"ticketsCount":1}
+{"id":"100913","name":"Новомихайловский","lat":"44.23848600000","long":"38.81657700000","price":27735,"hotelsCount":25,"ticketsCount":187}
+{"id":"101925","name":"Новониколаевский","lat":"50.96848500000","long":"42.36724500000","price":37381,"hotelsCount":0,"ticketsCount":19}
+{"id":"41730","name":"Новороссийск","lat":"44.71029400000","long":"37.76324700000","price":24098,"hotelsCount":35,"ticketsCount":216}
+{"id":"101060","name":"Новосёлово","lat":"54.46143200000","long":"20.13815700000","price":35029,"hotelsCount":3,"ticketsCount":194}
+{"id":"1706","name":"Новосибирск","lat":"55.03008800000","long":"82.92050600000","price":40443,"hotelsCount":39,"ticketsCount":132}
+{"id":"45177","name":"Новоуральск","lat":"57.24599800000","long":"60.08340900000","price":38442,"hotelsCount":11,"ticketsCount":131}
+{"id":"101821","name":"Новохоперск","lat":"51.09892000000","long":"41.65735800000","price":40778,"hotelsCount":1,"ticketsCount":7}
+{"id":"101744","name":"Новочеркасск","lat":"47.44883500000","long":"40.07496200000","price":21323,"hotelsCount":1,"ticketsCount":168}
+{"id":"101750","name":"Новошахтинск","lat":"47.78541400000","long":"39.92126500000","price":40139,"hotelsCount":0,"ticketsCount":168}
+{"id":"101762","name":"Ноглики","lat":"51.79642900000","long":"143.14074600000","price":75748,"hotelsCount":0,"ticketsCount":112}
+{"id":"6199","name":"Норильск","lat":"69.28402700000","long":"88.24823000000","price":139875,"hotelsCount":0,"ticketsCount":148}
+{"id":"101956","name":"Озерки (Калининград)","lat":"54.62891400000","long":"20.89426800000","price":35029,"hotelsCount":2,"ticketsCount":194}
+{"id":"102035","name":"Озеро Карачинское","lat":"55.33593500000","long":"76.95723800000","price":45309,"hotelsCount":4,"ticketsCount":132}
+{"id":"16006","name":"Олонец","lat":"60.98554700000","long":"32.98382700000","price":34988,"hotelsCount":0,"ticketsCount":33}
+{"id":"100873","name":"Ольгинка","lat":"44.20815400000","long":"38.88456400000","price":30117,"hotelsCount":24,"ticketsCount":187}
+{"id":"1640","name":"Омск","lat":"54.96563400000","long":"73.44802200000","price":41027,"hotelsCount":11,"ticketsCount":163}
+{"id":"101229","name":"Оранжереи","lat":"45.84574300000","long":"47.55739500000","price":21821,"hotelsCount":2,"ticketsCount":4}
+{"id":"6286","name":"Оренбург","lat":"51.76440200000","long":"55.12718600000","price":33224,"hotelsCount":6,"ticketsCount":15}
+{"id":"100890","name":"Орловка","lat":"54.79085100000","long":"20.53334000000","price":35029,"hotelsCount":2,"ticketsCount":194}
+{"id":"101819","name":"Острогожск","lat":"50.87312900000","long":"39.08632000000","price":40778,"hotelsCount":1,"ticketsCount":7}
+{"id":"101973","name":"Отважное","lat":"54.61655400000","long":"20.55251300000","price":35029,"hotelsCount":2,"ticketsCount":194}
+{"id":"102112","name":"Отрадный","lat":"53.35744300000","long":"51.39828200000","price":22960,"hotelsCount":4,"ticketsCount":180}
+{"id":"102116","name":"Оха","lat":"53.58964000000","long":"142.95457600000","price":75748,"hotelsCount":0,"ticketsCount":112}
+{"id":"101056","name":"Павловск","lat":"59.68841400000","long":"30.45381000000","price":15091,"hotelsCount":141,"ticketsCount":156}
+{"id":"101754","name":"Павло-Очаково","lat":"47.02224800000","long":"39.07908900000","price":40139,"hotelsCount":0,"ticketsCount":168}
+{"id":"101175","name":"Патроны","lat":"52.16796200000","long":"104.47437600000","price":81660,"hotelsCount":2,"ticketsCount":145}
+{"id":"16554","name":"Первоуральск","lat":"56.90678000000","long":"59.96076600000","price":29165,"hotelsCount":12,"ticketsCount":131}
+{"id":"101771","name":"Переволоки","lat":"53.24865900000","long":"49.17502100000","price":22960,"hotelsCount":4,"ticketsCount":180}
+{"id":"101977","name":"Переславское","lat":"54.81813400000","long":"20.27406500000","price":35029,"hotelsCount":2,"ticketsCount":194}
+{"id":"101073","name":"Пересыпь","lat":"45.34335800000","long":"37.13046400000","price":24098,"hotelsCount":37,"ticketsCount":368}
+{"id":"3414","name":"Пермь","lat":"57.99714300000","long":"56.19384100000","price":21647,"hotelsCount":25,"ticketsCount":80}
+{"id":"101086","name":"Песочный (Санкт-Петербург)","lat":"60.12284800000","long":"30.15701200000","price":15091,"hotelsCount":141,"ticketsCount":156}
+{"id":"100857","name":"Петергоф","lat":"59.87684800000","long":"29.91599200000","price":31992,"hotelsCount":1,"ticketsCount":149}
+{"id":"101950","name":"Петино","lat":"54.83933500000","long":"21.27543900000","price":35029,"hotelsCount":2,"ticketsCount":194}
+{"id":"101061","name":"Пионерский","lat":"54.95397700000","long":"20.22997600000","price":35029,"hotelsCount":2,"ticketsCount":194}
+{"id":"101540","name":"Пиренга","lat":"67.55574300000","long":"32.31150100000","price":46941,"hotelsCount":1,"ticketsCount":183}
+{"id":"100813","name":"Покровское","lat":"47.39646000000","long":"38.90860000000","price":40139,"hotelsCount":0,"ticketsCount":168}
+{"id":"101553","name":"Полазна","lat":"58.29145200000","long":"56.36458200000","price":53127,"hotelsCount":0,"ticketsCount":80}
+{"id":"101059","name":"Полесск","lat":"54.86095000000","long":"21.11602600000","price":35029,"hotelsCount":2,"ticketsCount":194}
+{"id":"102115","name":"Поронайск","lat":"49.23046500000","long":"143.10296800000","price":75748,"hotelsCount":0,"ticketsCount":112}
+{"id":"102119","name":"Похвистнево","lat":"53.64605100000","long":"52.12642900000","price":22960,"hotelsCount":4,"ticketsCount":180}
+{"id":"101102","name":"Правдинск","lat":"54.44563200000","long":"21.02357500000","price":35029,"hotelsCount":2,"ticketsCount":194}
+{"id":"101724","name":"Прибой","lat":"54.93978400000","long":"20.39773100000","price":35029,"hotelsCount":2,"ticketsCount":194}
+{"id":"101720","name":"Приморск","lat":"54.73682000000","long":"20.01415200000","price":35029,"hotelsCount":2,"ticketsCount":194}
+{"id":"101078","name":"Псебай","lat":"44.10614000000","long":"40.78394100000","price":24098,"hotelsCount":35,"ticketsCount":216}
+{"id":"101957","name":"Пушкарево","lat":"54.61821600000","long":"21.36998300000","price":35029,"hotelsCount":2,"ticketsCount":194}
+{"id":"100866","name":"Пушкин","lat":"59.71213700000","long":"30.39164800000","price":15091,"hotelsCount":142,"ticketsCount":156}
+{"id":"17442","name":"Пятигорск","lat":"44.04885300000","long":"43.07445800000","price":28591,"hotelsCount":4,"ticketsCount":503}
+{"id":"102135","name":"Пятиморск","lat":"48.64076000000","long":"43.59964400000","price":37381,"hotelsCount":0,"ticketsCount":19}
+{"id":"100850","name":"Рамонь","lat":"51.91050300000","long":"39.28838900000","price":40778,"hotelsCount":1,"ticketsCount":7}
+{"id":"101807","name":"Рассоха","lat":"56.70881000000","long":"61.02399400000","price":38442,"hotelsCount":11,"ticketsCount":131}
+{"id":"101051","name":"Реж","lat":"57.37020500000","long":"61.38813900000","price":38442,"hotelsCount":11,"ticketsCount":131}
+{"id":"100839","name":"Репино","lat":"60.16613700000","long":"29.85396800000","price":34228,"hotelsCount":0,"ticketsCount":149}
+{"id":"49196","name":"Республика Карелия","lat":"0.00000000000","long":"0.00000000000","price":34988,"hotelsCount":0,"ticketsCount":33}
+{"id":"101963","name":"Ржевское","lat":"55.07732700000","long":"21.76696800000","price":35029,"hotelsCount":2,"ticketsCount":194}
+{"id":"102034","name":"Рождественка","lat":"55.36995100000","long":"77.48477400000","price":45309,"hotelsCount":4,"ticketsCount":132}
+{"id":"102005","name":"Романово","lat":"54.89350500000","long":"20.26226200000","price":35029,"hotelsCount":2,"ticketsCount":194}
+{"id":"101760","name":"Романовская","lat":"47.54028000000","long":"42.02006900000","price":40139,"hotelsCount":0,"ticketsCount":168}
+{"id":"3977","name":"Ростов-на-Дону","lat":"47.23607400000","long":"39.69676600000","price":22548,"hotelsCount":34,"ticketsCount":168}
+{"id":"100883","name":"Рощино","lat":"60.27063600000","long":"29.61978900000","price":15091,"hotelsCount":141,"ticketsCount":156}
+{"id":"102054","name":"Рускеала","lat":"61.93615200000","long":"30.58193200000","price":34988,"hotelsCount":0,"ticketsCount":33}
+{"id":"102006","name":"Рябиновка","lat":"54.82764500000","long":"20.50717700000","price":35029,"hotelsCount":2,"ticketsCount":194}
+{"id":"101307","name":"Савино","lat":"55.72763000000","long":"48.72503400000","price":33590,"hotelsCount":9,"ticketsCount":169}
+{"id":"101538","name":"Садовый","lat":"55.13726100000","long":"82.95012400000","price":45309,"hotelsCount":4,"ticketsCount":132}
+{"id":"2908","name":"Самара","lat":"53.29517200000","long":"50.18108800000","price":14301,"hotelsCount":35,"ticketsCount":180}
+{"id":"101808","name":"Самоцвет","lat":"57.61035400000","long":"61.79237300000","price":38442,"hotelsCount":11,"ticketsCount":131}
+{"id":"3005","name":"Санкт-Петербург","lat":"59.93905000000","long":"30.31580000000","price":12261,"hotelsCount":480,"ticketsCount":156}
+{"id":"100826","name":"Санкт-Петербург (и окрестности)","lat":"59.93905000000","long":"30.31580000000","price":15091,"hotelsCount":141,"ticketsCount":156}
+{"id":"3999","name":"Саратов","lat":"51.55177300000","long":"45.97550600000","price":25084,"hotelsCount":20,"ticketsCount":0}
+{"id":"100976","name":"Саратовская область","lat":"52.00000000000","long":"46.00000000000","price":28979,"hotelsCount":5,"ticketsCount":0}
+{"id":"101172","name":"Сарма","lat":"53.07558400000","long":"106.79681400000","price":81660,"hotelsCount":2,"ticketsCount":145}
+{"id":"61165","name":"Саров","lat":"54.93333300000","long":"43.31666700000","price":19224,"hotelsCount":110,"ticketsCount":12}
+{"id":"18161","name":"Сатка","lat":"55.04165200000","long":"59.03952700000","price":35501,"hotelsCount":2,"ticketsCount":93}
+{"id":"101171","name":"Сахюрта","lat":"53.02047200000","long":"106.88347600000","price":81660,"hotelsCount":2,"ticketsCount":145}
+{"id":"60459","name":"Саяногорск","lat":"53.09070200000","long":"91.40474100000","price":92530,"hotelsCount":0,"ticketsCount":0}
+{"id":"18207","name":"Светлогорск","lat":"54.94350100000","long":"20.15347700000","price":25868,"hotelsCount":6,"ticketsCount":194}
+{"id":"101974","name":"Светлое","lat":"54.57279400000","long":"20.36339500000","price":35029,"hotelsCount":2,"ticketsCount":194}
+{"id":"101910","name":"Светлый Яр","lat":"48.47097600000","long":"44.76795800000","price":37381,"hotelsCount":0,"ticketsCount":19}
+{"id":"101085","name":"Светогорск","lat":"61.10956900000","long":"28.85710000000","price":15091,"hotelsCount":141,"ticketsCount":156}
+{"id":"6449","name":"Севастополь","lat":"44.60000000000","long":"33.53330000000","price":29312,"hotelsCount":4,"ticketsCount":193}
+{"id":"18258","name":"Северодвинск","lat":"64.56653300000","long":"39.83054200000","price":33285,"hotelsCount":0,"ticketsCount":191}
+{"id":"101232","name":"Селитренное","lat":"47.17197600000","long":"47.45710900000","price":21821,"hotelsCount":2,"ticketsCount":4}
+{"id":"102042","name":"Семикараковск","lat":"47.51989700000","long":"40.79520700000","price":40139,"hotelsCount":0,"ticketsCount":168}
+{"id":"18407","name":"Серов","lat":"59.60086600000","long":"60.61063100000","price":38442,"hotelsCount":11,"ticketsCount":131}
+{"id":"18421","name":"Сестрорецк","lat":"60.09950800000","long":"29.94942900000","price":38117,"hotelsCount":0,"ticketsCount":149}
+{"id":"101441","name":"Силач","lat":"55.99897800000","long":"60.43593500000","price":35501,"hotelsCount":2,"ticketsCount":93}
+{"id":"6782","name":"Симферополь","lat":"44.96160000000","long":"34.10380000000","price":32715,"hotelsCount":1,"ticketsCount":193}
+{"id":"101962","name":"Славск","lat":"55.04252100000","long":"21.67051300000","price":35029,"hotelsCount":2,"ticketsCount":194}
+{"id":"101138","name":"Славянск-на-Кубани","lat":"45.24714300000","long":"38.12467000000","price":24098,"hotelsCount":36,"ticketsCount":367}
+{"id":"101948","name":"Славянское","lat":"54.84330000000","long":"20.97614900000","price":35029,"hotelsCount":2,"ticketsCount":194}
+{"id":"100845","name":"Советск","lat":"55.07436000000","long":"21.87314100000","price":35029,"hotelsCount":2,"ticketsCount":194}
+{"id":"101809","name":"Совхозный","lat":"56.76562200000","long":"60.56506400000","price":38442,"hotelsCount":11,"ticketsCount":131}
+{"id":"101909","name":"Сокрутовка","lat":"47.91206800000","long":"46.53816300000","price":21821,"hotelsCount":2,"ticketsCount":4}
+{"id":"100907","name":"Соловецкий","lat":"65.00270200000","long":"35.75228400000","price":34988,"hotelsCount":0,"ticketsCount":33}
+{"id":"100997","name":"Солоники","lat":"43.88546600000","long":"39.37701900000","price":30117,"hotelsCount":24,"ticketsCount":187}
+{"id":"101904","name":"Соляной","lat":"48.43669100000","long":"44.43994600000","price":37381,"hotelsCount":0,"ticketsCount":19}
+{"id":"18771","name":"Сорочинск","lat":"52.43330000000","long":"53.15000000000","price":17022,"hotelsCount":0,"ticketsCount":67}
+{"id":"18773","name":"Сортавала","lat":"61.69556800000","long":"30.67875000000","price":34988,"hotelsCount":0,"ticketsCount":33}
+{"id":"18820","name":"Сочи","lat":"43.58682600000","long":"39.72014300000","price":24332,"hotelsCount":80,"ticketsCount":187}
+{"id":"100858","name":"Сочи (и окрестности)","lat":"43.58682600000","long":"39.72014300000","price":30117,"hotelsCount":24,"ticketsCount":187}
+{"id":"101539","name":"Среднеуральск","lat":"57.00028900000","long":"60.47666700000","price":38442,"hotelsCount":11,"ticketsCount":131}
+{"id":"4335","name":"Ставрополь","lat":"45.03218400000","long":"41.95622800000","price":28486,"hotelsCount":7,"ticketsCount":4}
+{"id":"18887","name":"Старая Русса","lat":"57.99507900000","long":"31.34488400000","price":31604,"hotelsCount":1,"ticketsCount":7}
+{"id":"101330","name":"Старочеркасская","lat":"47.25720100000","long":"40.05388200000","price":40139,"hotelsCount":0,"ticketsCount":168}
+{"id":"60318","name":"Стегаловка","lat":"52.41380300000","long":"38.31156200000","price":35829,"hotelsCount":110,"ticketsCount":0}
+{"id":"100799","name":"Стрельна","lat":"59.85374300000","long":"30.03524400000","price":15091,"hotelsCount":141,"ticketsCount":156}
+{"id":"101971","name":"Стрельня","lat":"54.50683800000","long":"20.57805100000","price":35029,"hotelsCount":2,"ticketsCount":194}
+{"id":"73500","name":"Судак","lat":"44.85000000000","long":"34.96670000000","price":31354,"hotelsCount":0,"ticketsCount":581}
+{"id":"101076","name":"Сукко","lat":"44.78206200000","long":"37.40132200000","price":24098,"hotelsCount":36,"ticketsCount":216}
+{"id":"101075","name":"Су-Псех","lat":"44.85293100000","long":"37.35335400000","price":24098,"hotelsCount":36,"ticketsCount":216}
+{"id":"2408","name":"Сургут","lat":"61.22986100000","long":"73.43387000000","price":47257,"hotelsCount":6,"ticketsCount":101}
+{"id":"19175","name":"Сызрань","lat":"53.15609100000","long":"48.45759500000","price":22960,"hotelsCount":4,"ticketsCount":180}
+{"id":"101154","name":"Сыростан","lat":"55.06240000000","long":"59.90774000000","price":35501,"hotelsCount":2,"ticketsCount":93}
+{"id":"101694","name":"Сямозеро","lat":"61.89570100000","long":"33.30537400000","price":34988,"hotelsCount":0,"ticketsCount":33}
+{"id":"19232","name":"Таганрог","lat":"47.21467800000","long":"38.90252500000","price":28263,"hotelsCount":5,"ticketsCount":177}
+{"id":"101314","name":"Тайшет","lat":"55.92757300000","long":"98.00504600000","price":81660,"hotelsCount":2,"ticketsCount":145}
+{"id":"100871","name":"Тамань","lat":"45.16534900000","long":"36.68576600000","price":24098,"hotelsCount":36,"ticketsCount":367}
+{"id":"102038","name":"Татарск","lat":"55.21916500000","long":"75.98373400000","price":45309,"hotelsCount":4,"ticketsCount":132}
+{"id":"102041","name":"Тацинская","lat":"48.19817600000","long":"41.26567300000","price":40139,"hotelsCount":0,"ticketsCount":168}
+{"id":"19460","name":"Темрюк","lat":"45.28100100000","long":"37.39691900000","price":24098,"hotelsCount":35,"ticketsCount":367}
+{"id":"100808","name":"Теплый Стан","lat":"53.97148700000","long":"50.16071700000","price":22960,"hotelsCount":4,"ticketsCount":180}
+{"id":"19546","name":"Тимашевск","lat":"45.60907300000","long":"38.94358000000","price":24098,"hotelsCount":36,"ticketsCount":216}
+{"id":"101081","name":"Токсово","lat":"60.15588400000","long":"30.52491800000","price":15091,"hotelsCount":141,"ticketsCount":156}
+{"id":"19651","name":"Тольятти","lat":"53.53455200000","long":"49.34783000000","price":15662,"hotelsCount":12,"ticketsCount":180}
+{"id":"4556","name":"Томск","lat":"56.44653300000","long":"85.00108000000","price":47629,"hotelsCount":15,"ticketsCount":2}
+{"id":"101083","name":"Торфяновка","lat":"60.59490500000","long":"27.93953300000","price":15091,"hotelsCount":141,"ticketsCount":156}
+{"id":"61166","name":"Троицк","lat":"54.10863400000","long":"61.57904900000","price":32282,"hotelsCount":3,"ticketsCount":73}
+{"id":"19802","name":"Туапсе","lat":"44.10402100000","long":"39.07483700000","price":29040,"hotelsCount":29,"ticketsCount":150}
+{"id":"101155","name":"Тургояк","lat":"55.16196400000","long":"60.14179300000","price":35501,"hotelsCount":2,"ticketsCount":93}
+{"id":"102117","name":"Тымовское","lat":"50.84723400000","long":"142.66531700000","price":75748,"hotelsCount":0,"ticketsCount":112}
+{"id":"4500","name":"Тюмень","lat":"57.16081200000","long":"65.50902700000","price":21681,"hotelsCount":21,"ticketsCount":39}
+{"id":"102031","name":"Убинское","lat":"55.30606700000","long":"79.68801900000","price":45309,"hotelsCount":4,"ticketsCount":132}
+{"id":"101433","name":"Увельский","lat":"54.44296500000","long":"61.36841000000","price":35501,"hotelsCount":2,"ticketsCount":93}
+{"id":"102100","name":"Углегорск","lat":"49.08243100000","long":"142.07270900000","price":75748,"hotelsCount":0,"ticketsCount":112}
+{"id":"20057","name":"Улан-Удэ","lat":"51.82693400000","long":"107.65703600000","price":77906,"hotelsCount":14,"ticketsCount":1}
+{"id":"101309","name":"Урняк","lat":"56.23081000000","long":"50.00562800000","price":33590,"hotelsCount":9,"ticketsCount":169}
+{"id":"101140","name":"Уруссу","lat":"54.58028600000","long":"53.46333800000","price":33590,"hotelsCount":9,"ticketsCount":169}
+{"id":"102082","name":"Урюпинск","lat":"50.80017600000","long":"42.03757400000","price":37381,"hotelsCount":0,"ticketsCount":19}
+{"id":"101311","name":"Усолье-Сибирское","lat":"52.74043100000","long":"103.64106900000","price":81660,"hotelsCount":2,"ticketsCount":145}
+{"id":"20205","name":"Уссурийск","lat":"43.78955800000","long":"131.96564400000","price":52322,"hotelsCount":2,"ticketsCount":28}
+{"id":"41140","name":"Усть-Илимск","lat":"58.00104200000","long":"102.67943100000","price":81660,"hotelsCount":2,"ticketsCount":145}
+{"id":"101437","name":"Усть-Катав","lat":"54.93199800000","long":"58.18431900000","price":35501,"hotelsCount":2,"ticketsCount":93}
+{"id":"61282","name":"Усть-Качка","lat":"58.02289300000","long":"55.69144500000","price":53127,"hotelsCount":0,"ticketsCount":80}
+{"id":"101761","name":"Усть-Койсуг","lat":"47.13944200000","long":"39.57045000000","price":40139,"hotelsCount":0,"ticketsCount":168}
+{"id":"41132","name":"Усть-Кут","lat":"56.78999700000","long":"105.70507700000","price":81660,"hotelsCount":2,"ticketsCount":145}
+{"id":"101169","name":"Утулик","lat":"51.54490000000","long":"104.05557600000","price":81660,"hotelsCount":2,"ticketsCount":145}
+{"id":"20263","name":"Уфа","lat":"54.77589300000","long":"56.04619000000","price":20320,"hotelsCount":14,"ticketsCount":83}
+{"id":"101071","name":"Фадеево","lat":"45.06221900000","long":"37.55775100000","price":24098,"hotelsCount":36,"ticketsCount":367}
+{"id":"20336","name":"Феодосия","lat":"45.04880000000","long":"35.37910000000","price":28291,"hotelsCount":1,"ticketsCount":193}
+{"id":"101180","name":"Фролищи","lat":"56.42666400000","long":"42.65109600000","price":33736,"hotelsCount":0,"ticketsCount":36}
+{"id":"101922","name":"Фролово","lat":"49.76308000000","long":"43.65784300000","price":37381,"hotelsCount":0,"ticketsCount":19}
+{"id":"2761","name":"Хабаровск","lat":"48.42760300000","long":"135.13648700000","price":52322,"hotelsCount":9,"ticketsCount":11}
+{"id":"101302","name":"Харабали","lat":"47.40183700000","long":"47.25866100000","price":21821,"hotelsCount":2,"ticketsCount":4}
+{"id":"100754","name":"Хатанга","lat":"71.91964000000","long":"102.69799200000","price":139875,"hotelsCount":0,"ticketsCount":148}
+{"id":"102114","name":"Холмск","lat":"47.04577800000","long":"142.05560000000","price":75748,"hotelsCount":0,"ticketsCount":112}
+{"id":"100821","name":"Хорошево","lat":"57.79630500000","long":"31.21550600000","price":41649,"hotelsCount":0,"ticketsCount":7}
+{"id":"100995","name":"Хоста","lat":"43.52022400000","long":"39.86145500000","price":30117,"hotelsCount":26,"ticketsCount":187}
+{"id":"100884","name":"Хужир","lat":"53.20304000000","long":"107.34453500000","price":81660,"hotelsCount":2,"ticketsCount":145}
+{"id":"102157","name":"Цемдолина","lat":"44.75546000000","long":"37.71667200000","price":24098,"hotelsCount":36,"ticketsCount":216}
+{"id":"20747","name":"Чайковский","lat":"56.75704000000","long":"54.13970600000","price":34963,"hotelsCount":1,"ticketsCount":80}
+{"id":"102036","name":"Чаны","lat":"55.30822400000","long":"76.77081700000","price":45309,"hotelsCount":4,"ticketsCount":132}
+{"id":"102120","name":"Чапаевск","lat":"52.96953100000","long":"49.70042000000","price":22960,"hotelsCount":4,"ticketsCount":180}
+{"id":"937","name":"Челябинск","lat":"55.12166500000","long":"61.30618800000","price":21393,"hotelsCount":19,"ticketsCount":93}
+{"id":"101435","name":"Чербакуль","lat":"54.97702400000","long":"60.37271500000","price":35501,"hotelsCount":2,"ticketsCount":93}
+{"id":"100824","name":"Черемушки","lat":"55.11721900000","long":"92.21727200000","price":139875,"hotelsCount":0,"ticketsCount":148}
+{"id":"101312","name":"Черемхово","lat":"53.14347400000","long":"103.06604200000","price":81660,"hotelsCount":2,"ticketsCount":145}
+{"id":"101233","name":"Черный Яр","lat":"48.05748600000","long":"46.10508700000","price":21821,"hotelsCount":2,"ticketsCount":4}
+{"id":"101343","name":"Чертовицы","lat":"51.81713600000","long":"39.26474800000","price":40778,"hotelsCount":1,"ticketsCount":7}
+{"id":"61191","name":"Чистополь","lat":"55.36546400000","long":"50.62116000000","price":33590,"hotelsCount":9,"ticketsCount":183}
+{"id":"101103","name":"Чистые Пруды","lat":"54.45441400000","long":"22.43229200000","price":35029,"hotelsCount":2,"ticketsCount":194}
+{"id":"2412","name":"Чита","lat":"52.04823100000","long":"113.48223100000","price":96949,"hotelsCount":0,"ticketsCount":173}
+{"id":"21056","name":"Чудово","lat":"59.13307700000","long":"31.70194600000","price":41649,"hotelsCount":0,"ticketsCount":7}
+{"id":"101719","name":"Чумбур-Коса","lat":"46.95856200000","long":"38.90550400000","price":40139,"hotelsCount":0,"ticketsCount":168}
+{"id":"102014","name":"Чупа","lat":"66.26904300000","long":"33.03915200000","price":34988,"hotelsCount":0,"ticketsCount":33}
+{"id":"101815","name":"Чусовой","lat":"58.30250000000","long":"57.64941000000","price":53127,"hotelsCount":0,"ticketsCount":80}
+{"id":"101146","name":"Шапсугская","lat":"44.74656200000","long":"38.08019500000","price":24098,"hotelsCount":35,"ticketsCount":367}
+{"id":"21169","name":"Шарья","lat":"58.36476600000","long":"45.52733600000","price":19029,"hotelsCount":0,"ticketsCount":20}
+{"id":"60937","name":"Шахты","lat":"47.69709800000","long":"40.23972600000","price":22684,"hotelsCount":3,"ticketsCount":177}
+{"id":"101174","name":"Шелехов","lat":"52.20459600000","long":"104.09678600000","price":81660,"hotelsCount":2,"ticketsCount":145}
+{"id":"101131","name":"Шемордан","lat":"56.18603800000","long":"50.40185800000","price":33590,"hotelsCount":9,"ticketsCount":183}
+{"id":"101721","name":"Шиповка","lat":"54.74135700000","long":"20.18900500000","price":35029,"hotelsCount":2,"ticketsCount":194}
+{"id":"101069","name":"Широкая Балка","lat":"44.65032600000","long":"37.70569200000","price":24098,"hotelsCount":36,"ticketsCount":216}
+{"id":"101057","name":"Шлиссельбург","lat":"59.93483500000","long":"31.02987400000","price":15091,"hotelsCount":143,"ticketsCount":156}
+{"id":"101949","name":"Шолохово","lat":"54.84264200000","long":"21.21159300000","price":35029,"hotelsCount":2,"ticketsCount":194}
+{"id":"101953","name":"Щегловка","lat":"55.07675300000","long":"21.64718200000","price":35029,"hotelsCount":2,"ticketsCount":194}
+{"id":"102080","name":"Эльтон","lat":"49.13031900000","long":"46.77416600000","price":37381,"hotelsCount":0,"ticketsCount":19}
+{"id":"16935","name":"Энгельс","lat":"51.47676300000","long":"46.09795100000","price":42094,"hotelsCount":0,"ticketsCount":0}
+{"id":"101822","name":"Эртиль","lat":"51.86074700000","long":"40.82384500000","price":40778,"hotelsCount":1,"ticketsCount":7}
+{"id":"101692","name":"Эссойла","lat":"61.84805700000","long":"33.21421300000","price":34988,"hotelsCount":0,"ticketsCount":33}
+{"id":"102118","name":"Южно-Курилск","lat":"44.03878700000","long":"145.85158700000","price":75748,"hotelsCount":0,"ticketsCount":112}
+{"id":"4735","name":"Южно-Сахалинск","lat":"46.91264500000","long":"142.78688700000","price":70984,"hotelsCount":4,"ticketsCount":112}
+{"id":"101156","name":"Южноуральск","lat":"54.43940800000","long":"61.24659000000","price":32282,"hotelsCount":3,"ticketsCount":73}
+{"id":"101001","name":"Южный","lat":"44.06239900000","long":"39.12159500000","price":30117,"hotelsCount":24,"ticketsCount":187}
+{"id":"101776","name":"Ягодное","lat":"53.60320700000","long":"49.08809000000","price":22960,"hotelsCount":4,"ticketsCount":180}
+{"id":"100996","name":"Якорная щель","lat":"43.76343400000","long":"39.50691000000","price":30117,"hotelsCount":24,"ticketsCount":187}
+{"id":"3608","name":"Якутск","lat":"62.05834700000","long":"129.73838600000","price":67345,"hotelsCount":4,"ticketsCount":17}
+{"id":"43932","name":"Ялта","lat":"44.49900000000","long":"34.15520000000","price":27538,"hotelsCount":8,"ticketsCount":357}
+{"id":"100893","name":"Янтарный","lat":"54.86848900000","long":"19.95002000000","price":35029,"hotelsCount":3,"ticketsCount":194}
+{"id":"101701","name":"Яшезеро","lat":"61.32649000000","long":"34.95974300000","price":34988,"hotelsCount":0,"ticketsCount":33}
